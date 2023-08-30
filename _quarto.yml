@@ -3,50 +3,42 @@ project:
   output-dir: docs
   
 website:
-  page-navigation: true
-  title: "Hello, I'm Chi"
-  site-url: https://andreaczhang.github.io
-  repo-url: https://github.com/andreaczhang/andreaczhang.github.io
+  page-navigation: false
+  title: ""
+  site-url: https://meghapatnaik.github.io
+  repo-url: https://github.com/meghapatnaik/meghapatnaik.github.io
   repo-actions: [edit, issue]
   
   page-footer: 
-    left: "&copy; Copyright 2023, Chi Zhang"
-    right: 
-      - icon: github
-        href: https://github.com/andreaczhang/andreaczhang.github.io
-      - icon: twitter
-        href: https://twitter.com/Andreasheenn
+    left:
+      - text: "Quarto resource: Chi Zhang"
+        href: "https://github.com/andreaczhang"
+
+
+    right: ""
 
   navbar: 
-    background: "#A9CCE3"
+    background: "#B76E79"
     search: true
     right: 
-      - text: "Projects"
-        href: projects/projects.qmd
+      - text: "Home"
+        href: index.qmd
+
+      - text: "Research"
+        href: research.qmd
       
       - text: "Teaching"
-        href: teaching/teaching.qmd
-        
-      - text: "R packages"
-        href: rpkg/rpkg.qmd
-           
-      - text: "Talks"
-        href: talks/talks.qmd
+        href: teaching.qmd
 
-      - text: "Blog/notes"
-        href: blog/blog.qmd
-        
-      - text: "About"
-        menu: 
-          - text: "About me"
-            href: about_me.qmd
-          - text: "CV"
-            href: misc/info/CV_Chi_Zhang.pdf
+      - text: "Media"
+        href: media.qmd
 
+      - text: "MOPS"
+        href: https://managementresearch.com/
 
 format:
   html:
-    theme: [cosmo, styles.scss]
+    theme: [lux, styles.scss]
     mainfont: "Atkinson Hyperlegible"
 
 
