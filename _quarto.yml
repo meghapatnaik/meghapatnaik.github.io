@@ -8,6 +8,7 @@ website:
   site-url: https://meghapatnaik.github.io
   repo-url: https://github.com/meghapatnaik/meghapatnaik.github.io
   repo-actions: [edit, issue]
+  google-analytics: "G-NKDVPVC5SW"
   
   page-footer: 
     left:
