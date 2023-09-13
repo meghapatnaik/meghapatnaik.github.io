@@ -1,6 +1,6 @@
 ## 2023
 
-**Economics from Space (PhD in Economics)**, *LUISS Guido Carli*  [Sample code](https://www.dropbox.com/scl/fi/qchz2re3mx77hjb899bpw/nightlights_korea.jl?rlkey=raob45i2f3wtfp4426pqrohiw&dl=0)
+**Economics from Space (PhD in Economics)**, *LUISS Guido Carli* [Sample code](teaching/nightlights_korea.jl)
 
 **Machine Learning in Finance (Masters in Finance)**, *LUISS Guido Carli*
 
