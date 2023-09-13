@@ -34,7 +34,6 @@ korea_nl[korea_nl .> threshold] .= threshold
 plot(korea_nl) 
 
 # adding the SK border
-# get boundary of the country India
 southkorea = GADM.get("KOR")
 southkorea_border = southkorea.geom
 
