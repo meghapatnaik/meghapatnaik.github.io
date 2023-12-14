@@ -21,7 +21,7 @@
 
 **Management and Remote work**  
 (with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)
-[Slides](research/MOPS_and_WFH_patnaik20mins.pdf)
+[Slides](research/MOPS_WFH_patnaik.pdf)
 
 
 ## Short publications
