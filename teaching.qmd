@@ -1,3 +1,6 @@
+## 2024
+**Economics from Outer Space (Undergraduate Economics)**, *Stanford University* 
+
 ## 2023
 
 **Satellite Data in Julia (PhD in Economics)**, *LUISS Guido Carli* [Sample code](teaching/nightlights_korea.jl)
