@@ -3,7 +3,7 @@
 
 ## 2023
 
-**Satellite Data in Julia (PhD in Economics)**, *LUISS Guido Carli* [Sample code](teaching/nightlights_korea.jl)
+**Satellite Data in Julia (PhD in Economics)**, *LUISS Guido Carli* 
 
 **Machine Learning in Finance (Masters in Finance)**, *LUISS Guido Carli*
 
