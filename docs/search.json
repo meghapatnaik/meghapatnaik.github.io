@@ -93,9 +93,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Megha Patnaik",
+    "title": "",
     "section": "",
-    "text": "mpatnaik@luiss.it\n  \n  \n    \n     megonomista\n  \n  \n    \n     meghapatnaik\n  \n\n  \n  \nWelcome!\nI am an Assistant Professor (tenure track) at the Department of Economics and Finance, LUISS Guido Carli in Rome, and a research affiliate at CEPR. I received my Ph.D. in Economics from Stanford University in 2017. Here is my CV.\nMy research interests include management, entrepreneurship, machine learning and open source big data techniques. I am also part of the Network of Women in Data Science & Social Science.\nVisiting Stanford University Spring 2024."
+    "text": "mpatnaik@luiss.it\n  \n  \n    \n     megonomista\n  \n  \n    \n     meghapatnaik\n  \n\n  \n  \nWelcome!\nI am an Assistant Professor (tenure track) at the Department of Economics and Finance, LUISS Guido Carli in Rome, and a research affiliate at CEPR. I received my Ph.D. in Economics from Stanford University in 2017. Here is my CV.\nMy research interests include management, entrepreneurship, machine learning and open source big data techniques. I am cofounder of Leap Insights and part of the Network of Women in Data Science & Social Science.\nVisiting Stanford University Spring 2024."
   },
   {
     "objectID": "media.html",
@@ -103,5 +103,12 @@
     "title": "",
     "section": "",
     "text": "Fighting COVID-19 in India (LUISS Open, 11 May 2021) English Italian\nManagement practices boosted firm performance in COVID-19 by facilitating remote work: Evidence from Italy (VoxEU, May 1, 2021) Link\nJust how big is India’s creative economy? (LiveMint, 29 June 2020) Link\nPoverty beyond data (The Citizen, 23 May 2020) Link\nFacebook-Jio deal has reignited questions on digital economy, centrality of data (Financial Express, 16 May 2020) Link\nRide the tech wave (Daily Pioneer, 1 November 2019) Link\nNo vague spaces online (Daily Pioneer, 6 September 2019) Link\nPolicy Uncertainty in Indian e-commerce (The Leap Blog, 27 August 2019) Link\nWhy women must work (Daily Pioneer, 28 June 2019) Link\nHow India must fight the battle against piracy (Business Standard, 18 June 2019) Link\nManagement and Productivity in India (Ideas for India, 15 March 2018) Link\n‘Nudging’ people to make better choices (Business Standard, 11 October 2017) Link\nAdding a piece to the productivity puzzle: Management practices (VoxEU, 17 May 2017) Link\nWhat Drives Differences in Management? (Harvard Law School Forum on Corporate Governance and Financial Regulation, 12 May 2017) Link\nHow to manage those who manage our money (Financial Express, 23 September 2009) Link\nA smart omission of commission (Financial Express, 15 August 2009) Link"
+  },
+  {
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "Bio",
+    "section": "",
+    "text": "Bio\nMegha Patnaik is an Assistant Professor in the Department of Economics & Finance at LUISS Guido Carli University and a Research Affiliate at the Centre for Economic Policy Research. Her research interests include management, entrepreneurship, machine learning and open-source big data.\nShe holds a Ph.D. from Stanford University, an M.Sc. from the London School of Economics, and a B.Sc. from St. Stephen’s College, University of Delhi. Her work has been published in the American Economic Review and Management Science. She is the recipient of the Kapnick Scholarship from SIEPR, the Kauffman Dissertation Award and the LUISS teaching excellence award.\nPreviously, she has held positions at the Indian Statistical Institute and the Esya Centre, and worked as a data science consultant at Intuit, Britannia, and Ambit Capital. She is cofounder of Leap insights and part of the Network of Women in Data Science & Social Science"
   }
 ]

@@ -1,0 +1,18 @@
+# Bio
+
+---
+title: ""
+image: misc/info/megha_biopic.jpg
+about:
+  id: hero-heading
+  template: broadside
+  image-shape: rectangle
+
+---
+
+Megha Patnaik is an Assistant Professor in the Department of Economics & Finance at LUISS Guido Carli University and a Research Affiliate at the Centre for Economic Policy Research. Her research interests include management, entrepreneurship, machine learning and open-source big data. 
+
+She holds a Ph.D.  from Stanford University, an M.Sc. from the London School of Economics, and a B.Sc. from St. Stephen's College, University of Delhi. Her work has been published in the American Economic Review and Management Science. She is the recipient of  the Kapnick Scholarship from SIEPR, the Kauffman Dissertation Award and the LUISS teaching excellence award. 
+
+Previously, she has held positions at the Indian Statistical Institute and the Esya Centre, and worked as a data science consultant at Intuit, Britannia, and Ambit Capital. She is cofounder of [Leap insights](https://leap-insights.org/) and part of the [Network of Women in Data Science & Social Science](https://sites.google.com/view/windsnetwork)
+

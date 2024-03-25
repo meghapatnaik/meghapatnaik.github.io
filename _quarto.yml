@@ -25,6 +25,9 @@ website:
       - text: "Home"
         href: index.qmd
 
+      - text: "Bio"
+        href: bio.qmd
+
       - text: "Research"
         href: research.qmd
       
