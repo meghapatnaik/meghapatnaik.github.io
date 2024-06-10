@@ -83,7 +83,7 @@ This is an introductory-level course in supervised machine learning, with a focu
 ::: {.columns}
 ::: {.column width="40%"}
 ### Topics in Big Data
-2020. Instructor. PhD elective.
+2020, Instructor. PhD elective.
 :::
 
 ::: {.column width="60%"}
