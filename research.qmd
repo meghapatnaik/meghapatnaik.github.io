@@ -5,26 +5,39 @@
 **What Drives Differences in Management Practices?**  
 (with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen)  
 *American Economic Review, May 2019* 
-[Paper & Online Appendix](https://www.aeaweb.org/articles?id=10.1257/aer.20170491)
+[Paper and Online Appendix](https://www.aeaweb.org/articles?id=10.1257/aer.20170491)
 [MDP data](https://drive.google.com/file/d/1Q20TCarWo9sWF6am7JvEtEflkAc1zG5z/view)
+
+
 
 **Does Management Matter in COVID Times?**  
 (with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)  
-*Management Science, May 2024* [Paper & Online Appendix](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341)
-
-## Working papers
-
-**The impact of FDIC failed bank resolutions on small business credit**  
-*Under Review* [Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
+*Management Science, May 2024* [Paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf)
 
 ## Work in progress
 
 **The Natural Laws of Management**  
-(with with Scott Ohlmacher, Daniela Scur, Lucia Foster et al) [Slides](https://www.johnvanreenen.com/_files/ugd/b451bf_bd913306353742ebad3898f0e216b80b.pdf)
+(with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.) 
+*Submitted*  [Slides](https://www.johnvanreenen.com/_files/ugd/b451bf_77b15aa3c4044bd091f24449b103ab6a.pdf)
+
+**The impact of FDIC failed bank resolutions on small business credit**  
+*Under Review* [Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
 
 **Management and Remote work**  
 (with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)
 [Slides](research/MOPS_WFH_patnaik.pdf)
+
+**Big India vs. Big U.S.**
+(with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)
+
+**Black and Green Mergers**
+(with Emanuele Tarantino and Alessandro Ciferri)
+
+**Who speaks for the poor in Karnataka?**
+(with Yashaswini Shekhawat and Jeff Hammer) [Slides](research/patnaik_isi.pdf)
+
+**Champagne Spillovers**
+(with Jonathan Victor Dries)
 
 ## Short publications
 
@@ -36,6 +49,11 @@
 *Review of Economic Research on Copyright Issues, 2020* [Link](http://www.serci.org/rerci_files/2020/patnaik.pdf)
 
 ## Policy publications
+
+**Batting ahead: Management, innovation and the future of Indian manufacturing** *(CTIER report, May 2024)* 
+[Link](https://www.ctier.org/pdf-event/Batting-Ahead-Management-Innovation-and-the-Future-of-Indian-Manufacturing.pdf)
+[Slides](docs/research/SpeSeIndianEcon_Slides.pdf)
+[Video](https://www.youtube.com/watch?v=j9-CcVzsx68&t=1406s)
 
 **Trends in Copyright Infringement and Enforcement** *(Esya Centre monograph, Dec 2019)* [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5dee10b8af06d83e3e65ed2b/1575882943779/Esya+Centre+-+Copyright+Infringement+and+Enforcement.pdf)
 
