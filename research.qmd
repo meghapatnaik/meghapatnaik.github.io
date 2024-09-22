@@ -11,7 +11,7 @@
 **Compulsory Licensing for Radio-play of Music in India**  
 *Review of Economic Research on Copyright Issues, 2020* [Link](http://www.serci.org/rerci_files/2020/patnaik.pdf)
 
-**Does Management Matter in COVID Times?**  
+**Management Practices and Resilience to Shocks: Evidence from COVID-19**  
 (with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)  
 *Management Science, May 2024* [Paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf)
 
@@ -35,8 +35,6 @@
 (with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)
 [Slides](research/MOPS_WFH_patnaik.pdf)
 
-**Tax, Lies and Redtape**
-
 **Big India vs. Big U.S.**
 (with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)
 
@@ -46,19 +44,28 @@
 **Black and Green Mergers**
 (with Emanuele Tarantino and Alessandro Ciferri)
 
+**Tax, Lies and Redtape**
+
 ## Policy reports & reviews
 
-**The Importance of Structured Management Practices**
+**The Importance of Structured Management Practices**  
 (with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen)   
 *MIT Sloan Management Review, April 18, 2017* [Link](https://sloanreview.mit.edu/article/the-importance-of-structured-management-practices/)
 
-**Trends in Copyright Infringement and Enforcement** *(Esya Centre monograph, Dec 2019)* [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5dee10b8af06d83e3e65ed2b/1575882943779/Esya+Centre+-+Copyright+Infringement+and+Enforcement.pdf)
+**Trends in Copyright Infringement and Enforcement**  
+(with Shohini Sengupta and Aishwarya Giridhar)  
+*Esya Centre monograph, Dec 2019* [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5dee10b8af06d83e3e65ed2b/1575882943779/Esya+Centre+-+Copyright+Infringement+and+Enforcement.pdf)
 
-**Measuring India's Creative Economy** *(Esya Centre monograph, June 2020)* [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5f6997b2bbcbb517defa2dc5/1600755638116/REPORT_E-Retail_Issue-004_Sept_2020.pdf)
+**Measuring India's Creative Economy**   
+*Esya Centre monograph, June 2020* [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5ee8cea5acd94f5192055e99/1596006460114/Issue+003+-+Esya+-+Measuring+Indias+Creative+Economy.pdf)
 
-**E-retail, consumer demand & the road to recovery** *(Esya Centre monograph, Sept 2020)* [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5f6997b2bbcbb517defa2dc5/1600755638116/REPORT_E-Retail_Issue-004_Sept_2020.pdf)
+**E-retail, consumer demand & the road to recovery**   
+(with Mohit Chawdhry)  
+*Esya Centre monograph, Sept 2020* [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5f6997b2bbcbb517defa2dc5/1600755638116/REPORT_E-Retail_Issue-004_Sept_2020.pdf)
 
-**Batting ahead: Management, innovation and the future of Indian manufacturing** *(CTIER report, May 2024)* 
+**Batting ahead: Management, innovation and the future of Indian manufacturing**   
+(with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok, Janak Nabar)  
+*CTIER report, May 2024*    
 [Link](https://www.ctier.org/pdf-event/Batting-Ahead-Management-Innovation-and-the-Future-of-Indian-Manufacturing.pdf)
 [Slides](docs/research/SpeSeIndianEcon_Slides.pdf)
 [Video](https://www.youtube.com/watch?v=j9-CcVzsx68&t=1406s)
