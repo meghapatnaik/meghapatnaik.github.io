@@ -7,7 +7,7 @@ title: "Teaching"
 ::: {.columns}
 ::: {.column width="40%"}
 ### Economics from Outer Space
-Spring 2024, Instructor. Undergraduate elective.
+2024, Instructor. Undergraduate elective.
 :::
 
 ::: {.column width="60%"}
@@ -28,7 +28,7 @@ I am a recipient of the 2022 Luiss Teaching Excellence Award.
 ::: {.columns}
 ::: {.column width="40%"}
 ### Satellite Data in Julia
-2024, Instructor. PhD elective.
+2023, Instructor. PhD elective.
 :::
 
 ::: {.column width="60%"}
@@ -41,7 +41,7 @@ This course gives students a broad base of knowledge of how satellite data can b
 ::: {.columns}
 ::: {.column width="40%"}
 ### Machine learning for Finance
-2023 & 2024, Instructor. Masters elective/core
+2021-2024, Instructor. Masters elective/core
 :::
 
 ::: {.column width="60%"}

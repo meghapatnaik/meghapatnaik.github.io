@@ -1,6 +1,6 @@
 # Research
 
-## Published Papers
+## Publications
 
 **What Drives Differences in Management Practices?**  
 (with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen)  
@@ -8,52 +8,49 @@
 [Paper and Online Appendix](https://www.aeaweb.org/articles?id=10.1257/aer.20170491)
 [MDP data](https://drive.google.com/file/d/1Q20TCarWo9sWF6am7JvEtEflkAc1zG5z/view)
 
-
+**Compulsory Licensing for Radio-play of Music in India**  
+*Review of Economic Research on Copyright Issues, 2020* [Link](http://www.serci.org/rerci_files/2020/patnaik.pdf)
 
 **Does Management Matter in COVID Times?**  
 (with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)  
 *Management Science, May 2024* [Paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf)
 
-## Work in progress
+## Working papers
 
 **The Natural Laws of Management**  
-(with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.) 
-*Submitted*  [Slides](https://www.johnvanreenen.com/_files/ugd/b451bf_77b15aa3c4044bd091f24449b103ab6a.pdf)
+(with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)  
+*Revise & Resubmit at the Proceedings of the National Academy of Sciences* 
+[Slides](https://www.johnvanreenen.com/_files/ugd/b451bf_77b15aa3c4044bd091f24449b103ab6a.pdf)
 
 **The impact of FDIC failed bank resolutions on small business credit**  
 *Under Review* [Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
 
-**Management and Remote work**  
+## Work in progress
+
+**Predicting ESG Ratings using Machine Learning on a global panel of firms**  
+(with João Pedro Gaier Ribeiro)  
+*Preparing for Submission* 
+
+**Management and Remote Work**  
 (with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)
 [Slides](research/MOPS_WFH_patnaik.pdf)
+
+**Tax, Lies and Redtape**
 
 **Big India vs. Big U.S.**
 (with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)
 
-**Black and Green Mergers**
-(with Emanuele Tarantino and Alessandro Ciferri)
-
 **Who speaks for the poor in Karnataka?**
 (with Yashaswini Shekhawat and Jeff Hammer) [Slides](research/patnaik_isi.pdf)
 
-**Champagne Spillovers**
-(with Jonathan Victor Dries)
+**Black and Green Mergers**
+(with Emanuele Tarantino and Alessandro Ciferri)
 
-## Short publications
+## Policy reports & reviews
 
 **The Importance of Structured Management Practices**
 (with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen)   
 *MIT Sloan Management Review, April 18, 2017* [Link](https://sloanreview.mit.edu/article/the-importance-of-structured-management-practices/)
-
-**Compulsory Licensing for Radio-play of Music in India**  
-*Review of Economic Research on Copyright Issues, 2020* [Link](http://www.serci.org/rerci_files/2020/patnaik.pdf)
-
-## Policy briefs
-
-**Batting ahead: Management, innovation and the future of Indian manufacturing** *(CTIER report, May 2024)* 
-[Link](https://www.ctier.org/pdf-event/Batting-Ahead-Management-Innovation-and-the-Future-of-Indian-Manufacturing.pdf)
-[Slides](docs/research/SpeSeIndianEcon_Slides.pdf)
-[Video](https://www.youtube.com/watch?v=j9-CcVzsx68&t=1406s)
 
 **Trends in Copyright Infringement and Enforcement** *(Esya Centre monograph, Dec 2019)* [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5dee10b8af06d83e3e65ed2b/1575882943779/Esya+Centre+-+Copyright+Infringement+and+Enforcement.pdf)
 
@@ -61,5 +58,8 @@
 
 **E-retail, consumer demand & the road to recovery** *(Esya Centre monograph, Sept 2020)* [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5f6997b2bbcbb517defa2dc5/1600755638116/REPORT_E-Retail_Issue-004_Sept_2020.pdf)
 
-
+**Batting ahead: Management, innovation and the future of Indian manufacturing** *(CTIER report, May 2024)* 
+[Link](https://www.ctier.org/pdf-event/Batting-Ahead-Management-Innovation-and-the-Future-of-Indian-Manufacturing.pdf)
+[Slides](docs/research/SpeSeIndianEcon_Slides.pdf)
+[Video](https://www.youtube.com/watch?v=j9-CcVzsx68&t=1406s)
 
