@@ -15,12 +15,12 @@
 (with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)  
 *Management Science, May 2024* [Paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf)
 
+
 ## Working papers
 
 **The Natural Laws of Management**  
 (with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)  
-*Revise & Resubmit at the Proceedings of the National Academy of Sciences* 
-[Slides](https://www.johnvanreenen.com/_files/ugd/b451bf_77b15aa3c4044bd091f24449b103ab6a.pdf)
+*Provisional Approval at the Proceedings of the National Academy of Sciences* 
 
 **The impact of FDIC failed bank resolutions on small business credit**  
 *Under Review* [Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
@@ -38,10 +38,13 @@
 **Big India vs. Big U.S.**
 (with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)
 
-**Who speaks for the poor in Karnataka?**
+**Family Sucession in Firms**   
+(with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Daniela Scur & Fabiano Schivardi)
+
+**Who speaks for the poor in Karnataka?**  
 (with Yashaswini Shekhawat and Jeff Hammer) [Slides](research/patnaik_isi.pdf)
 
-**Black and Green Mergers**
+**Black and Green Mergers**  
 (with Emanuele Tarantino and Alessandro Ciferri)
 
 **Tax, Lies and Redtape**
