@@ -27,27 +27,27 @@
 
 ## Work in progress
 
-**Predicting ESG Ratings using Machine Learning on a global panel of firms**  
-(with João Pedro Gaier Ribeiro)  
-*Preparing for Submission* 
+**Big India vs. Big U.S.**  
+(with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)
 
 **Management and Remote Work**  
 (with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)
 [Slides](research/MOPS_WFH_patnaik.pdf)
 
-**Big India vs. Big U.S.**
-(with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)
-
 **Family Sucession in Firms**   
 (with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Daniela Scur & Fabiano Schivardi)
 
-**Who speaks for the poor in Karnataka?**  
-(with Yashaswini Shekhawat and Jeff Hammer) [Slides](research/patnaik_isi.pdf)
+**Predicting ESG Ratings using Machine Learning on a global panel of firms**  
+(with João Pedro Gaier Ribeiro)  
+*Preparing for Submission* 
 
 **Black and Green Mergers**  
 (with Emanuele Tarantino and Alessandro Ciferri)
 
 **Tax, Lies and Redtape**
+
+**Who speaks for the poor?**  
+(with Yashaswini Shekhawat and Jeff Hammer) [Slides](research/patnaik_isi.pdf)
 
 ## Policy reports & reviews
 
