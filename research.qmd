@@ -20,7 +20,7 @@
 
 **The International Empirics of Management**  
 (with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)  
-*Provisional Approval at the Proceedings of the National Academy of Sciences* 
+*Forthcoming at the Proceedings of the National Academy of Sciences* 
 
 **The impact of FDIC failed bank resolutions on small business credit**  
 *Under Review* [Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
@@ -35,7 +35,7 @@
 [Slides](research/MOPS_WFH_patnaik.pdf)
 
 **Family Sucession in Firms**   
-(with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Daniela Scur & Fabiano Schivardi)
+(with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Fabiano Schivardi & Daniela Scur)
 
 **Predicting ESG Ratings using Machine Learning on a global panel of firms**  
 (with João Pedro Gaier Ribeiro)  
