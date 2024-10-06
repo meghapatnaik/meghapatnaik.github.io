@@ -15,31 +15,32 @@
 (with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)  
 *Management Science, May 2024* [Paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf)
 
-
-## Working papers
-
 **The International Empirics of Management**  
 (with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)  
 *Forthcoming at the Proceedings of the National Academy of Sciences* 
 
+
+## Working papers
+
+
 **The impact of FDIC failed bank resolutions on small business credit**  
 *Under Review* [Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
+
+**Management and Remote Work**  
+(with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)
+[Slides](research/MOPS_WFH_patnaik.pdf)
+
+**Predicting ESG Ratings using Machine Learning on a global panel of firms**  
+(with João Pedro Gaier Ribeiro)  
+*Preparing for Submission* 
 
 ## Work in progress
 
 **Big India vs. Big U.S.**  
 (with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)
 
-**Management and Remote Work**  
-(with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)
-[Slides](research/MOPS_WFH_patnaik.pdf)
-
-**Family Sucession in Firms**   
+**Family Sucession in Firms: Evidence from Italy and Germany**   
 (with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Fabiano Schivardi & Daniela Scur)
-
-**Predicting ESG Ratings using Machine Learning on a global panel of firms**  
-(with João Pedro Gaier Ribeiro)  
-*Preparing for Submission* 
 
 **Black and Green Mergers**  
 (with Emanuele Tarantino and Alessandro Ciferri)
