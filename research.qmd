@@ -2,26 +2,30 @@
 
 ## Publications
 
-**What Drives Differences in Management Practices?**  
-(with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen)  
-*American Economic Review, May 2019* 
-[Paper and Online Appendix](https://www.aeaweb.org/articles?id=10.1257/aer.20170491)
-[MDP data](https://drive.google.com/file/d/1Q20TCarWo9sWF6am7JvEtEflkAc1zG5z/view)
-
-**Compulsory Licensing for Radio-play of Music in India**  
-*Review of Economic Research on Copyright Issues, 2020* [Paper](http://www.serci.org/rerci_files/2020/patnaik.pdf)
+**The International Empirics of Management**  
+(with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)  
+*Proceedings of the National Academy of Sciences, November 2024*  
+[Paper](https://www.pnas.org/doi/10.1073/pnas.2412205121) 
+[Online Appendix](https://www.pnas.org/doi/suppl/10.1073/pnas.2412205121/suppl_file/pnas.2412205121.sapp.pdf)
+[Replication Package](https://zenodo.org/records/13886455)
 
 **Management Practices and Resilience to Shocks: Evidence from COVID-19**  
 (with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)  
-*Management Science, May 2024* [Paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf) 
+*Management Science, May 2024*  
+[Paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf) 
 [Replication Package](https://services.informs.org/dataset/mnsc/download.php?doi=mnsc.2021.01341)
 
+**Compulsory Licensing for Radio-play of Music in India**  
+*Review of Economic Research on Copyright Issues, 2020*  
+[Paper](http://www.serci.org/rerci_files/2020/patnaik.pdf)
 
-**The International Empirics of Management**  
-(with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)  
-*Proceedings of the National Academy of Sciences* [Paper](https://www.pnas.org/doi/10.1073/pnas.2412205121) 
-[Online Appendix](https://www.pnas.org/doi/suppl/10.1073/pnas.2412205121/suppl_file/pnas.2412205121.sapp.pdf)
-[Replication Package](https://zenodo.org/records/13886455)
+**What Drives Differences in Management Practices?**  
+(with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen)  
+*American Economic Review, May 2019*   
+[Paper](https://www.aeaweb.org/articles?id=10.1257/aer.20170491) [Online Appendix](https://www.aeaweb.org/content/file?id=9540) [Replication Package](https://www.openicpsr.org/openicpsr/project/113183/version/V1/view)
+[MDP data](https://drive.google.com/file/d/1Q20TCarWo9sWF6am7JvEtEflkAc1zG5z/view)
+
+
 
 
 ## Working papers
