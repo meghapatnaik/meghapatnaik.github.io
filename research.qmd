@@ -17,7 +17,8 @@
 
 **The International Empirics of Management**  
 (with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)  
-*Forthcoming at the Proceedings of the National Academy of Sciences* 
+*Proceedings of the National Academy of Sciences* [Paper](https://www.pnas.org/doi/10.1073/pnas.2412205121) 
+[Replication Package](https://zenodo.org/records/13886455)
 
 
 ## Working papers
