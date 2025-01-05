@@ -35,7 +35,6 @@
 [Slides](research/bigindia_vs_bigus.pdf)
 
 
-
 **Management and Remote Work**  
 (with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)  
 [Slides](research/MOPS_WFH_patnaik.pdf)
@@ -52,14 +51,15 @@
 
 **Predicting ESG Ratings using Machine Learning on a global panel of firms**  
 (with João Pedro Gaier Ribeiro)  
-*Preparing for Submission* 
+*Submitted* 
 
 **Family Succession in Firms: Evidence from Italy and Germany**   
 (with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Fabiano Schivardi & Daniela Scur)
 
-
 **Tax, Lies and Redtape**
 
+**Copyright and Optimal Fair Use**  
+(with Tanay Raj Bhatt)
 
 
 ## Policy reports & reviews
