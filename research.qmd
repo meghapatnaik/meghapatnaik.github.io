@@ -44,8 +44,8 @@
 
 
 **Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees’ Work-from-Home Preferences**  
+(with Beata Wozniak-Jechorek, Amanda Sahar d’Urso  & Chloe Thurston)  
 *Revise and Resubmit, Journal of Strategic Information Systems*  
-(with Beata Wozniak-Jechorek, Amanda Sahar d’Urso  & Chloe Thurston) 
 
 
 **Predicting ESG Ratings using Machine Learning on a global panel of firms**  
