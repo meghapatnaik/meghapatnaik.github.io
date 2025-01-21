@@ -42,9 +42,10 @@
 *Reject and Resubmit, Review of Finance*  
 [Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
 
-**Who speaks for the poor?**  
-(with Yashaswini Shekhawat and Jeff Hammer)  
-[Slides](research/patnaik_isi.pdf)
+
+**Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees’ Work-from-Home Preferences**  
+*Revise and Resubmit, Journal of Strategic Information Systems*  
+(with Beata Wozniak-Jechorek, Amanda Sahar d’Urso  & Chloe Thurston) 
 
 
 **Predicting ESG Ratings using Machine Learning on a global panel of firms**  
@@ -54,14 +55,17 @@
 **Family Succession in Firms: Evidence from Italy and Germany**   
 (with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Fabiano Schivardi & Daniela Scur)
 
+
 **Tax, Lies and Redtape**
+
+
+**Who speaks for the poor?**  
+(with Yashaswini Shekhawat and Jeff Hammer)  
+[Slides](research/patnaik_isi.pdf)
+
 
 **Copyright and Optimal Fair Use**  
 (with Tanay Raj Bhatt)
-
-**Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees’ Work-from-Home Preferences**
-*Revise and Resubmit, Journal of Strategic Information Systems*
-(with Beata Wozniak-Jechorek, Amanda Sahar d’Urso  & Chloe Thurston) 
 
 
 ## Policy reports & reviews
