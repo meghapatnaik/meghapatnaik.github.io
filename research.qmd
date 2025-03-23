@@ -38,35 +38,47 @@
 [Slides](research/MOPS_WFH_patnaik.pdf)
 
 
-**The impact of FDIC failed bank resolutions on small business credit**  
-*Reject and Resubmit, Review of Finance*  
-[Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
-
-
-**Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees’ Work-from-Home Preferences**  
-(with Beata Wozniak-Jechorek, Amanda Sahar d’Urso  & Chloe Thurston)  
-*Revise and Resubmit, Journal of Strategic Information Systems*  
-
-
 **Predicting ESG Ratings using Machine Learning on a global panel of firms**  
 (with João Pedro Gaier Ribeiro)  
 *Reject and Resubmit, International Journal of Forecasting* 
-
-**Family Succession in Firms: Evidence from Italy and Germany**   
-(with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Fabiano Schivardi & Daniela Scur)
-
-
-**Tax, Lies and Redtape**
 
 
 **Who speaks for the poor?**  
 (with Yashaswini Shekhawat and Jeff Hammer)  
 [Slides](research/patnaik_isi.pdf)
+*Preparing for submission*
+
+
+**Management and Innovation**
+(with Claudia Nobile)
+
+
+**The impact of FDIC failed bank resolutions on small business credit**  
+*Reject and Resubmit, Review of Finance*  
+[Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
 
 
 **Copyright and Optimal Fair Use**  
 (with Tanay Raj Bhatt)
 
+
+**Tax, Lies and Redtape**
+
+
+**Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees’ Work-from-Home Preferences**  
+(with Beata Wozniak-Jechorek, Amanda Sahar d’Urso  & Chloe Thurston)  
+*Revise and Resubmit, Journal of Strategic Information Systems* 
+
+
+**Family Succession in Firms: Evidence from Italy and Germany**   
+(with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Fabiano Schivardi & Daniela Scur)
+
+
+**The economic impact of Million Dollar Plant openings**
+
+
+**Family Capital**
+(with Daniela Scur)
 
 ## Policy reports & reviews
 
