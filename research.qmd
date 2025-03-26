@@ -40,7 +40,7 @@
 
 **Predicting ESG Ratings using Machine Learning on a global panel of firms**  
 (with João Pedro Gaier Ribeiro)  
-*Reject and Resubmit, International Journal of Forecasting* 
+*Under review* 
 
 
 **Who speaks for the poor?**  
