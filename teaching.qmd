@@ -7,7 +7,7 @@ title: "Teaching"
 ::: {.columns}
 ::: {.column width="40%"}
 ### Economics from Outer Space
-2024, Instructor. Undergraduate elective.
+2024,2025: Instructor. Undergraduate elective.
 :::
 
 ::: {.column width="60%"}
