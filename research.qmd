@@ -32,12 +32,12 @@
 (with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)  
 [Slides](research/bigindia_vs_bigus.pdf)
 
+**Management in India**  
+(with Mert Akan, Nick Bloom, Pete Klenow and Janak Nabar)  
+
 **The impact of FDIC failed bank resolutions on small business credit**  
 *Reject and Resubmit, Review of Finance*  
 [Draft](https://drive.google.com/file/d/152d_ez2Ki7TFE7zsf4CgUfiGpHWYCH9k/view?usp=sharing)
-
-**Family Capital**
-(with Daniela Scur and Alessandra Allocca)
 
 **Management and Remote Work**  
 (with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)  
@@ -48,11 +48,6 @@
 [Slides](research/patnaik_isi.pdf)
 *Preparing for submission*
 
-**Management and Innovation**
-(with Claudia Nobile)
-
-**Tax, Lies and Redtape**
-
 **Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees’ Work-from-Home Preferences**  
 (with Beata Wozniak-Jechorek, Amanda Sahar d’Urso  & Chloe Thurston)  
 *Revise and Resubmit, Journal of Strategic Information Systems* 
@@ -61,14 +56,22 @@
 (with João Pedro Gaier Ribeiro)  
 *Under review* 
 
+**Copyright and Optimal Fair Use**  
+(with Tanay Raj Bhatt)
+
+**Tax, Lies and Redtape**
+
+**Management and Innovation**
+(with Claudia Nobile)
+
+ **Family Capital**
+(with Daniela Scur and Alessandra Allocca)
+
+
 **Family Succession in Firms: Evidence from Italy and Germany**   
 (with Alessandra Allocca, Florian Englmaier, Anna Gumpert, Fabiano Schivardi & Daniela Scur)
 
-
 **The economic impact of Million Dollar Plant openings**
-
-**Copyright and Optimal Fair Use**  
-(with Tanay Raj Bhatt)
 
 
 ## Policy reports & reviews
