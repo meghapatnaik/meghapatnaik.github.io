@@ -54,8 +54,7 @@
 
 **Predicting ESG Ratings using Machine Learning on a global panel of firms**  
 (with João Pedro Gaier Ribeiro)  
-*Under review* 
-
+ 
 **Copyright and Optimal Fair Use**  
 (with Tanay Raj Bhatt)
 
@@ -65,7 +64,7 @@
 (with Claudia Nobile)
 
  **Family Capital**
-(with Daniela Scur and Alessandra Allocca)
+(with Daniela Scur and Fabiano Schivardi) 
 
 
 **Family Succession in Firms: Evidence from Italy and Germany**   

@@ -37,8 +37,8 @@ website:
       - text: "Media"
         href: media.qmd
 
-      - text: "MOPS"
-        href: https://managementresearch.com/
+      - text: "LEAP"
+        href: https://leap-insights.org/
 
 format:
   html:
