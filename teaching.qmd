@@ -41,7 +41,7 @@ This course gives students a broad base of knowledge of how satellite data can b
 ::: {.columns}
 ::: {.column width="40%"}
 ### Machine learning for Finance
-2021-2024, Instructor. Masters elective/core
+2021-2025, Instructor. Masters elective/core
 :::
 
 ::: {.column width="60%"}
@@ -54,7 +54,7 @@ This course covers an introduction to supervised learning with specialization in
 ::: {.columns}
 ::: {.column width="40%"}
 ### Intermediate Microeconomics
-2021-2024, Instructor. Undergraduate core.
+2021-2025, Instructor. Undergraduate core.
 :::
 
 ::: {.column width="60%"}

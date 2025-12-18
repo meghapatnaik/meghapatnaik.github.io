@@ -34,7 +34,7 @@
 
 
 **Management in India**  
-(with Mert Akan, Nick Bloom, Pete Klenow and Janak Nabar)  
+(with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia and Janak Nabar)  
 
 
 **The impact of FDIC failed bank resolutions on small business credit**  
@@ -47,38 +47,30 @@
 [Slides](research/MOPS_WFH_patnaik.pdf)
 
 
-**Who speaks for the poor?**  
-(with Yashaswini Shekhawat and Jeff Hammer)  
-[Slides](research/patnaik_isi.pdf)
-*Preparing for submission*
-
-
 **Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees’ Work-from-Home Preferences**  
 (with Beata Wozniak-Jechorek, Amanda Sahar d’Urso  & Chloe Thurston)  
 *Revise and Resubmit, Journal of Strategic Information Systems* 
 
 
 **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**  
-(with Sara Casella & Kieran Larkin)
-
+(with Sara Casella & Kieran Larkin)  
+[Slides](research/female_hs_ls.pdf)
 
 **Tax, Lies and Redtape**
 
 
-**Management and Innovation**
-(with Claudia Nobile)
-
-
- **Family Capital**
-(with Alessandra Allocca, Fabiano Schivardi & Daniela Scur) 
-
-
 **Family Succession in Firms: Evidence from Italy**   
-(with Alessandra Allocca, Fabiano Schivardi & Daniela Scur)
+(with Alessandra Allocca & Fabiano Schivardi)
 
 
 **Copyright and Optimal Fair Use**  
 (with Tanay Raj Bhatt)
+
+
+**Who speaks for the poor?**  
+(with Yashaswini Shekhawat and Jeff Hammer)  
+[Slides](research/patnaik_isi.pdf)
+
 
 ## Policy reports & reviews
 
