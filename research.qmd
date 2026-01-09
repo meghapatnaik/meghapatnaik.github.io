@@ -44,65 +44,59 @@
 
 ## Work in Progress
 
-**Big India vs. Big U.S.**  
-(with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)  
+**Big India vs. Big U.S.**
+(with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)
 [Slides](research/bigindia_vs_bigus.pdf)
 
+**Management in India**
+(with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia and Janak Nabar)
 
-**Management in India**  
-(with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia and Janak Nabar)  
-
-
-**Management and Remote Work**  
-(with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)  
+**Management and Remote Work**
+(with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)
 [Slides](research/MOPS_WFH_patnaik.pdf)
 
-
-**Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**  
-(with Sara Casella & Kieran Larkin)  
+**Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**
+(with Sara Casella & Kieran Larkin)
 [Slides](research/female_hs_ls.pdf)
 
-
-**Who speaks for the poor?**  
-(with Yashaswini Shekhawat and Jeff Hammer)  
+**Who speaks for the poor?**
+(with Yashaswini Shekhawat and Jeff Hammer)
 [Slides](research/patnaik_isi.pdf)
 
 **Tax, Lies and Redtape**
 
-
-**Family Succession in Firms: Evidence from Italy**   
+**Family Succession in Firms: Evidence from Italy**
 (with Alessandra Allocca & Fabiano Schivardi)
 
-
-**Copyright and Optimal Fair Use**  
+**Copyright and Optimal Fair Use**
 (with Tanay Raj Bhatt)
 
 
 ## Policy reports & reviews
 
-**The Importance of Structured Management Practices**  
-(with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen)   
-*MIT Sloan Management Review, April 18, 2017*  
+**The Importance of Structured Management Practices**
+(with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen)
+*MIT Sloan Management Review, April 18, 2017*
 [Link](https://sloanreview.mit.edu/article/the-importance-of-structured-management-practices/)
 
-**Trends in Copyright Infringement and Enforcement**  
-(with Shohini Sengupta and Aishwarya Giridhar)  
-*Esya Centre monograph, Dec 2019*  
+**Trends in Copyright Infringement and Enforcement**
+(with Shohini Sengupta and Aishwarya Giridhar)
+*Esya Centre monograph, Dec 2019*
 [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5dee10b8af06d83e3e65ed2b/1575882943779/Esya+Centre+-+Copyright+Infringement+and+Enforcement.pdf)
 
-**Measuring India's Creative Economy**   
-*Esya Centre monograph, June 2020*  
+**Measuring India's Creative Economy**
+*Esya Centre monograph, June 2020*
 [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5ee8cea5acd94f5192055e99/1596006460114/Issue+003+-+Esya+-+Measuring+Indias+Creative+Economy.pdf)
 
-**E-retail, consumer demand & the road to recovery**   
-(with Mohit Chawdhry)  
-*Esya Centre monograph, Sept 2020*  
+**E-retail, consumer demand & the road to recovery**
+(with Mohit Chawdhry)
+*Esya Centre monograph, Sept 2020*
 [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5f6997b2bbcbb517defa2dc5/1600755638116/REPORT_E-Retail_Issue-004_Sept_2020.pdf)
 
-**Batting ahead: Management, innovation and the future of Indian manufacturing**   
-(with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok, Janak Nabar)  
-*CTIER report, May 2024*    
+**Batting ahead: Management, innovation and the future of Indian manufacturing**
+(with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok, Janak Nabar)
+*CTIER report, May 2024*
 [Link](https://www.ctier.org/pdf-event/Batting-Ahead-Management-Innovation-and-the-Future-of-Indian-Manufacturing.pdf)
-[Slides](docs/research/SpeSeIndianEcon_Slides.pdf)
+[Slides](research/SpeSeIndianEcon_Slides.pdf)
 [Video](https://www.youtube.com/watch?v=j9-CcVzsx68&t=1406s)
 
