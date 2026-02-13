@@ -2,101 +2,103 @@
 
 ## Publications
 
-**The International Empirics of Management**  
-(with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)  
-*Proceedings of the National Academy of Sciences, November 2024*  
-[Paper](https://www.pnas.org/doi/10.1073/pnas.2412205121) 
+**The International Empirics of Management**\
+(with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)\
+*Proceedings of the National Academy of Sciences, November 2024*\
+[Paper](https://www.pnas.org/doi/10.1073/pnas.2412205121)
 [Online Appendix](https://www.pnas.org/doi/suppl/10.1073/pnas.2412205121/suppl_file/pnas.2412205121.sapp.pdf)
 [Replication Package](https://zenodo.org/records/13886455)
 
-**Management Practices and Resilience to Shocks: Evidence from COVID-19**  
-(with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)  
-*Management Science, May 2024*  
-[Paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf) 
+**Management Practices and Resilience to Shocks: Evidence from COVID-19**\
+(with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)\
+*Management Science, May 2024*\
+[Paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01341) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf)
 [Replication Package](https://services.informs.org/dataset/mnsc/download.php?doi=mnsc.2021.01341)
 
-**Compulsory Licensing for Radio-play of Music in India**  
-*Review of Economic Research on Copyright Issues, 2020*  
+**Compulsory Licensing for Radio-play of Music in India**\
+*Review of Economic Research on Copyright Issues, 2020*\
 [Paper](http://www.serci.org/rerci_files/2020/patnaik.pdf)
 
-**What Drives Differences in Management Practices?**  
-(with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen)  
-*American Economic Review, May 2019*   
+**What Drives Differences in Management Practices?**\
+(with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen)\
+*American Economic Review, May 2019*\
 [Paper](https://www.aeaweb.org/articles?id=10.1257/aer.20170491) [Online Appendix](https://www.aeaweb.org/content/file?id=9540) [Replication Package](https://www.openicpsr.org/openicpsr/project/113183/version/V1/view)
 [MDP data](https://drive.google.com/file/d/1Q20TCarWo9sWF6am7JvEtEflkAc1zG5z/view)
 
-## Working papers
+## Working Papers
 
-**Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees' Work-from-Home Preferences**
-(with Beata Wozniak-Jechorek, Amanda Sahar d'Urso  & Chloe Thurston)
+**Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees' Work-from-Home Preferences**\
+(with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston)\
 *Revise and Resubmit, Journal of Strategic Information Systems*
 
-**The impact of FDIC failed bank resolutions on small business credit**
+**The Impact of FDIC Failed Bank Resolutions on Small Business Credit**\
 *Reject and Resubmit, Review of Finance*
 
-**Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement**
+**Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform**\
 *Submitted*
+
+**Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement**\
+*Submitted*\
 [CESifo Working Paper](https://www.ifo.de/DocDL/cesifo1_wp12375.pdf)
 
-**Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
+**Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**\
 *Submitted*
-
 
 ## Work in Progress
 
-**Big India vs. Big U.S.**
-(with Mert Akan, Nick Bloom, Shelby Buckman and Pete Klenow)
+**Big India vs. Big U.S.**\
+(with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow)\
 [Slides](research/bigindia_vs_bigus.pdf)
 
-**Management in India**
-(with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia and Janak Nabar)
+**Management in India**\
+(with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar)
 
-**Management and Remote Work**
-(with Andrea Lamorgese Andrea Linarello & Fabiano Schivardi)
+**Management and Remote Work**\
+(with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)\
 [Slides](research/MOPS_WFH_patnaik.pdf)
 
-**Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**
-(with Sara Casella & Kieran Larkin)
+**Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**\
+(with Sara Casella & Kieran Larkin)\
 [Slides](research/female_hs_ls.pdf)
 
-**Who speaks for the poor?**
-(with Yashaswini Shekhawat and Jeff Hammer)
+<!--
+**Who speaks for the poor?**\
+(with Yashaswini Shekhawat & Jeff Hammer)\
 [Slides](research/patnaik_isi.pdf)
+-->
 
 **Tax, Lies and Redtape**
 
-**Family Succession in Firms: Evidence from Italy**
+**Family Succession in Firms: Evidence from Italy**\
 (with Alessandra Allocca & Fabiano Schivardi)
 
-**Copyright and Optimal Fair Use**
+**Copyright and Optimal Fair Use**\
 (with Tanay Raj Bhatt)
-
 
 ## Policy reports & reviews
 
-**The Importance of Structured Management Practices**
-(with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen)
-*MIT Sloan Management Review, April 18, 2017*
+**The Importance of Structured Management Practices**\
+(with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen)\
+*MIT Sloan Management Review, April 18, 2017*\
 [Link](https://sloanreview.mit.edu/article/the-importance-of-structured-management-practices/)
 
-**Trends in Copyright Infringement and Enforcement**
-(with Shohini Sengupta and Aishwarya Giridhar)
-*Esya Centre monograph, Dec 2019*
+**Trends in Copyright Infringement and Enforcement**\
+(with Shohini Sengupta & Aishwarya Giridhar)\
+*Esya Centre monograph, Dec 2019*\
 [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5dee10b8af06d83e3e65ed2b/1575882943779/Esya+Centre+-+Copyright+Infringement+and+Enforcement.pdf)
 
-**Measuring India's Creative Economy**
-*Esya Centre monograph, June 2020*
+**Measuring India's Creative Economy**\
+*Esya Centre monograph, June 2020*\
 [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5ee8cea5acd94f5192055e99/1596006460114/Issue+003+-+Esya+-+Measuring+Indias+Creative+Economy.pdf)
 
-**E-retail, consumer demand & the road to recovery**
-(with Mohit Chawdhry)
-*Esya Centre monograph, Sept 2020*
+**E-retail, consumer demand & the road to recovery**\
+(with Mohit Chawdhry)\
+*Esya Centre monograph, Sept 2020*\
 [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5f6997b2bbcbb517defa2dc5/1600755638116/REPORT_E-Retail_Issue-004_Sept_2020.pdf)
 
-**Batting ahead: Management, innovation and the future of Indian manufacturing**
-(with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok, Janak Nabar)
-*CTIER report, May 2024*
+**Batting ahead: Management, innovation and the future of Indian manufacturing**\
+(with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok, Janak Nabar)\
+*CTIER report, May 2024*\
 [Link](https://www.ctier.org/pdf-event/Batting-Ahead-Management-Innovation-and-the-Future-of-Indian-Manufacturing.pdf)
 [Slides](research/SpeSeIndianEcon_Slides.pdf)
 [Video](https://www.youtube.com/watch?v=j9-CcVzsx68&t=1406s)
-
