@@ -161,9 +161,19 @@ Family firms are the dominant form of ownership worldwide, yet surprisingly litt
 This paper models fair use and the presence of both original artistic and derivative works in a market where consumers substitute between the two. Artists sell their rights to a distributor who pays royalty. The distributor competes with other distributors who sell derivative works but do not pay royalty to the artist under the fair use regime. We derive the growth rate of creative works and find it to be concave in the fair use parameter. We compare the growth rate under three different price regimes: one where producers of original and derived works can both sell at monopolist competitive prices, second, where the producers of derived works cannot charge markups above marginal costs, and third, where the social planner redistributes the profits from derivative works back to artists in the form of subsidies.
 </div>
 
-**Million Dollar Plants and the Scope of Local Subsidies**
+**Small is Clean: Environmental Regulation and Plant Contraction in India**\
+<button class="abstract-toggle" data-abstract-id="abs-patasi">▷ Abstract</button>
+<div class="abstract-content" id="abs-patasi" style="max-height: 0px;">
+What margins do firms use to comply with environmental regulation? While evidence from advanced economies suggests that market-based environmental regulation can reduce emissions without adverse real effects, I show that in a developing-country setting, firms respond by reducing scale rather than adopting new technology. Using a 26-year plant-level panel from India combined with newly digitized regulatory assignments, I study one of the largest energy efficiency programs implemented in a developing economy. The regulation reduced fuel expenditure by 9–18 percent. Firms contracted: employment fell by 5–8 percent, capital by 7 percent, and product scope declined. Physical efficiency rose through forced input reoptimization, but no technology was adopted: R&D, investment, and product upgrading were unchanged. The contraction is driven by physical capital constraints, not financial ones: old plants with non-retrofittable equipment contract most, while financial access does not help. These effects propagate through production networks to non-regulated plants in linked sectors. The findings have implications for the design of carbon markets in developing economies.
+</div>
 
-**Carbon Misallocation**
+**Does Bankruptcy Reform Discipline Firms? Ex-Ante Effects of India's Insolvency and Bankruptcy Code**\
+<button class="abstract-toggle" data-abstract-id="abs-ibc">▷ Abstract</button>
+<div class="abstract-content" id="abs-ibc" style="max-height: 0px;">
+Can bankruptcy reform change firm behaviour even among firms that never enter bankruptcy? I study India's Insolvency and Bankruptcy Code (IBC), enacted in 2016, which created a credible threat that defaulting promoters would lose control of their firms. Using a panel of 36,217 private Indian firms from the CMIE Prowess database over FY2010–2025, I find that firms with high pre-IBC leverage cut investment by 1.6 percentage points and improved return on assets by 3.6 percentage points relative to low-leverage firms after the reform. The baseline leverage coefficient is not significant due to mean reversion, but three independent corrections—firm-specific linear trends, first differences, and long differences—all recover significant deleveraging. Effects intensify after Section 29A barred defaulting promoters from rebidding (November 2017) and persist during the COVID suspension of IBC filings (FY2020–21), consistent with structural behavioural change. The findings suggest that the benefits of bankruptcy reform extend far beyond resolved cases.
+</div>
+
+**Million Dollar Plants and the Scope of Local Subsidies**
 
 **Family Capital**\
 (with Daniela Scur & Fabiano Schivardi)

@@ -24,9 +24,7 @@ about:
 
 Welcome! 
 
-I am an Assistant Professor (tenure track) at the Department of Economics and Finance, LUISS Guido Carli in Rome, and a research affiliate at CEPR and at CESifo. I received my Ph.D. in Economics from Stanford University. I am cofounder at [Leap Insights](https://leap-insights.org/). 
-
-I am Visiting Assistant Professor at the Department of Economics at Stanford University during Spring and Summer quarters 2024-2025. 
+I am an Assistant Professor (tenure track) at the Department of Economics and Finance, LUISS Guido Carli in Rome, and a research affiliate at CEPR and at CESifo. I received my Ph.D. in Economics from Stanford University. I am cofounder at [Leap Insights](https://leap-insights.org/), where I head the India Productivity Lab. I am also the Co-Founder of [AccioPix](https://acciopix.com/), an innovative platform that enables event photo sharing using AI-powered face recognition. 
 
  [Full CV](misc/info/CV_patnaik.pdf).
 
