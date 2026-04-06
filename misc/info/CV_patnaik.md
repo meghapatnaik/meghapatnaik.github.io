@@ -11,8 +11,8 @@ header-includes:
   - \pagestyle{fancy}
   - \fancyhf{}
   - \renewcommand{\headrulewidth}{0pt}
-  - \rhead{March 2026}
-  - \fancypagestyle{plain}{\fancyhf{}\rhead{March 2026}}
+  - \rhead{April 2026}
+  - \fancypagestyle{plain}{\fancyhf{}\rhead{April 2026}}
   - \setlength{\parindent}{0pt}
 ---
 
@@ -34,7 +34,7 @@ Github page: \href{https://github.com/meghapatnaik}{https://github.com/meghapatn
 ## Current position
 
 2020-Present\
-Assistant Professor (tenure track), LUISS Guido Carli, Department of Economics & Finance
+Assistant Professor, LUISS Guido Carli, Department of Economics & Finance
 
 ## Education
 
@@ -78,7 +78,8 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Main published and forthcoming academic papers
 
-1. "The international empirics of management", with Daniela Scur, John Van Reenen, Raffaella Sadun, Lucia Foster, Scott Ohlmacher et al. *Proceedings of the National Academy of Sciences*, 2024.
+1. "Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees' Work-from-Home Preferences", with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston. Forthcoming, *Journal of Strategic Information Systems*.
+2. "The international empirics of management", with Daniela Scur, John Van Reenen, Raffaella Sadun, Lucia Foster, Scott Ohlmacher et al. *Proceedings of the National Academy of Sciences*, 2024.
 2. "Management Practices and Resilience to Shocks: Evidence from COVID-19", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. *Management Science*, 2024.
 3. "Compulsory Licensing for Radio-Play of Music in India: Recent History and Economic Context" *Review of Economic Research on Copyright Issues*, 2020.
 4. "What drives differences in management practices?", with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen. *American Economic Review*, 2019.
@@ -89,8 +90,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 2. "Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement". Under Review.
 3. "Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme". Under Review.
 4. "Services Across Borders: How Firms Organize Remote Work at Scale". Submitted.
-5. "Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees' Work-from-Home Preferences", with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston. Revise and Resubmit, *Journal of Strategic Information Systems*.
-6. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
+5. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
 7. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
 8. "Management in India", with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
 9. "Management and Remote Work", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
@@ -162,6 +162,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 ## Service
 
 2026: PhD Admissions Committee, LUISS\
+2023: Local organizer, CEPR Joint Workshop on Incentives, Management and Organization Entrepreneurship Economics\
 2022-Present: Department Delegate for Diversity and Inclusion, LUISS\
 2022: Member of hiring committee for Assistant Professor in Finance, LUISS\
 2021-Present: Academic Commission, Dual Degree in Economics and Finance (NOVA-LUISS) and Cass Semester Abroad Program (Bayes Business School-LUISS)
