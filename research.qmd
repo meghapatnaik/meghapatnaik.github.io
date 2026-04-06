@@ -29,7 +29,7 @@
 
 ## Publications
 
-**Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees' Work-from-Home Preferences**\
+**Understanding Employee Trade-Offs in Remote Work: Toward More Sustainable Workplace Design**\
 (with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston)\
 *Forthcoming, Journal of Strategic Information Systems*\
 <button class="abstract-toggle" data-abstract-id="abs-remote">▷ Abstract</button>

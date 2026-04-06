@@ -78,7 +78,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Main published and forthcoming academic papers
 
-1. "Sustainable Remote Workplace: Insights from a Conjoint Survey Experiment on Employees' Work-from-Home Preferences", with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston. Forthcoming, *Journal of Strategic Information Systems*.
+1. "Understanding Employee Trade-Offs in Remote Work: Toward More Sustainable Workplace Design", with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston. Forthcoming, *Journal of Strategic Information Systems*.
 2. "The international empirics of management", with Daniela Scur, John Van Reenen, Raffaella Sadun, Lucia Foster, Scott Ohlmacher et al. *Proceedings of the National Academy of Sciences*, 2024.
 2. "Management Practices and Resilience to Shocks: Evidence from COVID-19", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. *Management Science*, 2024.
 3. "Compulsory Licensing for Radio-Play of Music in India: Recent History and Economic Context" *Review of Economic Research on Copyright Issues*, 2020.
