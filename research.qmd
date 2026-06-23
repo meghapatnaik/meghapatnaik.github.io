@@ -146,7 +146,7 @@ This paper models fair use and the presence of both original artistic and deriva
 </div>
 
 **Small is Clean: Environmental Regulation and Plant Contraction in India**\
-<button class="abstract-toggle" data-abstract-id="abs-patasi">▷ Abstract</button>
+<button class="abstract-toggle" data-abstract-id="abs-patasi">▷ Abstract</button> [Slides](research/small_is_clean_slides.pdf)
 <div class="abstract-content" id="abs-patasi" style="max-height: 0px;">
 What margins do firms use to comply with environmental regulation? While evidence from advanced economies suggests that market-based environmental regulation can reduce emissions without adverse real effects, I show that in a developing-country setting, firms respond by reducing scale rather than adopting new technology. Using a 26-year plant-level panel from India combined with newly digitized regulatory assignments, I study one of the largest energy efficiency programs implemented in a developing economy. The regulation reduced fuel expenditure by 9–18 percent. Firms contracted: employment fell by 5–8 percent, capital by 7 percent, and product scope declined. Physical efficiency rose through forced input reoptimization, but no technology was adopted: R&D, investment, and product upgrading were unchanged. The contraction is driven by physical capital constraints, not financial ones: old plants with non-retrofittable equipment contract most, while financial access does not help. These effects propagate through production networks to non-regulated plants in linked sectors. The findings have implications for the design of carbon markets in developing economies.
 </div>
