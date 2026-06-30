@@ -99,7 +99,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 11. "Tax, Lies and Red Tape"
 12. "Family Succession in Firms: Evidence from Italy", with Alessandra Allocca & Fabiano Schivardi.
 13. "Copyright and Optimal Fair Use", with Tanay Raj Bhatt.
-14. "Million Dollar Plants and the Scope of Local Subsidies", with Christos Makridis.
+14. "The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data", with Christos Makridis.
 15. "Carbon Misallocation"
 16. "Family Capital", with Daniela Scur & Fabiano Schivardi.
 17. "Who speaks for the poor?", with Yashaswini Shekhawat & Jeff Hammer.
