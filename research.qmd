@@ -185,6 +185,13 @@ We study the effect of legal origin on firm-level outcomes using a unique natura
 In advanced economies, firms respond to rising import competition through innovation. In contrast, firms in developing countries face a large number of frictions and may not have the same levers to respond. I examine this question in the context of India, using detailed product-level data from CMIE Prowess and the China Shock instrumented with Chinese exports to third countries. I find that firms respond to import competition by closing down their lowest-value product lines: the 2SLS interaction of import penetration with lagged product sales is −0.385 (p<0.01). Import competition thus activates the "destruction" channel and reduces misallocation, but longer-run growth will require complementary innovation policy for the "creation" channel.
 </div>
 
+**Management and Innovation**\
+(with Claudia Nobile)\
+<button class="abstract-toggle" data-abstract-id="abs-mgmt-innov">▷ Abstract</button>
+<div class="abstract-content" id="abs-mgmt-innov" style="max-height: 0px;">
+How do management practices shape product innovation? While a large literature shows that better-managed firms are more productive, we show that the channel runs through product selection, not experimentation. Using a novel survey of 2,371 Indian manufacturing firms linked to administrative product data and patent records, we find that better-managed firms maintain 24% larger product portfolios and derive 4–5 times more sales from genuinely new products than from imitation. In administrative data, creation rates are flat across management quartiles—but revenue per new product is 37% higher (p = 0.001). We rationalize these findings with a multi-product Jovanovic learning model where management is signal precision: better-managed firms screen product ideas more effectively before launch, selecting better rather than selecting more.
+</div>
+
 **Is Remote Work Attractive for Women Living in Peripheral Areas? A Survey-Based Experiment in Six EU Countries**\
 (with Michał Pilc & Beata Woźniak-Jęchorek)
 
@@ -193,9 +200,6 @@ In advanced economies, firms respond to rising import competition through innova
 
 **Million Dollar Plants and the Scope of Local Subsidies**\
 (with Christos Makridis)
-
-**Management and Innovation**\
-(with Claudia Nobile)
 
 **Family Capital**\
 (with Daniela Scur & Fabiano Schivardi)
