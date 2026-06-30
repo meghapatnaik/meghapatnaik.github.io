@@ -163,6 +163,8 @@ Can bankruptcy reform change firm behaviour even among firms that never enter ba
 When does institutional ownership change how firms operate? A one percentage point increase in foreign institutional ownership reduces firm energy intensity by 2.7 percent, but an identical increase in bank ownership has no effect. The difference is not ownership; it is the incentive to monitor. I exploit a setting where three types of institutional investors—foreign funds, domestic mutual funds, and banks—hold equity in the same Indian manufacturing firms under distinct regulatory mandates. A shift-share instrument identifies the causal effect of ownership; within-market variation in mandates identifies the role of incentives. Effects concentrate in margins subject to managerial discretion (energy, labor), not market-determined inputs (raw materials)—ruling out generic firm quality and supporting targeted monitoring. A direct test confirms the mechanism: when India's securities regulator (SEBI) introduces ESG stewardship requirements in 2018, domestic mutual funds—which exhibited zero effect for a decade—become significant determinants of energy intensity, with flat pre-trends.
 </div>
 
+&nbsp;
+
 **Who Controls the Technology? GVC Positioning, Contested Internalization, and Resident Technological Leadership**\
 (with Mohd Shadab Danish)\
 <button class="abstract-toggle" data-abstract-id="abs-gvc">▷ Abstract</button>
