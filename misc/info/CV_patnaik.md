@@ -67,6 +67,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 | | |
 |:---------|:------------------------------------------------------------------|
+| 2026 | Einaudi Institute for Economics and Finance (EIEF) Research Grant (€5,000) |
 | 2025 | Structural Transformation and Economic Growth Large Research Grant (£60,000) |
 | 2024 | LUISS Excellence Teaching Award (2022-2023) |
 | 2018 | Indian Council of Social Science Research (ICSSR) and the Japan Society for Promotion of Science (JSPS) Joint Project (Rs. 14,00,000 and JPY 2,400,000) |
