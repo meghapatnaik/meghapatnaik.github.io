@@ -185,12 +185,6 @@ We study the effect of legal origin on firm-level outcomes using a unique natura
 In advanced economies, firms respond to rising import competition through innovation. In contrast, firms in developing countries face a large number of frictions and may not have the same levers to respond. I examine this question in the context of India, using detailed product-level data from CMIE Prowess and the China Shock instrumented with Chinese exports to third countries. I find that firms respond to import competition by closing down their lowest-value product lines: the 2SLS interaction of import penetration with lagged product sales is −0.385 (p<0.01). Import competition thus activates the "destruction" channel and reduces misallocation, but longer-run growth will require complementary innovation policy for the "creation" channel.
 </div>
 
-**Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**\
-<button class="abstract-toggle" data-abstract-id="abs-ccts">▷ Abstract</button>
-<div class="abstract-content" id="abs-ccts" style="max-height: 0px;">
-India's Carbon Credit Trading Scheme (CCTS), announced in October 2025, is primarily a strategic response to the European Union's Carbon Border Adjustment Mechanism (CBAM), which enters full implementation in 2026. By targeting 800 industrial units in trade-exposed sectors like Aluminium, Cement, and Steel, India seeks to establish a domestic carbon price that can mitigate the financial impact of EU border levies. This viewpoint argues that while the CCTS is an effective immediate trade defense, its baseline-and-credit architecture creates structural tensions. Specifically, the use of intensity-based targets effectively treats emissions up to a baseline as free rights, which may be interpreted by international regulators as an implicit production subsidy. Furthermore, the significant price gap between projected domestic prices of €2.50 and EU levels of €80–100 threatens the long-term effectiveness of the shield. To ensure the CCTS evolves into a credible driver of both trade equivalence and domestic decarbonization, we propose strengthening Measurement, Reporting, and Verification (MRV) infrastructure and committing to a phased transition toward absolute emission caps.
-</div>
-
 **Is Remote Work Attractive for Women Living in Peripheral Areas? A Survey-Based Experiment in Six EU Countries**\
 (with Michał Pilc & Beata Woźniak-Jęchorek)
 
