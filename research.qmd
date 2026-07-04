@@ -106,7 +106,7 @@ Remote work has transformed the globalization of services, moving beyond arm's-l
 We compare large (50 or more employee) manufacturing establishments in India and the U.S. We find the labor productivity gap among these establishments is substantial relative to the overall gap between all establishments in Indian vs. U.S. manufacturing. Large establishments therefore contribute a major portion of the gap, not just the smaller establishments that have received so much attention. We decompose the gap into management and worker quality, physical capital intensity, allocative efficiency, and a residual. The residual may reflect differences in innovation, as we document differences in residual demand (e.g., product quality and customer base) and new product introductions.
 </div>
 *Presentations: STEG Annual Conference and Theme Workshops, LMU Munich (2025); Empirical Management Conference (Harvard Business School), ACEGD (Indian Statistical Institute), Organizational Economics Summer Symposium (2024).*\
-*Funding: Stanford King Center on Global Development; STEG Large Research Grant.*
+*Funding: Stanford King Center on Global Development\*; STEG Large Research Grant.*
 
 **Management in India**\
 (with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar)\
@@ -122,7 +122,7 @@ We study how family control and professionalization shape firm performance and o
 We examine the role of complementarity between management and remote work in explaining the heterogeneous adoption of remote work across firms in Italy during and after the COVID-19 pandemic, as well as its persistence afterward. To measure this, we exploit the exogenous variation in remote work adoption driven by the heterogeneous intensity of the lockdown across waves of COVID-19 in 2020 and across different Italian provinces. Our estimates suggest that labor productivity is hampered by the adoption of remote work in firms with less structured management practices, whereas it appears unchanged in firms adopting more structured ones. We consequently find that firms with more structured management practices sustain relatively higher remote work in the new normal.
 </div>
 *Presentations: Italian Economic Association Annual Conference\* (2026); Stanford Remote Work Conference (2024).*\
-*Funding: European Research Council (Fabiano Schivardi).*
+*Funding: European Research Council\*.*
 
 **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**\
 (with Sara Casella & Kieran Larkin)\
@@ -146,7 +146,7 @@ Tax systems in poor countries are characterized by high rates, non-transparent e
 <div class="abstract-content" id="abs-succession" style="max-height: 0px;">
 Family firms are the dominant form of ownership worldwide, yet surprisingly little is known about the beliefs guiding founders' succession decisions. We conduct a novel survey of 729 founders in Italy whose firms experienced a succession between 2013 and 2023. Using a hierarchical latent Dirichlet model for categorical survey responses, we uncover two distinct founder types. Relational founders emphasize family reputation, children's aspirations, stakeholder relationships, and the preservation of family control. In contrast, Professional founders believe external managers can bring in additional skills and networks to expand firm value. Combining with administrative data on succession outcomes, we find that Relational founders are more likely to choose internal family succession. Our results suggest that the persistence of family management reflects heterogeneous beliefs about the sources of firm value, rather than institutional constraints or financial incentives alone.
 </div>
-*Funding: European Research Council (Fabiano Schivardi).*
+*Funding: European Research Council\*.*
 
 **Copyright and Optimal Fair Use**\
 (with Tanay Raj Bhatt & Sristi Sagar)\
@@ -216,7 +216,7 @@ Remote work could narrow gender and geographical disparities in labour market pa
 
 **Family Capital**\
 (with Daniela Scur & Fabiano Schivardi)\
-*Funding: European Research Council (Fabiano Schivardi).*
+*Funding: European Research Council\*.*
 
 **Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform**\
 *Funding: Einaudi Institute for Economics and Finance.*
