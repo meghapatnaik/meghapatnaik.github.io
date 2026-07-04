@@ -105,7 +105,7 @@ Remote work has transformed the globalization of services, moving beyond arm's-l
 <div class="abstract-content" id="abs-bigindia" style="max-height: 0px;">
 We compare large (50 or more employee) manufacturing establishments in India and the U.S. We find the labor productivity gap among these establishments is substantial relative to the overall gap between all establishments in Indian vs. U.S. manufacturing. Large establishments therefore contribute a major portion of the gap, not just the smaller establishments that have received so much attention. We decompose the gap into management and worker quality, physical capital intensity, allocative efficiency, and a residual. The residual may reflect differences in innovation, as we document differences in residual demand (e.g., product quality and customer base) and new product introductions.
 </div>
-*Presentations: STEG Annual Conference and Theme Workshops, LMU Munich (2025); Annual Conference on Economic Growth and Development (Indian Statistical Institute), Organizational Economics Summer Symposium (2024).*
+*Presentations: STEG Annual Conference and Theme Workshops, LMU Munich (2025); Empirical Management Conference (Harvard Business School), Annual Conference on Economic Growth and Development (Indian Statistical Institute), Organizational Economics Summer Symposium (2024).*
 
 **Management in India**\
 (with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar)\
@@ -135,6 +135,7 @@ Female labor market outcomes have improved dramatically over the past half centu
 <div class="abstract-content" id="abs-tax" style="max-height: 0px;">
 Tax systems in poor countries are characterized by high rates, non-transparent exemptions and poor enforcement resource constraints on the administration resulting in poor enforcement. Such an environment allows for the possibility of tax avoidance and evasion, especially when owners of the firm have high-powered incentives and managerial control. This paper finds evidence that manufacturing firms where there is continued involvement of the founding family pay less excise tax on their sales. These firms tend to be smaller and less productive, indicating that the implicit subsidy they receive in terms of lower effective tax rates may help them survive, diverting resources away from larger, more productive firms which would have been the main determinants of output and productivity in a more transparent economic environment.
 </div>
+*Presentations: Delhi Macroeconomics Workshop, ISI Delhi (2017).*
 
 **Family Succession in Firms: Evidence from Italy**\
 (with Alessandra Allocca & Fabiano Schivardi)\
