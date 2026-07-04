@@ -76,6 +76,7 @@ Partnering with the US Census Bureau, we implement a new survey of "structured" 
 <div class="abstract-content" id="abs-fdic" style="max-height: 0px;">
 I study the effects of bank failures and house price fluctuations on small business credit in the Great Recession using novel transaction-level data for more than 140,000 micro and small firms in the US. Bank failures lead to declines in credit for small firms for up to six quarters, however, micro firms are not significantly affected by this shock. In contrast, house price fluctuations affect the credit of micro firms but have no significant impact on small firms. My results are consistent with the relative dependence on collateral versus lending relationships for micro and small firms seen in survey data.
 </div>
+*Presentations: Centre for Advanced Financial Research and Learning (2019); Indian Institute of Management (Bangalore), Australian National University (Canberra), Einaudi Institute for Economics and Finance, Bank of Italy (2018); Wharton Finance Department (University of Pennsylvania), Indian School of Business (Hyderabad), Indian Institute of Management (Udaipur), Ashoka University Annual Conference (2017); Stanford University, Department of Economics (2016).*\
 *Funding: Ewing Marion Kauffman Foundation; Kapnick Foundation, Stanford Institute for Economic Policy Research.*
 
 **Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform**\
