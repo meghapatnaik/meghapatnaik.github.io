@@ -147,6 +147,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Conferences and invited seminar presentations
 
+**2026**: 8th EBRD–CEPR Research Symposium "The Frontiers of Finance in Emerging Markets"; Yale Firms, Trade, and Development Conference (forthcoming)\
 **2025**: STEG Annual Conference and Theme Workshops, Oxford University; LMU Munich; Remote Work Conference, Stanford University; LUISS University\
 **2024**: Organizational Economics Summer Symposium, Ohlstadt; Remote Work Conference, Stanford University; Empirical Management Conference, Harvard Business School; Annual Conference on Economic Growth and Development, Indian Statistical Institute\
 **2023**: Venice Summer Institute "Decision making in firms: Big Data and Management Practices"; EARIE Rome 2023; Empirical Management Conference 9th Edition, Stanford University\
