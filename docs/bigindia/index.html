@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manufacturing Productivity: U.S. vs. India — forecast (mockup)</title>
+<style>
+  :root{ --ink:#2d2d2d; --serif:Georgia,"Times New Roman",Times,serif;
+    --sans:"Helvetica Neue",Arial,"Segoe UI",Roboto,sans-serif;
+    --blue:#2f6eb5; --track:#d0d0d0; --rule:#e6e6e6; --muted:#8a8a8a; }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{margin:0;background:#fff;color:var(--ink);font-family:var(--serif);font-size:19px;line-height:1.5}
+  .page{min-height:100%;display:flex;flex-direction:column}
+  .content{flex:1;max-width:940px;margin:0 auto;padding:46px 40px 40px;width:100%}
+  h1.title{font-family:var(--sans);font-weight:300;font-size:44px;color:#333;margin:0 0 6px;letter-spacing:-.01em}
+  .rule{border:0;border-top:1px solid var(--rule);margin:0 0 40px}
+  .qtext{max-width:760px;margin:0 auto 6px}
+  .qtext p{margin:0 0 16px}
+  .prime{font-family:var(--sans);font-size:15px;color:var(--blue);font-weight:600;margin:0 auto 26px;max-width:760px}
+  .sblock{max-width:760px;margin:34px auto 0}
+  .axis{position:relative;height:20px;font-family:var(--sans);font-size:13px;color:#555}
+  .axis .lab{position:absolute;transform:translateX(-50%)}
+  .axis .cap{position:absolute;left:50%;top:-24px;transform:translateX(-50%);font-size:13px}
+  .rowlab{font-weight:bold;margin:22px 0 0}
+  .val{color:var(--blue);font-family:var(--sans);font-size:18px;height:24px;position:relative}
+  .val b{position:absolute;transform:translateX(-50%)}
+  input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:3px;background:var(--track);border-radius:3px;margin:6px 0 0;outline:none}
+  input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;height:20px;width:20px;border-radius:50%;background:#fff;border:2px solid var(--blue);cursor:pointer;box-shadow:0 1px 2px rgba(0,0,0,.2)}
+  input[type=range]::-moz-range-thumb{height:18px;width:18px;border-radius:50%;background:#fff;border:2px solid var(--blue);cursor:pointer}
+  .ex{font-family:var(--sans);font-size:14px;color:#777;margin-top:16px}
+  .total{font-family:var(--sans);font-size:15px;color:#333;max-width:760px;margin:26px auto 0;padding-top:12px;border-top:1px solid var(--rule)}
+  .nav{max-width:760px;margin:44px auto 0;display:flex;justify-content:space-between}
+  .btn{font-family:var(--sans);font-size:15px;border:1px solid #cfcfcf;background:#fafafa;color:#333;padding:9px 20px;border-radius:4px;cursor:pointer}
+  .btn.next{background:var(--blue);border-color:var(--blue);color:#fff}
+  .foot{border-top:1px solid var(--rule);font-family:var(--sans);font-size:14px;color:var(--muted);text-align:left;padding:14px 40px}
+  .foot a{color:var(--blue);text-decoration:none}
+  .step{display:none}.step.active{display:block}
+  .reveal-row{display:flex;justify-content:space-between;align-items:baseline;max-width:760px;margin:0 auto;border-bottom:1px solid var(--rule);padding:13px 0}
+  .reveal-row b{color:var(--blue);font-size:21px}
+  .rhead{font-family:var(--sans);font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);max-width:760px;margin:22px auto 2px}
+  .note{font-family:var(--sans);font-size:13px;color:#b00;max-width:760px;margin:18px auto 0}
+  .bgq{font-family:var(--sans);font-size:15px;margin:18px 0 2px}
+  .email{font-family:var(--sans);font-size:15px;padding:9px;border:1px solid #cfcfcf;border-radius:4px;width:280px}
+  .defnote{font-family:var(--sans);font-size:13px;color:#888;max-width:760px;margin:32px auto 0;padding-top:12px;border-top:1px solid var(--rule)}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="content">
+
+    <!-- 0 INTRO / CONSENT -->
+    <section class="step active" data-step="0">
+      <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1>
+      <hr class="rule">
+      <div class="prime">A few short questions &nbsp;·&nbsp; about 5 minutes</div>
+      <div class="qtext">
+        <p>This study compares the labor productivity of manufacturing firms in <b>India</b> and the <b>United States</b>. Please give your best predictions for the short set of questions below.</p>
+        <p><i>Productivity</i> is measured as <b>value added per worker</b>, adjusted for purchasing power (PPP) between the U.S. and India. We consider <b>small firms</b> to be those with fewer than 50 employees, and <b>large firms</b> those with 50 or more.</p>
+      </div>
+      <div class="nav"><span></span><button class="btn next" onclick="go(1)">Start &nbsp;&raquo;</button></div>
+    </section>
+
+    <!-- 1 Q1 all -->
+    <section class="step" data-step="1">
+      <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
+      <div class="qtext"><p>Consider <b>all manufacturing firms</b>. How many times more productive is the average firm in the United States than the average firm in India?</p></div>
+      <div class="sblock">
+        <div class="axis" data-axis="mult"><span class="cap">Multiple (US/India)</span></div>
+        <p class="rowlab">All firms</p>
+        <div class="val"><b id="v1">5.0&times;</b></div>
+        <input type="range" min="1" max="50" step="0.5" value="5" id="s1" oninput="sync(1,'mult')">
+        <p class="ex">For example, <b>2&times;</b> means you think U.S. firms produce twice the value added per worker of Indian firms.</p>
+      </div>
+      <p class="defnote"><i>Productivity</i> is measured as value added per worker, adjusted for purchasing power (PPP) between the U.S. and India. Small firms have fewer than 50 employees; large firms have 50 or more.</p>
+      <div class="nav"><button class="btn" onclick="go(0)">&laquo; Back</button><button class="btn next" onclick="go(2)">Next &raquo;</button></div>
+    </section>
+
+    <!-- 2 Q2 small -->
+    <section class="step" data-step="2">
+      <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
+      <div class="qtext"><p>Now consider only <b>small firms</b>, those with <b>fewer than 50 employees</b>. How many times more productive is the average U.S. small firm than the average Indian small firm?</p></div>
+      <div class="sblock">
+        <div class="axis" data-axis="mult"><span class="cap">Multiple (US/India)</span></div>
+        <p class="rowlab">Small firms <span style="font-weight:normal;font-style:italic;color:#555">(fewer than 50 employees)</span></p>
+        <div class="val"><b id="v2">5.0&times;</b></div>
+        <input type="range" min="1" max="50" step="0.5" value="5" id="s2" oninput="sync(2,'mult')">
+        <p class="ex">For example, <b>2&times;</b> means you think U.S. firms produce twice the value added per worker of Indian firms.</p>
+      </div>
+      <p class="defnote"><i>Productivity</i> is measured as value added per worker, adjusted for purchasing power (PPP) between the U.S. and India. Small firms have fewer than 50 employees; large firms have 50 or more.</p>
+      <div class="nav"><button class="btn" onclick="go(1)">&laquo; Back</button><button class="btn next" onclick="go(3)">Next &raquo;</button></div>
+    </section>
+
+    <!-- 3 Q3 large -->
+    <section class="step" data-step="3">
+      <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
+      <div class="qtext"><p>Now consider only <b>large firms</b>, those with <b>50 or more employees</b>. How many times more productive is the average U.S. large firm than the average Indian large firm?</p></div>
+      <div class="sblock">
+        <div class="axis" data-axis="mult"><span class="cap">Multiple (US/India)</span></div>
+        <p class="rowlab">Large firms <span style="font-weight:normal;font-style:italic;color:#555">(50 or more employees)</span></p>
+        <div class="val"><b id="v3">5.0&times;</b></div>
+        <input type="range" min="1" max="50" step="0.5" value="5" id="s3" oninput="sync(3,'mult')">
+        <p class="ex">For example, <b>2&times;</b> means you think U.S. firms produce twice the value added per worker of Indian firms.</p>
+      </div>
+      <p class="defnote"><i>Productivity</i> is measured as value added per worker, adjusted for purchasing power (PPP) between the U.S. and India. Small firms have fewer than 50 employees; large firms have 50 or more.</p>
+      <div class="nav"><button class="btn" onclick="go(2)">&laquo; Back</button><button class="btn next" onclick="go(4)">Next &raquo;</button></div>
+    </section>
+
+    <!-- 4 DECOMPOSITION (sum to 100) -->
+    <section class="step" data-step="4">
+      <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
+      <div class="qtext">
+        <p>Across all manufacturing firms, U.S. labor productivity is above India's. Think of this overall gap as coming from two groups of firms.</p>
+        <p>How is the overall U.S.&ndash;India productivity gap split between two groups: small and large firms? Divide the total 100% between the two groups.</p>
+      </div>
+      <div class="sblock">
+        <div class="axis" data-axis="pct"><span class="cap">Share of the overall gap (%)</span></div>
+        <p class="rowlab">Small firms (fewer than 50 employees)</p>
+        <div class="val"><b id="v4b">50%</b></div>
+        <input type="range" min="0" max="100" step="1" value="50" id="s4b" oninput="couple('b')">
+        <p class="rowlab">Large firms (50 or more employees)</p>
+        <div class="val"><b id="v4a">50%</b></div>
+        <input type="range" min="0" max="100" step="1" value="50" id="s4a" oninput="couple('a')">
+        <div class="total">Total: <b id="tot" style="color:var(--blue)">100%</b> &nbsp;<span style="color:#777;font-size:13px">(the two shares always add to 100%)</span></div>
+      </div>
+      <p class="defnote"><i>Productivity</i> is measured as value added per worker, adjusted for purchasing power (PPP) between the U.S. and India. Small firms have fewer than 50 employees; large firms have 50 or more.</p>
+      <div class="nav"><button class="btn" onclick="go(3)">&laquo; Back</button><button class="btn next" onclick="go(5)">Next &raquo;</button></div>
+    </section>
+
+    <!-- 5 BACKGROUND -->
+    <section class="step" data-step="5">
+      <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
+      <div class="qtext" style="max-width:760px">
+        <p style="margin-bottom:6px">We will end with a few questions about your background.</p>
+
+        <p class="bgq"><b>How confident are you in your predictions?</b></p>
+        <p style="font-family:var(--sans);font-size:15px;margin:2px 0">
+          <label><input type="radio" name="c"> Not at all</label> &nbsp;
+          <label><input type="radio" name="c"> Slightly</label> &nbsp;
+          <label><input type="radio" name="c"> Somewhat</label> &nbsp;
+          <label><input type="radio" name="c"> Very</label> &nbsp;
+          <label><input type="radio" name="c"> Extremely</label>
+        </p>
+
+        <p class="bgq"><b>How familiar are you with each of the following literatures?</b></p>
+        <table style="font-family:var(--sans);font-size:14px;border-collapse:collapse;margin-top:4px">
+          <tr style="color:#666"><td></td><td style="padding:0 10px">Not</td><td style="padding:0 10px">Somewhat</td><td style="padding:0 10px">Familiar</td><td style="padding:0 10px">Expert</td></tr>
+          <tr><td style="padding:3px 0">Macro-development</td><td align="center"><input type="radio" name="f1"></td><td align="center"><input type="radio" name="f1"></td><td align="center"><input type="radio" name="f1"></td><td align="center"><input type="radio" name="f1"></td></tr>
+          <tr><td style="padding:3px 0">Misallocation</td><td align="center"><input type="radio" name="f2"></td><td align="center"><input type="radio" name="f2"></td><td align="center"><input type="radio" name="f2"></td><td align="center"><input type="radio" name="f2"></td></tr>
+          <tr><td style="padding:3px 0">Development accounting</td><td align="center"><input type="radio" name="f3"></td><td align="center"><input type="radio" name="f3"></td><td align="center"><input type="radio" name="f3"></td><td align="center"><input type="radio" name="f3"></td></tr>
+        </table>
+      </div>
+      <div class="nav"><button class="btn" onclick="go(4)">&laquo; Back</button><button class="btn next" onclick="go(6)">Submit &raquo;</button></div>
+    </section>
+
+    <!-- 6 REVEAL -->
+    <section class="step" data-step="6">
+      <h1 class="title">Thank you</h1><hr class="rule">
+      <div class="qtext"><p>Your responses have been recorded. Here is a summary of your predictions:</p></div>
+      <div class="rhead">How much more productive (US/India)</div>
+      <div class="reveal-row"><span>All firms</span><b id="g1">&ndash;</b></div>
+      <div class="reveal-row"><span>Small firms (fewer than 50)</span><b id="g2">&ndash;</b></div>
+      <div class="reveal-row"><span>Large firms (50 or more)</span><b id="g3">&ndash;</b></div>
+      <div class="rhead">Share of the overall gap attributable to</div>
+      <div class="reveal-row"><span>Small firms (fewer than 50)</span><b id="g4b">&ndash;</b></div>
+      <div class="reveal-row"><span>Large firms (50 or more)</span><b id="g4a">&ndash;</b></div>
+      <p class="bgq" style="max-width:760px;margin:26px auto 4px"><b>We will share a summary of the findings once results are available.</b> Leave your email if you would like to receive it (optional).</p>
+      <div style="max-width:760px;margin:0 auto"><input class="email" type="email" placeholder="you@university.edu"> <button class="btn next" style="vertical-align:top">Submit</button></div>
+      <p class="note">Mockup only. No results are shown here; the true figures require RDC disclosure and will be sent to respondents later.</p>
+    </section>
+
+  </div>
+  <div class="foot">Survey error? Contact the project team <a href="#">here</a>. Blank survey? View our troubleshooting tips <a href="#">here</a>. &nbsp;·&nbsp; <span style="color:#c00">Mockup for internal review — not the live survey.</span></div>
+</div>
+
+<script>
+  var RANGE={mult:{min:1,max:50,ticks:[1,10,20,30,40,50]},pct:{min:0,max:100,ticks:[0,20,40,60,80,100]}};
+  document.querySelectorAll('.axis').forEach(function(ax){
+    var r=RANGE[ax.dataset.axis];
+    r.ticks.forEach(function(t){
+      var s=document.createElement('span'); s.className='lab';
+      s.style.left=((t-r.min)/(r.max-r.min)*100)+'%';
+      s.textContent=(ax.dataset.axis==='pct')?t+'%':t+'×';
+      ax.appendChild(s);
+    });
+  });
+  function place(bid,v,kind){
+    var r=RANGE[kind], b=document.getElementById(bid);
+    b.textContent=(kind==='pct')?Math.round(v)+'%':v.toFixed(1)+'×';
+    b.style.left=((v-r.min)/(r.max-r.min)*100)+'%';
+  }
+  function sync(i,kind){ place('v'+i, parseFloat(document.getElementById('s'+i).value), kind); }
+  // decomposition: two coupled sliders that always sum to 100
+  function couple(which){
+    var a=document.getElementById('s4a'), b=document.getElementById('s4b');
+    if(which==='a'){ b.value=100-parseFloat(a.value); } else { a.value=100-parseFloat(b.value); }
+    place('v4a', parseFloat(a.value), 'pct');
+    place('v4b', parseFloat(b.value), 'pct');
+    document.getElementById('tot').textContent=(parseFloat(a.value)+parseFloat(b.value))+'%';
+  }
+  function go(n){
+    document.querySelectorAll('.step').forEach(function(s){ s.classList.toggle('active',+s.dataset.step===n); });
+    if(n===6){
+      [1,2,3].forEach(function(i){ document.getElementById('g'+i).textContent=parseFloat(document.getElementById('s'+i).value).toFixed(1)+'×'; });
+      document.getElementById('g4a').textContent=Math.round(parseFloat(document.getElementById('s4a').value))+'%';
+      document.getElementById('g4b').textContent=Math.round(parseFloat(document.getElementById('s4b').value))+'%';
+    }
+    window.scrollTo(0,0);
+  }
+  sync(1,'mult');sync(2,'mult');sync(3,'mult');couple('a');
+</script>
+</body>
+</html>
