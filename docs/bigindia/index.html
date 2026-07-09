@@ -106,29 +106,8 @@
       <div class="nav"><button class="btn" onclick="go(2)">&laquo; Back</button><button class="btn next" onclick="go(4)">Next &raquo;</button></div>
     </section>
 
-    <!-- 4 DECOMPOSITION (sum to 100) -->
+    <!-- 4 BACKGROUND -->
     <section class="step" data-step="4">
-      <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
-      <div class="qtext">
-        <p>Across all manufacturing firms, U.S. labor productivity is above India's. Think of this overall gap as coming from two groups of firms.</p>
-        <p>How is the overall U.S.&ndash;India productivity gap split between two groups: small and large firms? Divide the total 100% between the two groups.</p>
-      </div>
-      <div class="sblock">
-        <div class="axis" data-axis="pct"><span class="cap">Share of the overall gap (%)</span></div>
-        <p class="rowlab">Small firms (fewer than 50 employees)</p>
-        <div class="val"><b id="v4b">50%</b></div>
-        <input type="range" min="0" max="100" step="1" value="50" id="s4b" oninput="couple('b')">
-        <p class="rowlab">Large firms (50 or more employees)</p>
-        <div class="val"><b id="v4a">50%</b></div>
-        <input type="range" min="0" max="100" step="1" value="50" id="s4a" oninput="couple('a')">
-        <div class="total">Total: <b id="tot" style="color:var(--blue)">100%</b> &nbsp;<span style="color:#777;font-size:13px">(the two shares always add to 100%)</span></div>
-      </div>
-      <p class="defnote"><i>Productivity</i> is measured as value added per worker, adjusted for purchasing power (PPP) between the U.S. and India. Small firms have fewer than 50 employees; large firms have 50 or more.</p>
-      <div class="nav"><button class="btn" onclick="go(3)">&laquo; Back</button><button class="btn next" onclick="go(5)">Next &raquo;</button></div>
-    </section>
-
-    <!-- 5 BACKGROUND -->
-    <section class="step" data-step="5">
       <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
       <div class="qtext" style="max-width:760px">
         <p style="margin-bottom:6px">We will end with a few questions about your background.</p>
@@ -150,22 +129,24 @@
           <tr><td style="padding:3px 0">Development accounting</td><td align="center"><input type="radio" name="f3"></td><td align="center"><input type="radio" name="f3"></td><td align="center"><input type="radio" name="f3"></td><td align="center"><input type="radio" name="f3"></td></tr>
         </table>
       </div>
-      <div class="nav"><button class="btn" onclick="go(4)">&laquo; Back</button><button class="btn next" onclick="go(6)">Submit &raquo;</button></div>
+      <div class="nav"><button class="btn" onclick="go(3)">&laquo; Back</button><button class="btn next" onclick="go(5)">Submit &raquo;</button></div>
     </section>
 
-    <!-- 6 REVEAL -->
-    <section class="step" data-step="6">
+    <!-- 5 CLOSING -->
+    <section class="step" data-step="5">
       <h1 class="title">Thank you</h1><hr class="rule">
-      <div class="qtext"><p>Your responses have been recorded. Here is a summary of your predictions:</p></div>
-      <div class="rhead">How much more productive (US/India)</div>
-      <div class="reveal-row"><span>All firms</span><b id="g1">&ndash;</b></div>
-      <div class="reveal-row"><span>Small firms (fewer than 50)</span><b id="g2">&ndash;</b></div>
-      <div class="reveal-row"><span>Large firms (50 or more)</span><b id="g3">&ndash;</b></div>
-      <div class="rhead">Share of the overall gap attributable to</div>
-      <div class="reveal-row"><span>Small firms (fewer than 50)</span><b id="g4b">&ndash;</b></div>
-      <div class="reveal-row"><span>Large firms (50 or more)</span><b id="g4a">&ndash;</b></div>
-      <p class="bgq" style="max-width:760px;margin:26px auto 4px"><b>We will share a summary of the findings once results are available.</b> Leave your email if you would like to receive it (optional).</p>
-      <div style="max-width:760px;margin:0 auto"><input class="email" type="email" placeholder="you@university.edu"> <button class="btn next" style="vertical-align:top">Submit</button></div>
+      <div id="emailbox">
+        <div class="qtext"><p>Your responses have been recorded. Here is a summary of your predictions:</p></div>
+        <div class="rhead">How much more productive (US/India)</div>
+        <div class="reveal-row"><span>All firms</span><b id="g1">&ndash;</b></div>
+        <div class="reveal-row"><span>Small firms (fewer than 50)</span><b id="g2">&ndash;</b></div>
+        <div class="reveal-row"><span>Large firms (50 or more)</span><b id="g3">&ndash;</b></div>
+        <p class="bgq" style="max-width:760px;margin:26px auto 4px"><b>We will share a summary of the findings once results are available.</b> Leave your email if you would like to receive it (optional).</p>
+        <div style="max-width:760px;margin:0 auto"><input class="email" type="email" placeholder="you@university.edu"> <button class="btn next" style="vertical-align:top" onclick="finish()">Submit</button></div>
+      </div>
+      <div id="thanksmsg" style="display:none">
+        <div class="qtext"><p style="color:#1f7a4d;font-size:22px"><b>Your response has been submitted. Thank you!</b></p><p>You may now close this window.</p></div>
+      </div>
       <p class="note">Mockup only. No results are shown here; the true figures require RDC disclosure and will be sent to respondents later.</p>
     </section>
 
@@ -174,40 +155,31 @@
 </div>
 
 <script>
-  var RANGE={mult:{min:1,max:50,ticks:[1,10,20,30,40,50]},pct:{min:0,max:100,ticks:[0,20,40,60,80,100]}};
+  var RANGE={mult:{min:1,max:50,ticks:[1,10,20,30,40,50]}};
   document.querySelectorAll('.axis').forEach(function(ax){
     var r=RANGE[ax.dataset.axis];
     r.ticks.forEach(function(t){
       var s=document.createElement('span'); s.className='lab';
       s.style.left=((t-r.min)/(r.max-r.min)*100)+'%';
-      s.textContent=(ax.dataset.axis==='pct')?t+'%':t+'×';
+      s.textContent=t+'×';
       ax.appendChild(s);
     });
   });
   function place(bid,v,kind){
     var r=RANGE[kind], b=document.getElementById(bid);
-    b.textContent=(kind==='pct')?Math.round(v)+'%':v.toFixed(1)+'×';
+    b.textContent=v.toFixed(1)+'×';
     b.style.left=((v-r.min)/(r.max-r.min)*100)+'%';
   }
   function sync(i,kind){ place('v'+i, parseFloat(document.getElementById('s'+i).value), kind); }
-  // decomposition: two coupled sliders that always sum to 100
-  function couple(which){
-    var a=document.getElementById('s4a'), b=document.getElementById('s4b');
-    if(which==='a'){ b.value=100-parseFloat(a.value); } else { a.value=100-parseFloat(b.value); }
-    place('v4a', parseFloat(a.value), 'pct');
-    place('v4b', parseFloat(b.value), 'pct');
-    document.getElementById('tot').textContent=(parseFloat(a.value)+parseFloat(b.value))+'%';
-  }
+  function finish(){ document.getElementById('emailbox').style.display='none'; document.getElementById('thanksmsg').style.display='block'; window.scrollTo(0,0); }
   function go(n){
     document.querySelectorAll('.step').forEach(function(s){ s.classList.toggle('active',+s.dataset.step===n); });
-    if(n===6){
+    if(n===5){
       [1,2,3].forEach(function(i){ document.getElementById('g'+i).textContent=parseFloat(document.getElementById('s'+i).value).toFixed(1)+'×'; });
-      document.getElementById('g4a').textContent=Math.round(parseFloat(document.getElementById('s4a').value))+'%';
-      document.getElementById('g4b').textContent=Math.round(parseFloat(document.getElementById('s4b').value))+'%';
     }
     window.scrollTo(0,0);
   }
-  sync(1,'mult');sync(2,'mult');sync(3,'mult');couple('a');
+  sync(1,'mult');sync(2,'mult');sync(3,'mult');
 </script>
 </body>
 </html>
