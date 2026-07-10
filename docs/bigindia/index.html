@@ -77,7 +77,7 @@
       <div class="qtext">
         <p>We compare the labor productivity of manufacturing firms in the United States and India. Please give your best estimates for the short set of questions below.</p>
         <p><i>Productivity</i> is measured as value added per worker, adjusted for purchasing power (PPP) between the U.S. and India. We consider small firms to be those with fewer than 50 employees, and large firms those with 50 or more.</p>
-        <p>The survey has 4 short questions and takes 2 to 5 minutes to complete.</p>
+        <p>The survey has 4 short questions and takes about 5 minutes to complete.</p>
       </div>
       <div class="nav"><span></span><button class="btn next" onclick="go(1)">Start &nbsp;&raquo;</button></div>
     </section>
@@ -126,10 +126,10 @@
       <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
       <div class="qtext"><p>What factors do you think are responsible for the labor productivity difference between U.S. and Indian manufacturing firms? Divide 100% across the factors below.</p></div>
       <table class="factors">
-        <tr><td>Physical capital</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
-        <tr><td>Human capital (education)</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
-        <tr><td>Human capital (experience)</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
-        <tr><td>Management practices</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Capital</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Education</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Work experience</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Management</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
         <tr><td>Misallocation</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
         <tr><td>Innovation and R&amp;D</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
         <tr><td>Other <input type="text" class="otherbox" placeholder="please specify"></td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
@@ -142,7 +142,7 @@
     <section class="step" data-step="5">
       <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
       <div class="qtext" style="max-width:760px">
-        <p style="margin-bottom:10px">A few questions about you.</p>
+        <p style="margin-bottom:10px">Finally, a few questions about your background.</p>
         <p class="bgq"><b>Age</b>
           <select class="bgsel"><option></option><option>Under 20</option><option>20-29</option><option>30-39</option><option>40-49</option><option>50-64</option><option>65-70</option><option>Over 70</option></select>
         </p>
@@ -169,8 +169,10 @@
     <section class="step" data-step="6">
       <h1 class="title">Thank you</h1><hr class="rule">
       <div id="emailbox">
-        <div class="qtext"><p>Your responses have been recorded.</p></div>
-        <p class="bgq" style="max-width:760px;margin:20px auto 4px"><b>We will share a summary of the findings once results are available.</b> Leave your email if you would like to receive it (optional).</p>
+        <div class="qtext"><p>Thank you for participating. Your responses have been recorded.</p></div>
+        <p class="bgq" style="max-width:760px;margin:22px auto 4px">If you have any comments or suggestions, please share them here.</p>
+        <textarea style="max-width:760px;width:100%;font-family:var(--sans);font-size:15px;padding:8px;border:1px solid #cfcfcf;border-radius:6px;min-height:70px;display:block;margin:0 auto"></textarea>
+        <p class="bgq" style="max-width:760px;margin:22px auto 4px"><b>We will share a summary of the findings once results are available.</b> Leave your email if you would like to receive it.</p>
         <div style="max-width:760px;margin:0 auto"><input class="email" type="email" placeholder="you@university.edu"> <button class="btn next" style="vertical-align:top" onclick="finish()">Submit</button></div>
       </div>
       <div id="thanksmsg" style="display:none">
