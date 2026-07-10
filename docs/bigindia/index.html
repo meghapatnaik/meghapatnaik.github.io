@@ -47,6 +47,18 @@
   .numbox{font-family:var(--sans);font-size:22px;width:130px;padding:9px 12px;border:1px solid #cfcfcf;border-radius:6px;text-align:right}
   .numbox:focus{outline:none;border-color:var(--blue)}
   .numx{font-family:var(--sans);font-size:30px;color:#444;margin-left:12px;vertical-align:middle}
+  .flags{max-width:760px;margin:6px auto 2px;display:flex;gap:12px;align-items:center;font-family:var(--sans);color:#999}
+  .flag{width:50px;height:33px;border:1px solid #ddd;vertical-align:middle}
+  .factors{margin:22px auto 0;font-family:var(--sans);font-size:16px;border-collapse:collapse;width:100%;max-width:560px}
+  .factors td{padding:8px 0;border-bottom:1px solid var(--rule)}
+  .factors td:last-child{text-align:right;color:#555;white-space:nowrap}
+  .fbox{font-family:var(--sans);font-size:16px;width:70px;padding:6px 8px;border:1px solid #cfcfcf;border-radius:6px;text-align:right;margin-right:3px}
+  .fbox:focus{outline:none;border-color:var(--blue)}
+  input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}
+  input[type=number]{-moz-appearance:textfield;appearance:textfield}
+  select.bgsel{font-family:var(--sans);font-size:15px;padding:6px;margin-left:6px}
+  .otherbox{font-family:var(--sans);font-size:14px;padding:4px 8px;border:1px solid #cfcfcf;border-radius:5px;margin-left:8px;width:170px}
+  .otherbox:focus{outline:none;border-color:var(--blue)}
 </style>
 </head>
 <body>
@@ -56,11 +68,16 @@
     <!-- 0 INTRO / CONSENT -->
     <section class="step active" data-step="0">
       <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1>
+      <div class="flags">
+        <svg class="flag" viewBox="0 0 42 28"><rect width="42" height="28" fill="#fff"/><rect width="42" height="2.15" y="0" fill="#B22234"/><rect width="42" height="2.15" y="4.3" fill="#B22234"/><rect width="42" height="2.15" y="8.6" fill="#B22234"/><rect width="42" height="2.15" y="12.9" fill="#B22234"/><rect width="42" height="2.15" y="17.2" fill="#B22234"/><rect width="42" height="2.15" y="21.5" fill="#B22234"/><rect width="42" height="2.15" y="25.85" fill="#B22234"/><rect width="17" height="15.05" fill="#3C3B6E"/></svg>
+        <span>vs</span>
+        <svg class="flag" viewBox="0 0 42 28"><rect width="42" height="28" fill="#fff"/><rect width="42" height="9.33" fill="#FF9933"/><rect width="42" height="9.33" y="18.67" fill="#138808"/><circle cx="21" cy="14" r="4" fill="none" stroke="#000080" stroke-width="0.7"/><circle cx="21" cy="14" r="0.8" fill="#000080"/></svg>
+      </div>
       <hr class="rule">
       <div class="qtext">
-        <p>We compare the labor productivity of manufacturing firms in the <b>United States</b> and <b>India</b>. Please give your best estimates for the short set of questions below.</p>
-        <p><i>Productivity</i> is measured as <b>value added per worker</b>, adjusted for purchasing power (PPP) between the U.S. and India. We consider <b>small firms</b> to be those with fewer than 50 employees, and <b>large firms</b> those with 50 or more.</p>
-        <p>The survey has only 3 questions and takes 2 to 5 minutes to complete.</p>
+        <p>We compare the labor productivity of manufacturing firms in the United States and India. Please give your best estimates for the short set of questions below.</p>
+        <p><i>Productivity</i> is measured as value added per worker, adjusted for purchasing power (PPP) between the U.S. and India. We consider small firms to be those with fewer than 50 employees, and large firms those with 50 or more.</p>
+        <p>The survey has 4 short questions and takes 2 to 5 minutes to complete.</p>
       </div>
       <div class="nav"><span></span><button class="btn next" onclick="go(1)">Start &nbsp;&raquo;</button></div>
     </section>
@@ -104,42 +121,56 @@
       <div class="nav"><button class="btn" onclick="go(2)">&laquo; Back</button><button class="btn next" onclick="go(4)">Next &raquo;</button></div>
     </section>
 
-    <!-- 4 BACKGROUND -->
+    <!-- 4 FACTORS (constant sum to 100) -->
     <section class="step" data-step="4">
       <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
-      <div class="qtext" style="max-width:760px">
-        <p style="margin-bottom:6px">We will end with a few questions about your background.</p>
-
-        <p class="bgq"><b>How confident are you in your predictions?</b></p>
-        <p style="font-family:var(--sans);font-size:15px;margin:2px 0">
-          <label><input type="radio" name="c"> Not at all</label> &nbsp;
-          <label><input type="radio" name="c"> Slightly</label> &nbsp;
-          <label><input type="radio" name="c"> Somewhat</label> &nbsp;
-          <label><input type="radio" name="c"> Very</label> &nbsp;
-          <label><input type="radio" name="c"> Extremely</label>
-        </p>
-
-        <p class="bgq"><b>How familiar are you with each of the following research areas?</b></p>
-        <table style="font-family:var(--sans);font-size:14px;border-collapse:collapse;margin-top:4px">
-          <tr style="color:#666"><td></td><td style="padding:0 10px">Not</td><td style="padding:0 10px">Somewhat</td><td style="padding:0 10px">Familiar</td><td style="padding:0 10px">Expert</td></tr>
-          <tr><td style="padding:3px 0">Macro-development</td><td align="center"><input type="radio" name="f1"></td><td align="center"><input type="radio" name="f1"></td><td align="center"><input type="radio" name="f1"></td><td align="center"><input type="radio" name="f1"></td></tr>
-          <tr><td style="padding:3px 0">Misallocation</td><td align="center"><input type="radio" name="f2"></td><td align="center"><input type="radio" name="f2"></td><td align="center"><input type="radio" name="f2"></td><td align="center"><input type="radio" name="f2"></td></tr>
-          <tr><td style="padding:3px 0">Development accounting</td><td align="center"><input type="radio" name="f3"></td><td align="center"><input type="radio" name="f3"></td><td align="center"><input type="radio" name="f3"></td><td align="center"><input type="radio" name="f3"></td></tr>
-        </table>
-      </div>
-      <div class="nav"><button class="btn" onclick="go(3)">&laquo; Back</button><button class="btn next" onclick="go(5)">Submit &raquo;</button></div>
+      <div class="qtext"><p>What factors do you think are responsible for the labor productivity difference between U.S. and Indian manufacturing firms? Divide 100% across the factors below.</p></div>
+      <table class="factors">
+        <tr><td>Physical capital</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Human capital (education)</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Human capital (experience)</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Management practices</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Misallocation</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Innovation and R&amp;D</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Other <input type="text" class="otherbox" placeholder="please specify"></td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+      </table>
+      <div class="total" style="max-width:560px">Total: <b id="ftot" style="color:#b00">0%</b> &nbsp;<span style="color:#777;font-size:13px">(should add to 100%)</span></div>
+      <div class="nav"><button class="btn" onclick="go(3)">&laquo; Back</button><button class="btn next" onclick="go(5)">Next &raquo;</button></div>
     </section>
 
-    <!-- 5 CLOSING -->
+    <!-- 5 BACKGROUND -->
     <section class="step" data-step="5">
+      <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
+      <div class="qtext" style="max-width:760px">
+        <p style="margin-bottom:10px">A few questions about you.</p>
+        <p class="bgq"><b>Age</b>
+          <select class="bgsel"><option></option><option>Under 20</option><option>20-29</option><option>30-39</option><option>40-49</option><option>50-64</option><option>65-70</option><option>Over 70</option></select>
+        </p>
+        <p class="bgq"><b>Position</b>
+          <select class="bgsel"><option></option><option>Faculty</option><option>Postdoc</option><option>PhD student</option><option>Master's student</option><option>Other</option></select>
+        </p>
+        <p class="bgq"><b>Highest degree in economics</b>
+          <select class="bgsel"><option></option><option>None</option><option>Bachelor's</option><option>Master's</option><option>PhD</option></select>
+        </p>
+        <p class="bgq"><b>Gender</b> &nbsp;
+          <label style="font-size:15px"><input type="radio" name="gen"> Female</label> &nbsp;
+          <label style="font-size:15px"><input type="radio" name="gen"> Male</label> &nbsp;
+          <label style="font-size:15px"><input type="radio" name="gen"> Other or prefer not to say</label>
+        </p>
+        <p class="bgq"><b>Nationality</b> <input type="text" list="countries" style="font-family:var(--sans);font-size:15px;padding:6px;margin-left:6px;width:220px" placeholder="start typing..."></p>
+        <datalist id="countries">
+          <option>Afghanistan</option><option>Albania</option><option>Algeria</option><option>Andorra</option><option>Angola</option><option>Argentina</option><option>Armenia</option><option>Australia</option><option>Austria</option><option>Azerbaijan</option><option>Bahamas</option><option>Bahrain</option><option>Bangladesh</option><option>Barbados</option><option>Belarus</option><option>Belgium</option><option>Belize</option><option>Benin</option><option>Bhutan</option><option>Bolivia</option><option>Bosnia and Herzegovina</option><option>Botswana</option><option>Brazil</option><option>Brunei</option><option>Bulgaria</option><option>Burkina Faso</option><option>Burundi</option><option>Cambodia</option><option>Cameroon</option><option>Canada</option><option>Cape Verde</option><option>Central African Republic</option><option>Chad</option><option>Chile</option><option>China</option><option>Colombia</option><option>Comoros</option><option>Congo</option><option>Costa Rica</option><option>Croatia</option><option>Cuba</option><option>Cyprus</option><option>Czech Republic</option><option>Denmark</option><option>Djibouti</option><option>Dominican Republic</option><option>Ecuador</option><option>Egypt</option><option>El Salvador</option><option>Estonia</option><option>Eswatini</option><option>Ethiopia</option><option>Fiji</option><option>Finland</option><option>France</option><option>Gabon</option><option>Gambia</option><option>Georgia</option><option>Germany</option><option>Ghana</option><option>Greece</option><option>Guatemala</option><option>Guinea</option><option>Guyana</option><option>Haiti</option><option>Honduras</option><option>Hungary</option><option>Iceland</option><option>India</option><option>Indonesia</option><option>Iran</option><option>Iraq</option><option>Ireland</option><option>Israel</option><option>Italy</option><option>Ivory Coast</option><option>Jamaica</option><option>Japan</option><option>Jordan</option><option>Kazakhstan</option><option>Kenya</option><option>Kuwait</option><option>Kyrgyzstan</option><option>Laos</option><option>Latvia</option><option>Lebanon</option><option>Lesotho</option><option>Liberia</option><option>Libya</option><option>Lithuania</option><option>Luxembourg</option><option>Madagascar</option><option>Malawi</option><option>Malaysia</option><option>Maldives</option><option>Mali</option><option>Malta</option><option>Mauritania</option><option>Mauritius</option><option>Mexico</option><option>Moldova</option><option>Monaco</option><option>Mongolia</option><option>Montenegro</option><option>Morocco</option><option>Mozambique</option><option>Myanmar</option><option>Namibia</option><option>Nepal</option><option>Netherlands</option><option>New Zealand</option><option>Nicaragua</option><option>Niger</option><option>Nigeria</option><option>North Macedonia</option><option>Norway</option><option>Oman</option><option>Pakistan</option><option>Panama</option><option>Papua New Guinea</option><option>Paraguay</option><option>Peru</option><option>Philippines</option><option>Poland</option><option>Portugal</option><option>Qatar</option><option>Romania</option><option>Russia</option><option>Rwanda</option><option>Saudi Arabia</option><option>Senegal</option><option>Serbia</option><option>Sierra Leone</option><option>Singapore</option><option>Slovakia</option><option>Slovenia</option><option>Somalia</option><option>South Africa</option><option>South Korea</option><option>Spain</option><option>Sri Lanka</option><option>Sudan</option><option>Sweden</option><option>Switzerland</option><option>Syria</option><option>Taiwan</option><option>Tajikistan</option><option>Tanzania</option><option>Thailand</option><option>Togo</option><option>Trinidad and Tobago</option><option>Tunisia</option><option>Turkey</option><option>Turkmenistan</option><option>Uganda</option><option>Ukraine</option><option>United Arab Emirates</option><option>United Kingdom</option><option>United States</option><option>Uruguay</option><option>Uzbekistan</option><option>Venezuela</option><option>Vietnam</option><option>Yemen</option><option>Zambia</option><option>Zimbabwe</option>
+        </datalist>
+      </div>
+      <div class="nav"><button class="btn" onclick="go(4)">&laquo; Back</button><button class="btn next" onclick="go(6)">Submit &raquo;</button></div>
+    </section>
+
+    <!-- 6 CLOSING -->
+    <section class="step" data-step="6">
       <h1 class="title">Thank you</h1><hr class="rule">
       <div id="emailbox">
-        <div class="qtext"><p>Your responses have been recorded. Here is a summary of your predictions:</p></div>
-        <div class="rhead">How much more productive (US/India)</div>
-        <div class="reveal-row"><span>All firms</span><b id="g1">&ndash;</b></div>
-        <div class="reveal-row"><span>Small firms (fewer than 50)</span><b id="g2">&ndash;</b></div>
-        <div class="reveal-row"><span>Large firms (50 or more)</span><b id="g3">&ndash;</b></div>
-        <p class="bgq" style="max-width:760px;margin:26px auto 4px"><b>We will share a summary of the findings once results are available.</b> Leave your email if you would like to receive it (optional).</p>
+        <div class="qtext"><p>Your responses have been recorded.</p></div>
+        <p class="bgq" style="max-width:760px;margin:20px auto 4px"><b>We will share a summary of the findings once results are available.</b> Leave your email if you would like to receive it (optional).</p>
         <div style="max-width:760px;margin:0 auto"><input class="email" type="email" placeholder="you@university.edu"> <button class="btn next" style="vertical-align:top" onclick="finish()">Submit</button></div>
       </div>
       <div id="thanksmsg" style="display:none">
@@ -154,11 +185,13 @@
 
 <script>
   function finish(){ document.getElementById('emailbox').style.display='none'; document.getElementById('thanksmsg').style.display='block'; window.scrollTo(0,0); }
+  function ftotal(){
+    var s=0; document.querySelectorAll('.fbox').forEach(function(b){ var v=parseFloat(b.value); if(!isNaN(v)) s+=v; });
+    var t=document.getElementById('ftot'); s=Math.round(s*10)/10;
+    t.textContent=s+'%'; t.style.color=(s===100)?'#1f7a4d':'#b00';
+  }
   function go(n){
     document.querySelectorAll('.step').forEach(function(s){ s.classList.toggle('active',+s.dataset.step===n); });
-    if(n===5){
-      [1,2,3].forEach(function(i){ var v=parseFloat(document.getElementById('s'+i).value); document.getElementById('g'+i).textContent=isNaN(v)?'–':v+'×'; });
-    }
     window.scrollTo(0,0);
   }
 </script>
