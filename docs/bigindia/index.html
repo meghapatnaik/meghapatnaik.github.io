@@ -77,7 +77,7 @@
       <div class="qtext">
         <p>We compare the labor productivity of manufacturing firms in the United States and India. Please give your best estimates for the short set of questions below.</p>
         <p><i>Productivity</i> is measured as value added per worker, adjusted for purchasing power (PPP) between the U.S. and India. We consider small firms to be those with fewer than 50 employees, and large firms those with 50 or more.</p>
-        <p>The survey has 4 short questions and takes about 5 minutes to complete.</p>
+        <p>The survey has a few short questions and should take about 5 minutes to complete.</p>
       </div>
       <div class="nav"><span></span><button class="btn next" onclick="go(1)">Start &nbsp;&raquo;</button></div>
     </section>
@@ -124,17 +124,16 @@
     <!-- 4 FACTORS (constant sum to 100) -->
     <section class="step" data-step="4">
       <h1 class="title">Manufacturing Productivity: U.S. vs. India</h1><hr class="rule">
-      <div class="qtext"><p>What factors do you think are responsible for the labor productivity difference between U.S. and Indian manufacturing firms? Divide 100% across the factors below.</p></div>
+      <div class="qtext"><p>What factors do you think are responsible for the productivity differences between U.S. and Indian manufacturing firms? Divide 100% across the factors below.</p></div>
       <table class="factors">
-        <tr><td>Capital</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
-        <tr><td>Education</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
-        <tr><td>Work experience</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
-        <tr><td>Management</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
-        <tr><td>Misallocation</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Physical capital</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Human capital</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
         <tr><td>Innovation and R&amp;D</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
+        <tr><td>Misallocation</td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
         <tr><td>Other <input type="text" class="otherbox" placeholder="please specify"></td><td><input type="number" class="fbox" min="0" max="100" step="any" oninput="ftotal()">%</td></tr>
       </table>
       <div class="total" style="max-width:560px">Total: <b id="ftot" style="color:#b00">0%</b> &nbsp;<span style="color:#777;font-size:13px">(should add to 100%)</span></div>
+      <p class="defnote"><i>Human capital</i> includes worker education, worker experience, and management quality.<br><i>Misallocation</i> refers to misallocation of inputs across firms due to market imperfections and government policies.</p>
       <div class="nav"><button class="btn" onclick="go(3)">&laquo; Back</button><button class="btn next" onclick="go(5)">Next &raquo;</button></div>
     </section>
 
@@ -151,11 +150,6 @@
         </p>
         <p class="bgq"><b>Highest degree in economics</b>
           <select class="bgsel"><option></option><option>None</option><option>Bachelor's</option><option>Master's</option><option>PhD</option></select>
-        </p>
-        <p class="bgq"><b>Gender</b> &nbsp;
-          <label style="font-size:15px"><input type="radio" name="gen"> Female</label> &nbsp;
-          <label style="font-size:15px"><input type="radio" name="gen"> Male</label> &nbsp;
-          <label style="font-size:15px"><input type="radio" name="gen"> Other or prefer not to say</label>
         </p>
         <p class="bgq"><b>Nationality</b> <input type="text" list="countries" style="font-family:var(--sans);font-size:15px;padding:6px;margin-left:6px;width:220px" placeholder="start typing..."></p>
         <datalist id="countries">
