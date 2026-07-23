@@ -92,17 +92,15 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 3. "Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme". Under Review.
 4. "Services Across Borders: How Firms Organize Remote Work at Scale". Submitted.
 5. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
-7. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
-8. "Management in India", with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
-9. "Management and Remote Work", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
-10. "Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply", with Sara Casella & Kieran Larkin.
-11. "Tax, Lies and Red Tape"
-12. "Family Succession in Firms: Evidence from Italy", with Alessandra Allocca & Fabiano Schivardi.
-13. "Copyright and Optimal Fair Use", with Tanay Raj Bhatt.
-14. "The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data", with Christos Makridis.
-15. "Carbon Misallocation"
-16. "Family Capital", with Daniela Scur & Fabiano Schivardi.
-17. "Who speaks for the poor?", with Yashaswini Shekhawat & Jeff Hammer.
+6. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
+7. "Management in India", with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
+8. "Management and Remote Work", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
+9. "Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply", with Sara Casella & Kieran Larkin.
+10. "Tax, Lies and Red Tape"
+11. "Copyright and Optimal Fair Use", with Tanay Raj Bhatt.
+12. "The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data", with Christos Makridis.
+13. "Carbon Misallocation"
+14. "Who speaks for the poor?", with Yashaswini Shekhawat & Jeff Hammer.
 
 ## Policy Papers and Reviews
 
