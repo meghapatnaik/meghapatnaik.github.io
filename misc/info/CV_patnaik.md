@@ -101,6 +101,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 12. "The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data", with Christos Makridis.
 13. "Carbon Misallocation"
 14. "Who speaks for the poor?", with Yashaswini Shekhawat & Jeff Hammer.
+15. "Does Bankruptcy Reform Discipline Firms? Ex-Ante Effects of India's Insolvency and Bankruptcy Code", with Kaushalendra Kishore.
 
 ## Policy Papers and Reviews
 
