@@ -194,6 +194,7 @@ In advanced economies, firms respond to rising import competition through innova
 <div class="abstract-content" id="abs-mgmt-innov" style="max-height: 0px;">
 How do management practices shape product innovation? While a large literature shows that better-managed firms are more productive, we show that the channel runs through product selection, not experimentation. Using a novel survey of 2,371 Indian manufacturing firms linked to administrative product data and patent records, we find that better-managed firms maintain 24% larger product portfolios and derive 4–5 times more sales from genuinely new products than from imitation. In administrative data, creation rates are flat across management quartiles—but revenue per new product is 37% higher (p = 0.001). We rationalize these findings with a multi-product Jovanovic learning model where management is signal precision: better-managed firms screen product ideas more effectively before launch, selecting better rather than selecting more.
 </div>
+*Presentations: Italian Macro with Micro Data Workshop, University of Naples Federico II (2026).*
 
 **Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries**\
 (with Michał Pilc & Beata Woźniak-Jęchorek)\
