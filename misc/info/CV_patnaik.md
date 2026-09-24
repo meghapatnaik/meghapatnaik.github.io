@@ -11,8 +11,8 @@ header-includes:
   - \pagestyle{fancy}
   - \fancyhf{}
   - \renewcommand{\headrulewidth}{0pt}
-  - \rhead{April 2026}
-  - \fancypagestyle{plain}{\fancyhf{}\rhead{April 2026}}
+  - \rhead{September 2026}
+  - \fancypagestyle{plain}{\fancyhf{}\rhead{September 2026}}
   - \setlength{\parindent}{0pt}
 ---
 
