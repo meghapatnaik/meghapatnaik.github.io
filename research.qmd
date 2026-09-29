@@ -108,13 +108,6 @@ Many evaluations measure a firm's exposure to a reform from its balance sheet be
 
 ## Work in Progress
 
-**Services Across Borders: How Firms Organize Remote Work at Scale**\
-<button class="abstract-toggle" data-abstract-id="abs-gcc">▷ Abstract</button> [CEPR Discussion Paper](research/services_across_borders.pdf)
-<div class="abstract-content" id="abs-gcc" style="max-height: 0px;">
-Remote work has transformed the globalization of services, moving beyond arm's-length trade toward complex within-firm reorganization. Over the past two decades, multinational firms have increasingly established Global Capability Centers (GCCs)—large captive offshore service units through which knowledge-intensive tasks are performed at scale. We develop a model of heterogeneous service firms in which the scale and organization of remote work are endogenous choices. Adapting the logic of Helpman, Melitz, and Yeaple (2004) to the services context, firms trade off the variable cost savings of remote labor against the fixed costs of coordination and organizational capacity. Moderately productive firms reorganize through partial outsourcing, while only the most productive firms exceed a unique adoption threshold and establish GCCs, which offer the lowest variable costs but require the highest fixed investments. A general equilibrium extension characterizes a "self-limiting expansion" mechanism: the growth of large-scale remote work raises offshore labor demand and wages, endogenously tightening the productivity requirements for further adoption. The paper provides a unified framework connecting remote work to theories of multinational firms and positions GCCs as the services analogue of horizontal foreign direct investment.
-</div>
-*Presentations: CEPR Paris Symposium (planned).*
-
 **Big India vs. Big U.S.**\
 (with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow)\
 <button class="abstract-toggle" data-abstract-id="abs-bigindia">▷ Abstract</button> [Slides](research/bigindia_vs_bigus.pdf)
@@ -156,20 +149,6 @@ Family firms are the dominant form of ownership worldwide, yet surprisingly litt
 </div>
 *Funding: European Research Council\*.*
 
-**How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**\
-<button class="abstract-toggle" data-abstract-id="abs-patasi">▷ Abstract</button> [Slides](research/small_is_clean_slides.pdf)
-<div class="abstract-content" id="abs-patasi" style="max-height: 0px;">
-What margins do firms use to comply with environmental regulation? While evidence from advanced economies suggests that market-based environmental regulation can reduce emissions without adverse real effects, I show that in a developing-country setting, firms respond by reducing scale rather than adopting new technology. Using a 26-year plant-level panel from India combined with newly digitized regulatory assignments, I study one of the largest energy efficiency programs implemented in a developing economy. The regulation reduced fuel expenditure by 9–18 percent. Firms contracted: employment fell by 5–8 percent, capital by 7 percent, and product scope declined. Physical efficiency rose through forced input reoptimization, but no technology was adopted: R&D, investment, and product upgrading were unchanged. The contraction is driven by physical capital constraints, not financial ones: old plants with non-retrofittable equipment contract most, while financial access does not help. These effects propagate through production networks to non-regulated plants in linked sectors. The findings have implications for the design of carbon markets in developing economies.
-</div>
-*Presentations: Yale Firms, Trade, and Development Conference; 8th EBRD–CEPR Research Symposium "The Frontiers of Finance in Emerging Markets" (2026).*
-
-**Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**\
-<button class="abstract-toggle" data-abstract-id="abs-esg">▷ Abstract</button>
-<div class="abstract-content" id="abs-esg" style="max-height: 0px;">
-When does institutional ownership change how firms operate? A one percentage point increase in foreign institutional ownership reduces firm energy intensity by 2.7 percent, but an identical increase in bank ownership has no effect. The difference is not ownership; it is the incentive to monitor. I exploit a setting where three types of institutional investors—foreign funds, domestic mutual funds, and banks—hold equity in the same Indian manufacturing firms under distinct regulatory mandates. A shift-share instrument identifies the causal effect of ownership; within-market variation in mandates identifies the role of incentives. Effects concentrate in margins subject to managerial discretion (energy, labor), not market-determined inputs (raw materials)—ruling out generic firm quality and supporting targeted monitoring. A direct test confirms the mechanism: when India's securities regulator (SEBI) introduces ESG stewardship requirements in 2018, domestic mutual funds—which exhibited zero effect for a decade—become significant determinants of energy intensity, with flat pre-trends.
-</div>
-*Presentations: 49th RSEP International Conference on Economics, Finance and Business, New York (planned).*
-
 **Who Controls the Technology? GVC Positioning, Contested Internalization, and Resident Technological Leadership**\
 (with Mohd Shadab Danish & Saroj Pandey)\
 <button class="abstract-toggle" data-abstract-id="abs-gvc">▷ Abstract</button>
@@ -200,6 +179,27 @@ How do management practices shape product innovation? A large literature shows t
 Remote work could narrow gender and geographical disparities in labour market participation. Yet little is known about whether women in peripheral areas value it more than those in metropolitan ones. We argue that its value reflects a woman's willingness to pay to ease the spatial constraints she faces: in peripheral municipalities, scarce local jobs and long commutes; in metropolitan areas, congestion or childcare costs. Beyond these material constraints, an identity channel may make remote work especially valuable where traditional gender norms hinder market work. We test these predictions with a conjoint experiment embedded in a Spring 2026 CAWI survey of 3,531 women aged 25–49 in France, Italy, the Netherlands, Poland, Romania, and Sweden, who evaluated hypothetical job offers that varied in remote-work intensity. Fully remote work raises the probability of choosing an offer by about 14 percentage points relative to fully on-site work, yet average preferences do not differ significantly between metropolitan and peripheral municipalities—consistent with distinct constraints of comparable magnitude. Heterogeneity instead emerges within peripheral areas: women with above-basic digital skills, unstable household income, or traditional family attitudes prefer fully remote work more than metropolitan counterparts. That these gaps arise only for fully remote jobs supports the identity channel.
 </div>
 *Presentations: IAB Colloquium, Institute for Employment Research\* (2026).*
+
+**Services Across Borders: How Firms Organize Remote Work at Scale**\
+<button class="abstract-toggle" data-abstract-id="abs-gcc">▷ Abstract</button> [CEPR Discussion Paper](research/services_across_borders.pdf)
+<div class="abstract-content" id="abs-gcc" style="max-height: 0px;">
+Remote work has transformed the globalization of services, moving beyond arm's-length trade toward complex within-firm reorganization. Over the past two decades, multinational firms have increasingly established Global Capability Centers (GCCs)—large captive offshore service units through which knowledge-intensive tasks are performed at scale. We develop a model of heterogeneous service firms in which the scale and organization of remote work are endogenous choices. Adapting the logic of Helpman, Melitz, and Yeaple (2004) to the services context, firms trade off the variable cost savings of remote labor against the fixed costs of coordination and organizational capacity. Moderately productive firms reorganize through partial outsourcing, while only the most productive firms exceed a unique adoption threshold and establish GCCs, which offer the lowest variable costs but require the highest fixed investments. A general equilibrium extension characterizes a "self-limiting expansion" mechanism: the growth of large-scale remote work raises offshore labor demand and wages, endogenously tightening the productivity requirements for further adoption. The paper provides a unified framework connecting remote work to theories of multinational firms and positions GCCs as the services analogue of horizontal foreign direct investment.
+</div>
+*Presentations: CEPR Paris Symposium (planned).*
+
+**How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**\
+<button class="abstract-toggle" data-abstract-id="abs-patasi">▷ Abstract</button> [Slides](research/small_is_clean_slides.pdf)
+<div class="abstract-content" id="abs-patasi" style="max-height: 0px;">
+What margins do firms use to comply with environmental regulation? While evidence from advanced economies suggests that market-based environmental regulation can reduce emissions without adverse real effects, I show that in a developing-country setting, firms respond by reducing scale rather than adopting new technology. Using a 26-year plant-level panel from India combined with newly digitized regulatory assignments, I study one of the largest energy efficiency programs implemented in a developing economy. The regulation reduced fuel expenditure by 9–18 percent. Firms contracted: employment fell by 5–8 percent, capital by 7 percent, and product scope declined. Physical efficiency rose through forced input reoptimization, but no technology was adopted: R&D, investment, and product upgrading were unchanged. The contraction is driven by physical capital constraints, not financial ones: old plants with non-retrofittable equipment contract most, while financial access does not help. These effects propagate through production networks to non-regulated plants in linked sectors. The findings have implications for the design of carbon markets in developing economies.
+</div>
+*Presentations: Yale Firms, Trade, and Development Conference; 8th EBRD–CEPR Research Symposium "The Frontiers of Finance in Emerging Markets" (2026).*
+
+**Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**\
+<button class="abstract-toggle" data-abstract-id="abs-esg">▷ Abstract</button>
+<div class="abstract-content" id="abs-esg" style="max-height: 0px;">
+When does institutional ownership change how firms operate? A one percentage point increase in foreign institutional ownership reduces firm energy intensity by 2.7 percent, but an identical increase in bank ownership has no effect. The difference is not ownership; it is the incentive to monitor. I exploit a setting where three types of institutional investors—foreign funds, domestic mutual funds, and banks—hold equity in the same Indian manufacturing firms under distinct regulatory mandates. A shift-share instrument identifies the causal effect of ownership; within-market variation in mandates identifies the role of incentives. Effects concentrate in margins subject to managerial discretion (energy, labor), not market-determined inputs (raw materials)—ruling out generic firm quality and supporting targeted monitoring. A direct test confirms the mechanism: when India's securities regulator (SEBI) introduces ESG stewardship requirements in 2018, domestic mutual funds—which exhibited zero effect for a decade—become significant determinants of energy intensity, with flat pre-trends.
+</div>
+*Presentations: 49th RSEP International Conference on Economics, Finance and Business, New York (planned).*
 
 **Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform**\
 *Funding: Einaudi Institute for Economics and Finance.*
