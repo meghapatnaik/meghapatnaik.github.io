@@ -90,10 +90,10 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 1. "Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform", with Aishwarya Kamboj. Under Review.
 2. "Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement". Preparing for submission.
 3. "Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme". Under Review.
-4. "Services Across Borders: How Firms Organize Remote Work at Scale". Submitted.
-5. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
-6. "Tax, Lies and Red Tape". Preparing for submission.
-7. "Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms". Preparing for submission.
+4. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
+5. "Tax, Lies and Red Tape". Preparing for submission.
+6. "Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms". Preparing for submission.
+7. "Services Across Borders: How Firms Organize Remote Work at Scale"
 8. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
 9. "Management in India", with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
 10. "Management and Remote Work", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
