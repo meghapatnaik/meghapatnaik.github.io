@@ -88,21 +88,22 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 ## Working Papers
 
 1. "Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform", with Aishwarya Kamboj. Under Review.
-2. "Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement". Under Review.
+2. "Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement". Preparing for submission.
 3. "Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme". Under Review.
 4. "Services Across Borders: How Firms Organize Remote Work at Scale". Submitted.
 5. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
-6. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
-7. "Management in India", with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
-8. "Management and Remote Work", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
-9. "Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply", with Sara Casella & Kieran Larkin.
-10. "Tax, Lies and Red Tape"
-11. "Copyright and Optimal Fair Use", with Tanay Raj Bhatt.
-12. "The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data", with Christos Makridis.
-13. "Carbon Misallocation"
-14. "How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard"
-15. "Who speaks for the poor?", with Yashaswini Shekhawat & Jeff Hammer.
-15. "Does Bankruptcy Reform Discipline Firms? Ex-Ante Effects of India's Insolvency and Bankruptcy Code", with Kaushalendra Kishore.
+6. "Tax, Lies and Red Tape". Preparing for submission.
+7. "Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms". Preparing for submission.
+8. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
+9. "Management in India", with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
+10. "Management and Remote Work", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
+11. "Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply", with Sara Casella & Kieran Larkin.
+12. "Family Succession in Firms: Evidence from Italy", with Alessandra Allocca & Fabiano Schivardi.
+13. "Copyright and Optimal Fair Use", with Tanay Raj Bhatt.
+14. "The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data", with Christos Makridis.
+15. "Carbon Misallocation"
+16. "How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard"
+17. "Who speaks for the poor?", with Yashaswini Shekhawat & Jeff Hammer.
 
 ## Policy Papers and Reviews
 
@@ -147,7 +148,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Conferences and invited seminar presentations
 
-**2026**: 8th EBRD–CEPR Research Symposium "The Frontiers of Finance in Emerging Markets"; Yale Firms, Trade, and Development Conference; Italian Macro with Micro Data Workshop, University of Naples Federico II (forthcoming)\
+**2026**: 8th EBRD–CEPR Research Symposium "The Frontiers of Finance in Emerging Markets"; Yale Firms, Trade, and Development Conference; Italian Macro with Micro Data Workshop, University of Naples Federico II (forthcoming); 49th RSEP International Conference on Economics, Finance and Business, New York (forthcoming)\
 **2025**: STEG Annual Conference and Theme Workshops, Oxford University; LMU Munich; Remote Work Conference, Stanford University; LUISS University\
 **2024**: Organizational Economics Summer Symposium, Ohlstadt; Remote Work Conference, Stanford University; Empirical Management Conference, Harvard Business School; Annual Conference on Economic Growth and Development, Indian Statistical Institute\
 **2023**: Venice Summer Institute "Decision making in firms: Big Data and Management Practices"; EARIE Rome 2023; Empirical Management Conference 9th Edition, Stanford University\
