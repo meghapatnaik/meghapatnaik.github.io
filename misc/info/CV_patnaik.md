@@ -107,11 +107,12 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Policy Papers and Reviews
 
-1. "Batting Ahead: Management, Innovation and the Future of Indian Manufacturing", with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok & Janak Nabar. *CTIER Report*, May 2024.
-2. "E-retail, Consumer Demand & the Road to Recovery", with Mohit Chawdhry. *Esya Centre Monograph*, September 2020.
-3. "Measuring India's Creative Economy" *Esya Centre Monograph*, June 2020.
-4. "Trends in Copyright Infringement and Enforcement", with Shohini Sengupta & Aishwarya Giridhar. *Esya Centre Monograph*, December 2019.
-5. "The Importance of Structured Management Practices", with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen. *MIT Sloan Management Review*, April 18, 2017.
+1. "India Beyond the Metros: Measuring the Economies of Smaller Cities". *Ideas for India*, October 6, 2026.
+2. "Batting Ahead: Management, Innovation and the Future of Indian Manufacturing", with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok & Janak Nabar. *CTIER Report*, May 2024.
+3. "E-retail, Consumer Demand & the Road to Recovery", with Mohit Chawdhry. *Esya Centre Monograph*, September 2020.
+4. "Measuring India's Creative Economy" *Esya Centre Monograph*, June 2020.
+5. "Trends in Copyright Infringement and Enforcement", with Shohini Sengupta & Aishwarya Giridhar. *Esya Centre Monograph*, December 2019.
+6. "The Importance of Structured Management Practices", with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen. *MIT Sloan Management Review*, April 18, 2017.
 
 ## Teaching
 
