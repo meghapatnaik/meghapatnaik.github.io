@@ -14,5 +14,5 @@ Megha Patnaik is an Assistant Professor in the Department of Economics & Finance
 
 She holds a Ph.D. in Economics from Stanford University, an M.Sc. in Econometrics and Mathematical Economics from the London School of Economics, and a B.Sc. in Mathematics from St. Stephen's College, University of Delhi. Her work has been published in the American Economic Review and Management Science. She is the recipient of  the Kapnick Scholarship from SIEPR, the Kauffman Dissertation Award and the LUISS teaching excellence award. 
 
-She is cofounder of [Leap insights](https://leap-insights.org/) and part of the [Network of Women in Data Science & Social Science](https://sites.google.com/view/windsnetwork).
+She is co-founder of [Leap Insights](https://leap-insights.org/), where she heads the [India Productivity Lab](https://indiaproductivitylab.org/), and part of the [Network of Women in Data Science & Social Science](https://sites.google.com/view/windsnetwork).
 Previously, she has held positions at the Indian Statistical Institute and the Esya Centre, and worked as a consultant for Intuit, Britannia, Ambit Capital and the Esya Centre.
