@@ -37,8 +37,8 @@ website:
       - text: "Media"
         href: media.qmd
 
-      - text: "LEAP"
-        href: https://leap-insights.org/
+      - text: "IPL"
+        href: https://leap-insights.org/centres/centre-for-productivity-and-growth-india-productivity-lab/
 
 format:
   html:
