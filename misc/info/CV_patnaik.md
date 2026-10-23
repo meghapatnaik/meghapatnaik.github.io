@@ -87,7 +87,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Working Papers
 
-1. "Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform", with Aishwarya Kamboj. Submitted.
+1. "Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform", with Aishwarya Kamboj. Under Review.
 2. "Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement". Preparing for submission.
 3. "Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme". Under Review.
 4. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
