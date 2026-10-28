@@ -78,7 +78,7 @@ I study the effects of bank failures and house price fluctuations on small busin
 </div>
 *Presentations: Centre for Advanced Financial Research and Learning (2019); Indian Institute of Management (Bangalore), Australian National University (Canberra), Einaudi Institute for Economics and Finance, Bank of Italy (2018); Wharton Finance Department (University of Pennsylvania), Indian School of Business (Hyderabad), Indian Institute of Management (Udaipur), Ashoka University Annual Conference (2017); Stanford University, Department of Economics (2016).*\
 *Funding: Ewing Marion Kauffman Foundation; Kapnick Foundation, Stanford Institute for Economic Policy Research.*\
-*Status: Reject and resubmit, Review of Finance.*
+*Reject and resubmit, Review of Finance.*
 
 **Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform**\
 (with Aishwarya Kamboj)\
@@ -86,14 +86,13 @@ I study the effects of bank failures and house price fluctuations on small busin
 <div class="abstract-content" id="abs-gst" style="max-height: 0px;">
 We study India's 2017 Goods and Services Tax (GST) to examine how self-enforcing tax design generates formalization cascades through supply chains. GST created incentives for formal procurement by allowing input tax credits only for purchases from registered suppliers. Using firm-level data on 12,024 firms, we find that firms at the mean pre-reform exposure to non-creditable taxes increased documented input purchases by 6 percent while reducing tax payments by 8 percent. Effects double over five years, consistent with formalization propagating sequentially upstream—a dynamic pattern that provides the first empirical evidence on the dynamics of VAT-driven formalization cascades. At the aggregate level, large firms' share of national GST collections fell from 46 to 30 percent, implying smaller enterprises entering the formal tax net. The interquartile range of effective tax rates collapsed by 72 percent, reflecting the replacement of heterogeneous cascading taxes with uniform credits.
 </div>
-*Status: Under review.*
+*Under review.*
 
 **Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement**\
 <button class="abstract-toggle" data-abstract-id="abs-green">▷ Abstract</button> [CESifo Working Paper](research/green_metal_prices.pdf)
 <div class="abstract-content" id="abs-green" style="max-height: 0px;">
 Climate commitments are expected to reshape demand for critical minerals, yet little is known about how commodity markets incorporate these expectations into prices. We show that the response depends on supply elasticity: materials with scalable supply respond differently from those with constrained supply because markets anticipate future supply adjustment in the former but persistent scarcity in the latter. Exploiting the 2015 Paris Agreement as a common climate-demand shock, we estimate these effects using daily data on eight industrial metals over 2001–2024. We find that established transition metals with relatively elastic supply (Copper, Aluminium, and Nickel) traded 25.9% lower relative to comparison metals after Paris, whereas supply-constrained Lithium rose by 103.7%. Evidence from futures curves and warehouse inventories is consistent with markets anticipating future supply expansion for established transition metals but persistent scarcity for battery materials. Our findings show that climate commitments reprice commodity markets according to supply elasticity and suggest that commodity prices reveal potential material bottlenecks of the energy transition well before physical shortages emerge.
 </div>
-*Status: Preparing for submission.*
 
 **Tax, Lies and Redtape**\
 <button class="abstract-toggle" data-abstract-id="abs-tax">▷ Abstract</button>
@@ -102,14 +101,13 @@ Tax systems in poor countries are characterized by high rates, non-transparent e
 </div>
 *Presentations: Delhi Macroeconomics Workshop, ISI Delhi (2017).*\
 *Funding: International Growth Centre; Stanford Institute for Innovation in Developing Economies.*\
-*Status: Submitted.*
+*Submitted.*
 
 **Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**\
 <button class="abstract-toggle" data-abstract-id="abs-meanrev">▷ Abstract</button>
 <div class="abstract-content" id="abs-meanrev" style="max-height: 0px;">
 Many evaluations measure a firm's exposure to a reform from its balance sheet before the reform. I show that this design can produce the signature of a treatment effect when the true effect is zero, and that standard event-study diagnostics can miss it: a transitory dip in the exposure window offsets a differential trend before the reform and adds to it after. I derive the result, confirm it by simulation, and apply the remedies to India's 2016 bankruptcy code and 2002 collateral reform: measuring exposure earlier removes several effects and, for the bankruptcy code, reveals one the standard design misses.
 </div>
-*Status: Preparing for submission.*
 
 ## Work in Progress
 
@@ -184,7 +182,6 @@ How do management practices shape product innovation? A large literature shows t
 Remote work could narrow gender and geographical disparities in labour market participation. Yet little is known about whether women in peripheral areas value it more than those in metropolitan ones. We argue that its value reflects a woman's willingness to pay to ease the spatial constraints she faces: in peripheral municipalities, scarce local jobs and long commutes; in metropolitan areas, congestion or childcare costs. Beyond these material constraints, an identity channel may make remote work especially valuable where traditional gender norms hinder market work. We test these predictions with a conjoint experiment embedded in a Spring 2026 CAWI survey of 3,531 women aged 25–49 in France, Italy, the Netherlands, Poland, Romania, and Sweden, who evaluated hypothetical job offers that varied in remote-work intensity. Fully remote work raises the probability of choosing an offer by about 14 percentage points relative to fully on-site work, yet average preferences do not differ significantly between metropolitan and peripheral municipalities—consistent with distinct constraints of comparable magnitude. Heterogeneity instead emerges within peripheral areas: women with above-basic digital skills, unstable household income, or traditional family attitudes prefer fully remote work more than metropolitan counterparts. That these gaps arise only for fully remote jobs supports the identity channel.
 </div>
 *Presentations: IAB Colloquium, Institute for Employment Research\* (2026).*\
-*Status: Preparing for submission.*
 
 **Services Across Borders: How Firms Organize Remote Work at Scale**\
 <button class="abstract-toggle" data-abstract-id="abs-gcc">▷ Abstract</button> [CEPR Discussion Paper](research/services_across_borders.pdf)
