@@ -94,7 +94,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 4. **Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries**, with Michał Pilc & Beata Woźniak-Jęchorek. Under Review.
 5. **Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement**. Preparing for submission.
 6. **Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**. Preparing for submission.
-7. **Who Controls the Technology? GVC Positioning, Contested Internalization, and Resident Technological Leadership**, with Mohd Shadab Danish. Preparing for submission.
+7. **Measuring Technological Sovereignty: Who Owns Frontier Technologies?**, with Mohd Shadab Danish. Preparing for submission.
 8. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
 9. **Services Across Borders: How Firms Organize Remote Work at Scale**
 10. **Big India vs. Big U.S.**, with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
