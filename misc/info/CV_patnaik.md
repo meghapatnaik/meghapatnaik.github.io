@@ -80,42 +80,42 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Main published and forthcoming academic papers
 
-1. "Understanding Employee Trade-Offs in Remote Work: Toward More Sustainable Workplace Design", with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston. *Journal of Strategic Information Systems*, 2026.
-2. "The international empirics of management", with Daniela Scur, John Van Reenen, Raffaella Sadun, Lucia Foster, Scott Ohlmacher et al. *Proceedings of the National Academy of Sciences*, 2024.
-2. "Management Practices and Resilience to Shocks: Evidence from COVID-19", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. *Management Science*, 2024.
-3. "Compulsory Licensing for Radio-Play of Music in India: Recent History and Economic Context" *Review of Economic Research on Copyright Issues*, 2020.
-4. "What drives differences in management practices?", with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen. *American Economic Review*, 2019.
+1. **Understanding Employee Trade-Offs in Remote Work: Toward More Sustainable Workplace Design**, with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston. *Journal of Strategic Information Systems*, 2026.
+2. **The international empirics of management**, with Daniela Scur, John Van Reenen, Raffaella Sadun, Lucia Foster, Scott Ohlmacher et al. *Proceedings of the National Academy of Sciences*, 2024.
+2. **Management Practices and Resilience to Shocks: Evidence from COVID-19**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. *Management Science*, 2024.
+3. **Compulsory Licensing for Radio-Play of Music in India: Recent History and Economic Context** *Review of Economic Research on Copyright Issues*, 2020.
+4. **What drives differences in management practices?**, with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen. *American Economic Review*, 2019.
 
 ## Working Papers
 
-1. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
-2. "Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform", with Aishwarya Kamboj. Under Review.
-3. "Tax, Lies and Red Tape". Under Review.
-4. "Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries", with Michał Pilc & Beata Woźniak-Jęchorek. Under Review.
-5. "Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement". Preparing for submission.
-6. "Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms". Preparing for submission.
-7. "Who Controls the Technology? GVC Positioning, Contested Internalization, and Resident Technological Leadership", with Mohd Shadab Danish. Preparing for submission.
-8. "Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme"
-9. "Services Across Borders: How Firms Organize Remote Work at Scale"
-10. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
-11. "Management in India", with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
-12. "Management and Remote Work", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
-13. "Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply", with Sara Casella & Kieran Larkin.
-14. "Family Succession in Firms: Evidence from Italy", with Alessandra Allocca & Fabiano Schivardi.
-15. "Copyright and Optimal Fair Use", with Tanay Raj Bhatt.
-16. "The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data", with Christos Makridis.
-17. "Carbon Misallocation"
-18. "How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard"
-19. "Who speaks for the poor?", with Yashaswini Shekhawat & Jeff Hammer.
+1. **The impact of FDIC failed bank resolutions on small business credit**. Reject and Resubmit, *Review of Finance*.
+2. **Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform**, with Aishwarya Kamboj. Under Review.
+3. **Tax, Lies and Red Tape**. Under Review.
+4. **Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries**, with Michał Pilc & Beata Woźniak-Jęchorek. Under Review.
+5. **Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement**. Preparing for submission.
+6. **Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**. Preparing for submission.
+7. **Who Controls the Technology? GVC Positioning, Contested Internalization, and Resident Technological Leadership**, with Mohd Shadab Danish. Preparing for submission.
+8. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
+9. **Services Across Borders: How Firms Organize Remote Work at Scale**
+10. **Big India vs. Big U.S.**, with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
+11. **Management in India**, with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
+12. **Management and Remote Work**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
+13. **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**, with Sara Casella & Kieran Larkin.
+14. **Family Succession in Firms: Evidence from Italy**, with Alessandra Allocca & Fabiano Schivardi.
+15. **Copyright and Optimal Fair Use**, with Tanay Raj Bhatt.
+16. **The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**, with Christos Makridis.
+17. **Carbon Misallocation**
+18. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**
+19. **Who speaks for the poor?**, with Yashaswini Shekhawat & Jeff Hammer.
 
 ## Policy Papers and Reviews
 
-1. "India Beyond the Metros: Measuring the Economies of Smaller Cities". *Ideas for India*, October 6, 2026.
-2. "Batting Ahead: Management, Innovation and the Future of Indian Manufacturing", with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok & Janak Nabar. *CTIER Report*, May 2024.
-3. "E-retail, Consumer Demand & the Road to Recovery", with Mohit Chawdhry. *Esya Centre Monograph*, September 2020.
-4. "Measuring India's Creative Economy" *Esya Centre Monograph*, June 2020.
-5. "Trends in Copyright Infringement and Enforcement", with Shohini Sengupta & Aishwarya Giridhar. *Esya Centre Monograph*, December 2019.
-6. "The Importance of Structured Management Practices", with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen. *MIT Sloan Management Review*, April 18, 2017.
+1. **India Beyond the Metros: Measuring the Economies of Smaller Cities**. *Ideas for India*, October 6, 2026.
+2. **Batting Ahead: Management, Innovation and the Future of Indian Manufacturing**, with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok & Janak Nabar. *CTIER Report*, May 2024.
+3. **E-retail, Consumer Demand & the Road to Recovery**, with Mohit Chawdhry. *Esya Centre Monograph*, September 2020.
+4. **Measuring India's Creative Economy** *Esya Centre Monograph*, June 2020.
+5. **Trends in Copyright Infringement and Enforcement**, with Shohini Sengupta & Aishwarya Giridhar. *Esya Centre Monograph*, December 2019.
+6. **The Importance of Structured Management Practices**, with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen. *MIT Sloan Management Review*, April 18, 2017.
 
 ## Teaching
 
