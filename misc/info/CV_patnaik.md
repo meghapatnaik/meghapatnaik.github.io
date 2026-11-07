@@ -92,7 +92,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 2. **Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform**, with Aishwarya Kamboj. Under Review.
 3. **Tax, Lies and Red Tape**. Under Review.
 4. **Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries**, with Michał Pilc & Beata Woźniak-Jęchorek. Under Review.
-5. **Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement**. Preparing for submission.
+5. **Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement**. Under Review.
 6. **Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**. Preparing for submission.
 7. **Measuring Technological Sovereignty: Who Owns Frontier Technologies?**, with Mohd Shadab Danish. Preparing for submission.
 8. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**

@@ -110,7 +110,7 @@ Remote work could narrow gender and geographical disparities in labour market pa
 <div class="abstract-content" id="abs-green" style="max-height: 0px;">
 Climate commitments are expected to reshape demand for critical minerals, yet little is known about how commodity markets incorporate these expectations into prices. We show that the response depends on supply elasticity: materials with scalable supply respond differently from those with constrained supply because markets anticipate future supply adjustment in the former but persistent scarcity in the latter. Exploiting the 2015 Paris Agreement as a common climate-demand shock, we estimate these effects using daily data on eight industrial metals over 2001–2024. We find that established transition metals with relatively elastic supply (Copper, Aluminium, and Nickel) traded 25.9% lower relative to comparison metals after Paris, whereas supply-constrained Lithium rose by 103.7%. Evidence from futures curves and warehouse inventories is consistent with markets anticipating future supply expansion for established transition metals but persistent scarcity for battery materials. Our findings show that climate commitments reprice commodity markets according to supply elasticity and suggest that commodity prices reveal potential material bottlenecks of the energy transition well before physical shortages emerge.
 </div>
-*Preparing for submission*
+*Under review*
 
 6\. **Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**\
 <button class="abstract-toggle" data-abstract-id="abs-meanrev">▷ Abstract</button>
