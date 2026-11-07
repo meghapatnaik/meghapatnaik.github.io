@@ -96,17 +96,18 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 6. **Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**. Preparing for submission.
 7. **Measuring Technological Sovereignty: Who Owns Frontier Technologies?**, with Mohd Shadab Danish. Preparing for submission.
 8. **Management and Remote Work**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. Preparing for submission.
-9. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
-10. **Services Across Borders: How Firms Organize Remote Work at Scale**
-11. **Big India vs. Big U.S.**, with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
-12. **Management in India**, with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
-13. **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**, with Sara Casella & Kieran Larkin.
-14. **Family Succession in Firms: Evidence from Italy**, with Alessandra Allocca & Fabiano Schivardi.
-15. **Copyright and Optimal Fair Use**, with Tanay Raj Bhatt.
-16. **The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**, with Christos Makridis.
-17. **Carbon Misallocation**
-18. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**
-19. **Who speaks for the poor?**, with Yashaswini Shekhawat & Jeff Hammer.
+9. **Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**. Preparing for submission.
+10. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
+11. **Services Across Borders: How Firms Organize Remote Work at Scale**
+12. **Big India vs. Big U.S.**, with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
+13. **Management in India**, with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
+14. **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**, with Sara Casella & Kieran Larkin.
+15. **Family Succession in Firms: Evidence from Italy**, with Alessandra Allocca & Fabiano Schivardi.
+16. **Copyright and Optimal Fair Use**, with Tanay Raj Bhatt.
+17. **The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**, with Christos Makridis.
+18. **Carbon Misallocation**
+19. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**
+20. **Who speaks for the poor?**, with Yashaswini Shekhawat & Jeff Hammer.
 
 ## Policy Papers and Reviews
 
