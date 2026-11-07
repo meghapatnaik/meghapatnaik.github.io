@@ -88,7 +88,7 @@ We study India's 2017 Goods and Services Tax (GST) to examine how self-enforcing
 *Under review*
 
 3\. **Tax, Lies and Red Tape**\
-<button class="abstract-toggle" data-abstract-id="abs-tax">▷ Abstract</button> [CEPR Discussion Paper](research/tax_lies_red_tape.pdf) [CEPR page](https://cepr.org/publications/dp22123)
+<button class="abstract-toggle" data-abstract-id="abs-tax">▷ Abstract</button> [CEPR Discussion Paper](research/tax_lies_red_tape.pdf)
 <div class="abstract-content" id="abs-tax" style="max-height: 0px;">
 Do family firms evade tax when enforcement is weak? I combine a measure of ultimate ownership in India with firm-level excise tax payments and statutory rates. Firms with greater family shareholding have lower effective tax rates. To identify differences in compliance, I use year-by-year changes in statutory rates across products. A one-percentage-point increase in the statutory rate for a firm raises the effective rate by 0.14 points for family firms versus 0.20 for other firms. When states introduce e-filing for VAT, the effective rate of family firms rises by 0.82 percentage points relative to other firms, closing half the gap.
 </div>
