@@ -144,6 +144,14 @@ When does institutional ownership change how firms operate? A one percentage poi
 </div>
 *Preparing for submission*
 
+10\. **Copyright and Optimal Fair Use**\
+(with Tanay Raj Bhatt)\
+<button class="abstract-toggle" data-abstract-id="abs-fairuse">▷ Abstract</button>
+<div class="abstract-content" id="abs-fairuse" style="max-height: 0px;">
+This paper models fair use and the presence of both original artistic and derivative works in a market where consumers substitute between the two. Artists sell their rights to a distributor who pays royalty. The distributor competes with other distributors who sell derivative works but do not pay royalty to the artist under the fair use regime. We derive the growth rate of creative works and find it to be concave in the fair use parameter. We compare the growth rate under three different price regimes: one where producers of original and derived works can both sell at monopolist competitive prices, second, where the producers of derived works cannot charge markups above marginal costs, and third, where the social planner redistributes the profits from derivative works back to artists in the form of subsidies.
+</div>
+*Preparing for submission*
+
 ## Work in Progress
 
 1\. **Big India vs. Big U.S.**\
@@ -211,21 +219,14 @@ What margins do firms use to comply with environmental regulation? While evidenc
 8\. **Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform**\
 *Funding: Einaudi Institute for Economics and Finance.*
 
-9\. **Copyright and Optimal Fair Use**\
-(with Tanay Raj Bhatt)\
-<button class="abstract-toggle" data-abstract-id="abs-fairuse">▷ Abstract</button>
-<div class="abstract-content" id="abs-fairuse" style="max-height: 0px;">
-This paper models fair use and the presence of both original artistic and derivative works in a market where consumers substitute between the two. Artists sell their rights to a distributor who pays royalty. The distributor competes with other distributors who sell derivative works but do not pay royalty to the artist under the fair use regime. We derive the growth rate of creative works and find it to be concave in the fair use parameter. We compare the growth rate under three different price regimes: one where producers of original and derived works can both sell at monopolist competitive prices, second, where the producers of derived works cannot charge markups above marginal costs, and third, where the social planner redistributes the profits from derivative works back to artists in the form of subsidies.
-</div>
-
-10\. **Legal Origins Within a Country: Evidence from Common-Law Free Zones in the UAE**\
+9\. **Legal Origins Within a Country: Evidence from Common-Law Free Zones in the UAE**\
 (with Jon Hartley)\
 <button class="abstract-toggle" data-abstract-id="abs-legal">▷ Abstract</button>
 <div class="abstract-content" id="abs-legal" style="max-height: 0px;">
 We study the effect of legal origin on firm-level outcomes using a unique natural experiment in the United Arab Emirates. The UAE mainland operates under civil law rooted in the French/Egyptian tradition, while two financial free zones—the Dubai International Financial Centre (DIFC, est. 2004) and the Abu Dhabi Global Market (ADGM, est. 2015)—operate under English common law with independent courts and regulatory frameworks. Using firm-level data from Bureau van Dijk's ORBIS database covering approximately 9,000 UAE firms, we compare firms incorporated under common law versus civil law within the same country, holding constant macroeconomic conditions, culture, and geography. We examine differences in firm size, capital structure, profitability, ownership concentration, and industry composition. Preliminary results suggest that common-law free zones attract disproportionately more financial and professional services firms, with differences in leverage and ownership structure consistent with the predictions of the legal origins literature.
 </div>
 
-11\. **The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**\
+10\. **The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**\
 (with Christos Makridis)
 
 <!--
