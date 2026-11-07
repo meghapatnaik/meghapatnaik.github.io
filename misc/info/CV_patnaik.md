@@ -88,12 +88,12 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Working Papers
 
-1. "Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform", with Aishwarya Kamboj. Under Review.
-2. "Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement". Preparing for submission.
-3. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
-4. "Tax, Lies and Red Tape". Submitted.
-5. "Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms". Preparing for submission.
-6. "Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries", with Michał Pilc & Beata Woźniak-Jęchorek. Submitted.
+1. "The impact of FDIC failed bank resolutions on small business credit". Reject and Resubmit, *Review of Finance*.
+2. "Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform", with Aishwarya Kamboj. Under Review.
+3. "Tax, Lies and Red Tape". Under Review.
+4. "Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries", with Michał Pilc & Beata Woźniak-Jęchorek. Under Review.
+5. "Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement". Preparing for submission.
+6. "Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms". Preparing for submission.
 7. "Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme"
 8. "Services Across Borders: How Firms Organize Remote Work at Scale"
 9. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
