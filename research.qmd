@@ -29,7 +29,7 @@
 
 ## Publications
 
-**Understanding Employee Trade-Offs in Remote Work: Toward More Sustainable Workplace Design**\
+**1. Understanding Employee Trade-Offs in Remote Work: Toward More Sustainable Workplace Design**\
 (with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston)\
 *Journal of Strategic Information Systems, April 2026*\
 <button class="abstract-toggle" data-abstract-id="abs-remote">▷ Abstract</button> [Paper](research/remote_work_jsis.pdf)
@@ -37,7 +37,7 @@
 Remote and hybrid work have become central to organizational life, yet questions remain about how to design arrangements that are sustainable over time. The sustainability of remote workplaces depends not only on digital infrastructures and organizational design but also on how employees evaluate trade-offs across multiple job attributes. We propose a preference-based sustainability model of remote work, rooted in employees' trade-off logic. Using a conjoint experiment with 627 full-time U.S. workers, we estimate workplace preferences across six attributes: work location, salary, expense reimbursement, schedule flexibility, supervision, and support resources. Results show employees' preferences are conditional rather than absolute. Employees strongly favor remote-heavy roles, but this preference depends on accompanying features. Workers tolerate monitoring, unchanged salaries, or modest cost burdens when granted full remote autonomy, but become less willing to make such concessions as office requirements increase. A salary premium of 15% can offset the loss of full remote work, though only in hybrid settings that remain flexible (e.g. up to three days in the office). These findings indicate employees weigh benefits and sacrifices holistically rather than evaluating attributes in isolation. For organizations seeking to bring workers back to the office, incentives beyond salary—such as flexibility, support, or cost-sharing—may play a critical role in sustaining acceptance.
 </div>
 
-**The International Empirics of Management**\
+**2. The International Empirics of Management**\
 (with Daniela Scur, Scott Ohlmacher, John Van Reenen et al.)\
 *Proceedings of the National Academy of Sciences, November 2024*\
 <button class="abstract-toggle" data-abstract-id="abs-intl-mgmt">▷ Abstract</button> [Paper](research/intl_empirics_management.pdf) [Online Appendix](https://www.pnas.org/doi/suppl/10.1073/pnas.2412205121/suppl_file/pnas.2412205121.sapp.pdf) [Replication Package](https://zenodo.org/records/13886455)
@@ -45,7 +45,7 @@ Remote and hybrid work have become central to organizational life, yet questions
 A country's national income broadly depends on the quantity and quality of workers and capital. But how well these factors are managed within and between firms may be a key determinant of a country's productivity and its GDP. Although social scientists have long studied the role of management practices in shaping business performance, their primary tool has been individual case studies. While useful for theory-building, such qualitative work is hard to scale and quantify. We present a large, scalable dataset measuring structured management practices at the business level across multiple countries. We measure practices related to performance monitoring, target-setting, and human resources. We document a set of key stylized facts, which we label "the international empirics of management". In all countries, firms with more structured practices tend to also have superior economic performance: they are larger in scale, are more profitable, have higher labor productivity and are more likely to export. This consistency was not obvious ex-ante, and being able to quantify these relationships is valuable. We also document significant variation in practices across and within countries, which is important in explaining differences in the wealth of nations. The positive relationship between firm size and structured management practices is stronger in countries with more open and free markets, suggesting that stronger competition may allow firms with more structured management practices to grow larger, thereby potentially raising aggregate national income.
 </div>
 
-**Management Practices and Resilience to Shocks: Evidence from COVID-19**\
+**3. Management Practices and Resilience to Shocks: Evidence from COVID-19**\
 (with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)\
 *Management Science, May 2024*\
 <button class="abstract-toggle" data-abstract-id="abs-covid">▷ Abstract</button> [Paper](research/management_covid.pdf) [Online Appendix](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2021.01341/suppl_file/mnsc.2021.01341.sm1.pdf) [Replication Package](https://services.informs.org/dataset/mnsc/download.php?doi=mnsc.2021.01341)
@@ -53,14 +53,14 @@ A country's national income broadly depends on the quantity and quality of worke
 We use the spread of COVID-19 in Italy, the first Western country hit by the pandemic, to investigate the role of structured management practices in responding to a large shock. We exploit a survey eliciting expected sales growth for 2020 to set up a Difference-in-Difference analysis with repeated cross-sections, leveraging the fact that the data collection began prior to the pandemic and continued throughout its spread. We find a sizable effect of such practices on firm performance: a one-standard-deviation increase in the management score increases expected sales growth by 2.3%, against an average drop of 8.3%. Results are confirmed with actual sales growth. Firms with more structured practices were more likely to implement a comprehensive set of changes, including a more intense use of remote work.
 </div>
 
-**Compulsory Licensing for Radio-play of Music in India**\
+**4. Compulsory Licensing for Radio-play of Music in India**\
 *Review of Economic Research on Copyright Issues, 2020*\
 <button class="abstract-toggle" data-abstract-id="abs-copyright">▷ Abstract</button> [Paper](research/compulsory_licensing.pdf)
 <div class="abstract-content" id="abs-copyright" style="max-height: 0px;">
 Compulsory licensing of sound recordings is practiced in different countries, though the trajectories and rationale for arriving at this framework may differ. Developing countries often introduce measures to protect "infant" industries, but policy persistence can make subsequent changes hard. In 2010, the Copyright Board of India passed an order prescribing 2% of net advertising revenues to be paid by radio stations as compulsory license fees to copyright owners, citing the infancy of the private radio industry and the lack of access to music in India. Since the original order, the private radio industry has matured in size, coverage and listenership. Access to music today is facilitated through a far-reaching radio network, as well as widespread mobile and internet usage. The original order will be reviewed in September 2020. Given the maturation of the private radio industry over the past decade, this paper recommends India transitioning to the perspective considered for countries with mature radio industries. But how can the regulator determine the fair price of music closest to that found in a competitive market? Several strategies demonstrated in the literature can be used to establish a baseline valuation, following which adjustments can be made to account for any spillovers between the two industries.
 </div>
 
-**What Drives Differences in Management Practices?**\
+**5. What Drives Differences in Management Practices?**\
 (with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen)\
 *American Economic Review, May 2019*\
 <button class="abstract-toggle" data-abstract-id="abs-aer">▷ Abstract</button> [Paper](research/us_mops.pdf) [Online Appendix](https://www.aeaweb.org/content/file?id=9540) [Replication Package](https://www.openicpsr.org/openicpsr/project/113183/version/V1/view) [MDP data](https://drive.google.com/file/d/1Q20TCarWo9sWF6am7JvEtEflkAc1zG5z/view)
@@ -70,7 +70,7 @@ Partnering with the US Census Bureau, we implement a new survey of "structured" 
 
 ## Working Papers
 
-**The Impact of FDIC Failed Bank Resolutions on Small Business Credit**\
+**1. The Impact of FDIC Failed Bank Resolutions on Small Business Credit**\
 *Reject and Resubmit, Review of Finance*\
 <button class="abstract-toggle" data-abstract-id="abs-fdic">▷ Abstract</button>
 <div class="abstract-content" id="abs-fdic" style="max-height: 0px;">
@@ -79,7 +79,7 @@ I study the effects of bank failures and house price fluctuations on small busin
 *Presentations: Centre for Advanced Financial Research and Learning (2019); Indian Institute of Management (Bangalore), Australian National University (Canberra), Einaudi Institute for Economics and Finance, Bank of Italy (2018); Wharton Finance Department (University of Pennsylvania), Indian School of Business (Hyderabad), Indian Institute of Management (Udaipur), Ashoka University Annual Conference (2017); Stanford University, Department of Economics (2016).*\
 *Funding: Ewing Marion Kauffman Foundation; Kapnick Foundation, Stanford Institute for Economic Policy Research.*
 
-**Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform**\
+**2. Self-Enforcing Tax Design and Supply Chain Formalization: Evidence from India's GST Reform**\
 (with Aishwarya Kamboj)\
 <button class="abstract-toggle" data-abstract-id="abs-gst">▷ Abstract</button> [CEPR Discussion Paper](research/gst_prowess.pdf) [Ideas for India](https://www.ideasforindia.in/topics/macroeconomics/how-the-gst-created-a-formalisation-cascade) [आइडियाज़ फ़ॉर इंडिया](https://www.ideasforindia.in/topics/macroeconomics/how-the-gst-created-a-formalisation-cascade-hindi) [The Wire](https://thewire.in/economy/how-the-gst-created-a-formalisation-cascade)
 <div class="abstract-content" id="abs-gst" style="max-height: 0px;">
@@ -87,7 +87,7 @@ We study India's 2017 Goods and Services Tax (GST) to examine how self-enforcing
 </div>
 *Under review*
 
-**Tax, Lies and Redtape**\
+**3. Tax, Lies and Redtape**\
 <button class="abstract-toggle" data-abstract-id="abs-tax">▷ Abstract</button>
 <div class="abstract-content" id="abs-tax" style="max-height: 0px;">
 Tax systems in poor countries are characterized by high rates, non-transparent exemptions and poor enforcement resource constraints on the administration resulting in poor enforcement. Such an environment allows for the possibility of tax avoidance and evasion, especially when owners of the firm have high-powered incentives and managerial control. This paper finds evidence that manufacturing firms where there is continued involvement of the founding family pay less excise tax on their sales. These firms tend to be smaller and less productive, indicating that the implicit subsidy they receive in terms of lower effective tax rates may help them survive, diverting resources away from larger, more productive firms which would have been the main determinants of output and productivity in a more transparent economic environment.
@@ -96,7 +96,7 @@ Tax systems in poor countries are characterized by high rates, non-transparent e
 *Funding: International Growth Centre; Stanford Institute for Innovation in Developing Economies.*\
 *Under review*
 
-**Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries**\
+**4. Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries**\
 (with Michał Pilc & Beata Woźniak-Jęchorek)\
 <button class="abstract-toggle" data-abstract-id="abs-remotewomen">▷ Abstract</button>
 <div class="abstract-content" id="abs-remotewomen" style="max-height: 0px;">
@@ -105,21 +105,21 @@ Remote work could narrow gender and geographical disparities in labour market pa
 *Presentations: IAB Colloquium, Institute for Employment Research\* (2026).*\
 *Under review*
 
-**Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement**\
+**5. Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement**\
 <button class="abstract-toggle" data-abstract-id="abs-green">▷ Abstract</button> [CESifo Working Paper](research/green_metal_prices.pdf)
 <div class="abstract-content" id="abs-green" style="max-height: 0px;">
 Climate commitments are expected to reshape demand for critical minerals, yet little is known about how commodity markets incorporate these expectations into prices. We show that the response depends on supply elasticity: materials with scalable supply respond differently from those with constrained supply because markets anticipate future supply adjustment in the former but persistent scarcity in the latter. Exploiting the 2015 Paris Agreement as a common climate-demand shock, we estimate these effects using daily data on eight industrial metals over 2001–2024. We find that established transition metals with relatively elastic supply (Copper, Aluminium, and Nickel) traded 25.9% lower relative to comparison metals after Paris, whereas supply-constrained Lithium rose by 103.7%. Evidence from futures curves and warehouse inventories is consistent with markets anticipating future supply expansion for established transition metals but persistent scarcity for battery materials. Our findings show that climate commitments reprice commodity markets according to supply elasticity and suggest that commodity prices reveal potential material bottlenecks of the energy transition well before physical shortages emerge.
 </div>
 *Preparing for submission*
 
-**Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**\
+**6. Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**\
 <button class="abstract-toggle" data-abstract-id="abs-meanrev">▷ Abstract</button>
 <div class="abstract-content" id="abs-meanrev" style="max-height: 0px;">
 Many evaluations measure a firm's exposure to a reform from its balance sheet before the reform. I show that this design can produce the signature of a treatment effect when the true effect is zero, and that standard event-study diagnostics can miss it: a transitory dip in the exposure window offsets a differential trend before the reform and adds to it after. I derive the result, confirm it by simulation, and apply the remedies to India's 2016 bankruptcy code and 2002 collateral reform: measuring exposure earlier removes several effects and, for the bankruptcy code, reveals one the standard design misses.
 </div>
 *Preparing for submission*
 
-**Who Controls the Technology? GVC Positioning, Contested Internalization, and Resident Technological Leadership**\
+**7. Who Controls the Technology? GVC Positioning, Contested Internalization, and Resident Technological Leadership**\
 (with Mohd Shadab Danish)\
 <button class="abstract-toggle" data-abstract-id="abs-gvc">▷ Abstract</button>
 <div class="abstract-content" id="abs-gvc" style="max-height: 0px;">
@@ -129,7 +129,7 @@ Who controls the technologies that define global competitiveness? This study exa
 
 ## Work in Progress
 
-**Big India vs. Big U.S.**\
+**1. Big India vs. Big U.S.**\
 (with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow)\
 <button class="abstract-toggle" data-abstract-id="abs-bigindia">▷ Abstract</button> [Slides](research/bigindia_vs_bigus.pdf)
 <div class="abstract-content" id="abs-bigindia" style="max-height: 0px;">
@@ -138,14 +138,14 @@ We compare large (50 or more employee) manufacturing establishments in India and
 *Presentations: STEG Annual Conference and Theme Workshops, LMU Munich (2025); Empirical Management Conference (Harvard Business School), ACEGD (Indian Statistical Institute), Organizational Economics Summer Symposium (2024).*\
 *Funding: Stanford King Center on Global Development\*; STEG Large Research Grant.*
 
-**Management in India**\
+**2. Management in India**\
 (with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar)\
 <button class="abstract-toggle" data-abstract-id="abs-mgmt-india">▷ Abstract</button>
 <div class="abstract-content" id="abs-mgmt-india" style="max-height: 0px;">
 We study how family control and professionalization shape firm performance and organization using nationwide administrative records on over 350,000 registered Indian firms spanning the 1980s to the present, including director genealogies and tenure histories. We construct firm-year measures of family presence on boards and deploy event-study designs around leadership transitions and shifts toward professional boards. Supermajority family boards are systematically smaller and less productive: revenues, profits, and exporting are lower when more than three quarters of directors are family, relative to otherwise similar firms. Dynamic estimates around patriarch exit show post-transition improvements in operating outcomes and profitability ratios. Together, the evidence maps who professionalizes, when, and with what consequences for scale, productivity, and managerial practices in Indian firms.
 </div>
 
-**Management and Remote Work**\
+**3. Management and Remote Work**\
 (with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)\
 <button class="abstract-toggle" data-abstract-id="abs-mgmt-wfh">▷ Abstract</button> [Slides](research/management_remote_work_slides.pdf)
 <div class="abstract-content" id="abs-mgmt-wfh" style="max-height: 0px;">
@@ -154,7 +154,7 @@ We examine the role of complementarity between management and remote work in exp
 *Presentations: Italian Economic Association Annual Conference\* (2026); Stanford Remote Work Conference (2024).*\
 *Funding: European Research Council\*.*
 
-**Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**\
+**4. Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**\
 (with Sara Casella & Kieran Larkin)\
 <button class="abstract-toggle" data-abstract-id="abs-female">▷ Abstract</button> [Paper](research/flexible_work_female_occupations.pdf) [Slides](research/female_hs_ls.pdf)
 <div class="abstract-content" id="abs-female" style="max-height: 0px;">
@@ -162,7 +162,7 @@ Female labor market outcomes have improved dramatically over the past half centu
 </div>
 *Presentations: Society for Economic Dynamics Annual Meeting\*, Barcelona Summer Forum\*, FAU/IAB Macro Labor Workshop\* (2026); Hoover-SIEPR Conference on Remote Work, LUISS University (2025).*
 
-**Family Succession in Firms: Evidence from Italy**\
+**5. Family Succession in Firms: Evidence from Italy**\
 (with Alessandra Allocca & Fabiano Schivardi)\
 <button class="abstract-toggle" data-abstract-id="abs-succession">▷ Abstract</button>
 <div class="abstract-content" id="abs-succession" style="max-height: 0px;">
@@ -178,7 +178,7 @@ In advanced economies, firms respond to rising import competition through innova
 </div>
 -->
 
-**Management and Innovation**\
+**6. Management and Innovation**\
 (with Claudia Nobile)\
 <button class="abstract-toggle" data-abstract-id="abs-mgmt-innov">▷ Abstract</button> [Slides](research/management_and_innovation_megha.pdf)
 <div class="abstract-content" id="abs-mgmt-innov" style="max-height: 0px;">
@@ -186,44 +186,44 @@ How do management practices shape product innovation? A large literature shows t
 </div>
 *Presentations: Italian Macro with Micro Data Workshop, University of Naples Federico II (2026).*
 
-**Services Across Borders: How Firms Organize Remote Work at Scale**\
+**7. Services Across Borders: How Firms Organize Remote Work at Scale**\
 <button class="abstract-toggle" data-abstract-id="abs-gcc">▷ Abstract</button> [CEPR Discussion Paper](research/services_across_borders.pdf)
 <div class="abstract-content" id="abs-gcc" style="max-height: 0px;">
 Remote work has transformed the globalization of services, moving beyond arm's-length trade toward complex within-firm reorganization. Over the past two decades, multinational firms have increasingly established Global Capability Centers (GCCs)—large captive offshore service units through which knowledge-intensive tasks are performed at scale. We develop a model of heterogeneous service firms in which the scale and organization of remote work are endogenous choices. Adapting the logic of Helpman, Melitz, and Yeaple (2004) to the services context, firms trade off the variable cost savings of remote labor against the fixed costs of coordination and organizational capacity. Moderately productive firms reorganize through partial outsourcing, while only the most productive firms exceed a unique adoption threshold and establish GCCs, which offer the lowest variable costs but require the highest fixed investments. A general equilibrium extension characterizes a "self-limiting expansion" mechanism: the growth of large-scale remote work raises offshore labor demand and wages, endogenously tightening the productivity requirements for further adoption. The paper provides a unified framework connecting remote work to theories of multinational firms and positions GCCs as the services analogue of horizontal foreign direct investment.
 </div>
 *Presentations: CEPR Paris Symposium (planned).*
 
-**How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**\
+**8. How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**\
 <button class="abstract-toggle" data-abstract-id="abs-patasi">▷ Abstract</button> [Slides](research/small_is_clean_slides.pdf)
 <div class="abstract-content" id="abs-patasi" style="max-height: 0px;">
 What margins do firms use to comply with environmental regulation? While evidence from advanced economies suggests that market-based environmental regulation can reduce emissions without adverse real effects, I show that in a developing-country setting, firms respond by reducing scale rather than adopting new technology. Using a 26-year plant-level panel from India combined with newly digitized regulatory assignments, I study one of the largest energy efficiency programs implemented in a developing economy. The regulation reduced fuel expenditure by 9–18 percent. Firms contracted: employment fell by 5–8 percent, capital by 7 percent, and product scope declined. Physical efficiency rose through forced input reoptimization, but no technology was adopted: R&D, investment, and product upgrading were unchanged. The contraction is driven by physical capital constraints, not financial ones: old plants with non-retrofittable equipment contract most, while financial access does not help. These effects propagate through production networks to non-regulated plants in linked sectors. The findings have implications for the design of carbon markets in developing economies.
 </div>
 *Presentations: Indian School of Business, Hyderabad, Annual Conference on Economic Growth and Development, Indian Statistical Institute, ISGH (planned); Yale Firms, Trade, and Development Conference; 8th EBRD–CEPR Research Symposium "The Frontiers of Finance in Emerging Markets" (2026).*
 
-**Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**\
+**9. Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**\
 <button class="abstract-toggle" data-abstract-id="abs-esg">▷ Abstract</button>
 <div class="abstract-content" id="abs-esg" style="max-height: 0px;">
 When does institutional ownership change how firms operate? A one percentage point increase in foreign institutional ownership reduces firm energy intensity by 2.7 percent, but an identical increase in bank ownership has no effect. The difference is not ownership; it is the incentive to monitor. I exploit a setting where three types of institutional investors—foreign funds, domestic mutual funds, and banks—hold equity in the same Indian manufacturing firms under distinct regulatory mandates. A shift-share instrument identifies the causal effect of ownership; within-market variation in mandates identifies the role of incentives. Effects concentrate in margins subject to managerial discretion (energy, labor), not market-determined inputs (raw materials)—ruling out generic firm quality and supporting targeted monitoring. A direct test confirms the mechanism: when India's securities regulator (SEBI) introduces ESG stewardship requirements in 2018, domestic mutual funds—which exhibited zero effect for a decade—become significant determinants of energy intensity, with flat pre-trends.
 </div>
 
-**Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform**\
+**10. Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform**\
 *Funding: Einaudi Institute for Economics and Finance.*
 
-**Copyright and Optimal Fair Use**\
+**11. Copyright and Optimal Fair Use**\
 (with Tanay Raj Bhatt)\
 <button class="abstract-toggle" data-abstract-id="abs-fairuse">▷ Abstract</button>
 <div class="abstract-content" id="abs-fairuse" style="max-height: 0px;">
 This paper models fair use and the presence of both original artistic and derivative works in a market where consumers substitute between the two. Artists sell their rights to a distributor who pays royalty. The distributor competes with other distributors who sell derivative works but do not pay royalty to the artist under the fair use regime. We derive the growth rate of creative works and find it to be concave in the fair use parameter. We compare the growth rate under three different price regimes: one where producers of original and derived works can both sell at monopolist competitive prices, second, where the producers of derived works cannot charge markups above marginal costs, and third, where the social planner redistributes the profits from derivative works back to artists in the form of subsidies.
 </div>
 
-**Legal Origins Within a Country: Evidence from Common-Law Free Zones in the UAE**\
+**12. Legal Origins Within a Country: Evidence from Common-Law Free Zones in the UAE**\
 (with Jon Hartley)\
 <button class="abstract-toggle" data-abstract-id="abs-legal">▷ Abstract</button>
 <div class="abstract-content" id="abs-legal" style="max-height: 0px;">
 We study the effect of legal origin on firm-level outcomes using a unique natural experiment in the United Arab Emirates. The UAE mainland operates under civil law rooted in the French/Egyptian tradition, while two financial free zones—the Dubai International Financial Centre (DIFC, est. 2004) and the Abu Dhabi Global Market (ADGM, est. 2015)—operate under English common law with independent courts and regulatory frameworks. Using firm-level data from Bureau van Dijk's ORBIS database covering approximately 9,000 UAE firms, we compare firms incorporated under common law versus civil law within the same country, holding constant macroeconomic conditions, culture, and geography. We examine differences in firm size, capital structure, profitability, ownership concentration, and industry composition. Preliminary results suggest that common-law free zones attract disproportionately more financial and professional services firms, with differences in leverage and ownership structure consistent with the predictions of the legal origins literature.
 </div>
 
-**The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**\
+**13. The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**\
 (with Christos Makridis)
 
 <!--
@@ -234,26 +234,26 @@ We study the effect of legal origin on firm-level outcomes using a unique natura
 
 ## Policy reports & reviews
 
-**The Importance of Structured Management Practices**\
+**1. The Importance of Structured Management Practices**\
 (with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen)\
 *MIT Sloan Management Review, April 18, 2017*\
 [Link](https://sloanreview.mit.edu/article/the-importance-of-structured-management-practices/)
 
-**Trends in Copyright Infringement and Enforcement**\
+**2. Trends in Copyright Infringement and Enforcement**\
 (with Shohini Sengupta & Aishwarya Giridhar)\
 *Esya Centre monograph, Dec 2019*\
 [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5dee10b8af06d83e3e65ed2b/1575882943779/Esya+Centre+-+Copyright+Infringement+and+Enforcement.pdf)
 
-**Measuring India's Creative Economy**\
+**3. Measuring India's Creative Economy**\
 *Esya Centre monograph, June 2020*\
 [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5ee8cea5acd94f5192055e99/1596006460114/Issue+003+-+Esya+-+Measuring+Indias+Creative+Economy.pdf)
 
-**E-retail, consumer demand & the road to recovery**\
+**4. E-retail, consumer demand & the road to recovery**\
 (with Mohit Chawdhry)\
 *Esya Centre monograph, Sept 2020*\
 [Link](https://static1.squarespace.com/static/5bcef7b429f2cc38df3862f5/t/5f6997b2bbcbb517defa2dc5/1600755638116/REPORT_E-Retail_Issue-004_Sept_2020.pdf)
 
-**Batting ahead: Management, innovation and the future of Indian manufacturing**\
+**5. Batting ahead: Management, innovation and the future of Indian manufacturing**\
 (with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok, Janak Nabar)\
 *CTIER report, May 2024*\
 [Link](https://www.ctier.org/pdf-event/Batting-Ahead-Management-Innovation-and-the-Future-of-Indian-Manufacturing.pdf)
