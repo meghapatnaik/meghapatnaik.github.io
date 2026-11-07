@@ -94,19 +94,19 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 4. "Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries", with Michał Pilc & Beata Woźniak-Jęchorek. Under Review.
 5. "Climate Policy Commitment and Green Metal Prices: Evidence from the Paris Agreement". Preparing for submission.
 6. "Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms". Preparing for submission.
-7. "Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme"
-8. "Services Across Borders: How Firms Organize Remote Work at Scale"
-9. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
-10. "Management in India", with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
-11. "Management and Remote Work", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
-12. "Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply", with Sara Casella & Kieran Larkin.
-13. "Family Succession in Firms: Evidence from Italy", with Alessandra Allocca & Fabiano Schivardi.
-14. "Copyright and Optimal Fair Use", with Tanay Raj Bhatt.
-15. "The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data", with Christos Makridis.
-16. "Carbon Misallocation"
-17. "How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard"
-18. "Who speaks for the poor?", with Yashaswini Shekhawat & Jeff Hammer.
-19. "Who Controls the Technology? GVC Positioning, Contested Internalization, and Resident Technological Leadership", with Mohd Shadab Danish.
+7. "Who Controls the Technology? GVC Positioning, Contested Internalization, and Resident Technological Leadership", with Mohd Shadab Danish. Preparing for submission.
+8. "Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme"
+9. "Services Across Borders: How Firms Organize Remote Work at Scale"
+10. "Big India vs. Big U.S.", with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
+11. "Management in India", with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
+12. "Management and Remote Work", with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
+13. "Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply", with Sara Casella & Kieran Larkin.
+14. "Family Succession in Firms: Evidence from Italy", with Alessandra Allocca & Fabiano Schivardi.
+15. "Copyright and Optimal Fair Use", with Tanay Raj Bhatt.
+16. "The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data", with Christos Makridis.
+17. "Carbon Misallocation"
+18. "How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard"
+19. "Who speaks for the poor?", with Yashaswini Shekhawat & Jeff Hammer.
 
 ## Policy Papers and Reviews
 
