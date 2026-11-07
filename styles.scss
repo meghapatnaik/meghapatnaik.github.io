@@ -1,10 +1,13 @@
 /*-- scss:defaults --*/
 
-@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap';
 
 $font-family: "Atkinson Hyperlegible", sans-serif;
 
 /*-- scss:rules --*/
+
+// Lux sets strong to weight 400; restore real bold (paper titles on the research page)
+strong, b { font-weight: 700; }
 
 .render-commit-push {
   padding: 0.5em 0.5em 0em 3em;
