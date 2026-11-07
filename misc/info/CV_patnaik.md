@@ -95,11 +95,11 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 5. **Supply Response in Transition Metal Prices after the Paris Agreement**. Under Review.
 6. **Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**. Preparing for submission.
 7. **Measuring Technological Sovereignty: Who Owns Frontier Technologies?**, with Mohd Shadab Danish. Preparing for submission.
-8. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
-9. **Services Across Borders: How Firms Organize Remote Work at Scale**
-10. **Big India vs. Big U.S.**, with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
-11. **Management in India**, with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
-12. **Management and Remote Work**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi.
+8. **Management and Remote Work**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. Preparing for submission.
+9. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
+10. **Services Across Borders: How Firms Organize Remote Work at Scale**
+11. **Big India vs. Big U.S.**, with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
+12. **Management in India**, with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
 13. **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**, with Sara Casella & Kieran Larkin.
 14. **Family Succession in Firms: Evidence from Italy**, with Alessandra Allocca & Fabiano Schivardi.
 15. **Copyright and Optimal Fair Use**, with Tanay Raj Bhatt.

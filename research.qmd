@@ -127,6 +127,16 @@ Technological sovereignty has become a central aim of industrial policy. But who
 </div>
 *Preparing for submission*
 
+8\. **Management and Remote Work**\
+(with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)\
+<button class="abstract-toggle" data-abstract-id="abs-mgmt-wfh">▷ Abstract</button> [Slides](research/management_remote_work_slides.pdf)
+<div class="abstract-content" id="abs-mgmt-wfh" style="max-height: 0px;">
+We examine the role of complementarity between management and remote work in explaining the heterogeneous adoption of remote work across firms in Italy during and after the COVID-19 pandemic, as well as its persistence afterward. To measure this, we exploit the exogenous variation in remote work adoption driven by the heterogeneous intensity of the lockdown across waves of COVID-19 in 2020 and across different Italian provinces. Our estimates suggest that labor productivity is hampered by the adoption of remote work in firms with less structured management practices, whereas it appears unchanged in firms adopting more structured ones. We consequently find that firms with more structured management practices sustain relatively higher remote work in the new normal.
+</div>
+*Presentations: Italian Economic Association Annual Conference\* (2026); Stanford Remote Work Conference (2024).*\
+*Funding: European Research Council\*.*\
+*Preparing for submission*
+
 ## Work in Progress
 
 1\. **Big India vs. Big U.S.**\
@@ -145,16 +155,7 @@ We compare large (50 or more employee) manufacturing establishments in India and
 We study how family control and professionalization shape firm performance and organization using nationwide administrative records on over 350,000 registered Indian firms spanning the 1980s to the present, including director genealogies and tenure histories. We construct firm-year measures of family presence on boards and deploy event-study designs around leadership transitions and shifts toward professional boards. Supermajority family boards are systematically smaller and less productive: revenues, profits, and exporting are lower when more than three quarters of directors are family, relative to otherwise similar firms. Dynamic estimates around patriarch exit show post-transition improvements in operating outcomes and profitability ratios. Together, the evidence maps who professionalizes, when, and with what consequences for scale, productivity, and managerial practices in Indian firms.
 </div>
 
-3\. **Management and Remote Work**\
-(with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi)\
-<button class="abstract-toggle" data-abstract-id="abs-mgmt-wfh">▷ Abstract</button> [Slides](research/management_remote_work_slides.pdf)
-<div class="abstract-content" id="abs-mgmt-wfh" style="max-height: 0px;">
-We examine the role of complementarity between management and remote work in explaining the heterogeneous adoption of remote work across firms in Italy during and after the COVID-19 pandemic, as well as its persistence afterward. To measure this, we exploit the exogenous variation in remote work adoption driven by the heterogeneous intensity of the lockdown across waves of COVID-19 in 2020 and across different Italian provinces. Our estimates suggest that labor productivity is hampered by the adoption of remote work in firms with less structured management practices, whereas it appears unchanged in firms adopting more structured ones. We consequently find that firms with more structured management practices sustain relatively higher remote work in the new normal.
-</div>
-*Presentations: Italian Economic Association Annual Conference\* (2026); Stanford Remote Work Conference (2024).*\
-*Funding: European Research Council\*.*
-
-4\. **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**\
+3\. **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**\
 (with Sara Casella & Kieran Larkin)\
 <button class="abstract-toggle" data-abstract-id="abs-female">▷ Abstract</button> [Paper](research/flexible_work_female_occupations.pdf) [Slides](research/female_hs_ls.pdf)
 <div class="abstract-content" id="abs-female" style="max-height: 0px;">
@@ -162,7 +163,7 @@ Female labor market outcomes have improved dramatically over the past half centu
 </div>
 *Presentations: Society for Economic Dynamics Annual Meeting\*, Barcelona Summer Forum\*, FAU/IAB Macro Labor Workshop\* (2026); Hoover-SIEPR Conference on Remote Work, LUISS University (2025).*
 
-5\. **Family Succession in Firms: Evidence from Italy**\
+4\. **Family Succession in Firms: Evidence from Italy**\
 (with Alessandra Allocca & Fabiano Schivardi)\
 <button class="abstract-toggle" data-abstract-id="abs-succession">▷ Abstract</button>
 <div class="abstract-content" id="abs-succession" style="max-height: 0px;">
@@ -178,7 +179,7 @@ In advanced economies, firms respond to rising import competition through innova
 </div>
 -->
 
-6\. **Management and Innovation**\
+5\. **Management and Innovation**\
 (with Claudia Nobile)\
 <button class="abstract-toggle" data-abstract-id="abs-mgmt-innov">▷ Abstract</button> [Slides](research/management_and_innovation_megha.pdf)
 <div class="abstract-content" id="abs-mgmt-innov" style="max-height: 0px;">
@@ -186,44 +187,44 @@ How do management practices shape product innovation? A large literature shows t
 </div>
 *Presentations: Italian Macro with Micro Data Workshop, University of Naples Federico II (2026).*
 
-7\. **Services Across Borders: How Firms Organize Remote Work at Scale**\
+6\. **Services Across Borders: How Firms Organize Remote Work at Scale**\
 <button class="abstract-toggle" data-abstract-id="abs-gcc">▷ Abstract</button> [CEPR Discussion Paper](research/services_across_borders.pdf)
 <div class="abstract-content" id="abs-gcc" style="max-height: 0px;">
 Remote work has transformed the globalization of services, moving beyond arm's-length trade toward complex within-firm reorganization. Over the past two decades, multinational firms have increasingly established Global Capability Centers (GCCs)—large captive offshore service units through which knowledge-intensive tasks are performed at scale. We develop a model of heterogeneous service firms in which the scale and organization of remote work are endogenous choices. Adapting the logic of Helpman, Melitz, and Yeaple (2004) to the services context, firms trade off the variable cost savings of remote labor against the fixed costs of coordination and organizational capacity. Moderately productive firms reorganize through partial outsourcing, while only the most productive firms exceed a unique adoption threshold and establish GCCs, which offer the lowest variable costs but require the highest fixed investments. A general equilibrium extension characterizes a "self-limiting expansion" mechanism: the growth of large-scale remote work raises offshore labor demand and wages, endogenously tightening the productivity requirements for further adoption. The paper provides a unified framework connecting remote work to theories of multinational firms and positions GCCs as the services analogue of horizontal foreign direct investment.
 </div>
 *Presentations: CEPR Paris Symposium (planned).*
 
-8\. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**\
+7\. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**\
 <button class="abstract-toggle" data-abstract-id="abs-patasi">▷ Abstract</button> [Slides](research/small_is_clean_slides.pdf)
 <div class="abstract-content" id="abs-patasi" style="max-height: 0px;">
 What margins do firms use to comply with environmental regulation? While evidence from advanced economies suggests that market-based environmental regulation can reduce emissions without adverse real effects, I show that in a developing-country setting, firms respond by reducing scale rather than adopting new technology. Using a 26-year plant-level panel from India combined with newly digitized regulatory assignments, I study one of the largest energy efficiency programs implemented in a developing economy. The regulation reduced fuel expenditure by 9–18 percent. Firms contracted: employment fell by 5–8 percent, capital by 7 percent, and product scope declined. Physical efficiency rose through forced input reoptimization, but no technology was adopted: R&D, investment, and product upgrading were unchanged. The contraction is driven by physical capital constraints, not financial ones: old plants with non-retrofittable equipment contract most, while financial access does not help. These effects propagate through production networks to non-regulated plants in linked sectors. The findings have implications for the design of carbon markets in developing economies.
 </div>
 *Presentations: Indian School of Business, Hyderabad, Annual Conference on Economic Growth and Development, Indian Statistical Institute, ISGH (planned); Yale Firms, Trade, and Development Conference; 8th EBRD–CEPR Research Symposium "The Frontiers of Finance in Emerging Markets" (2026).*
 
-9\. **Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**\
+8\. **Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**\
 <button class="abstract-toggle" data-abstract-id="abs-esg">▷ Abstract</button>
 <div class="abstract-content" id="abs-esg" style="max-height: 0px;">
 When does institutional ownership change how firms operate? A one percentage point increase in foreign institutional ownership reduces firm energy intensity by 2.7 percent, but an identical increase in bank ownership has no effect. The difference is not ownership; it is the incentive to monitor. I exploit a setting where three types of institutional investors—foreign funds, domestic mutual funds, and banks—hold equity in the same Indian manufacturing firms under distinct regulatory mandates. A shift-share instrument identifies the causal effect of ownership; within-market variation in mandates identifies the role of incentives. Effects concentrate in margins subject to managerial discretion (energy, labor), not market-determined inputs (raw materials)—ruling out generic firm quality and supporting targeted monitoring. A direct test confirms the mechanism: when India's securities regulator (SEBI) introduces ESG stewardship requirements in 2018, domestic mutual funds—which exhibited zero effect for a decade—become significant determinants of energy intensity, with flat pre-trends.
 </div>
 
-10\. **Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform**\
+9\. **Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform**\
 *Funding: Einaudi Institute for Economics and Finance.*
 
-11\. **Copyright and Optimal Fair Use**\
+10\. **Copyright and Optimal Fair Use**\
 (with Tanay Raj Bhatt)\
 <button class="abstract-toggle" data-abstract-id="abs-fairuse">▷ Abstract</button>
 <div class="abstract-content" id="abs-fairuse" style="max-height: 0px;">
 This paper models fair use and the presence of both original artistic and derivative works in a market where consumers substitute between the two. Artists sell their rights to a distributor who pays royalty. The distributor competes with other distributors who sell derivative works but do not pay royalty to the artist under the fair use regime. We derive the growth rate of creative works and find it to be concave in the fair use parameter. We compare the growth rate under three different price regimes: one where producers of original and derived works can both sell at monopolist competitive prices, second, where the producers of derived works cannot charge markups above marginal costs, and third, where the social planner redistributes the profits from derivative works back to artists in the form of subsidies.
 </div>
 
-12\. **Legal Origins Within a Country: Evidence from Common-Law Free Zones in the UAE**\
+11\. **Legal Origins Within a Country: Evidence from Common-Law Free Zones in the UAE**\
 (with Jon Hartley)\
 <button class="abstract-toggle" data-abstract-id="abs-legal">▷ Abstract</button>
 <div class="abstract-content" id="abs-legal" style="max-height: 0px;">
 We study the effect of legal origin on firm-level outcomes using a unique natural experiment in the United Arab Emirates. The UAE mainland operates under civil law rooted in the French/Egyptian tradition, while two financial free zones—the Dubai International Financial Centre (DIFC, est. 2004) and the Abu Dhabi Global Market (ADGM, est. 2015)—operate under English common law with independent courts and regulatory frameworks. Using firm-level data from Bureau van Dijk's ORBIS database covering approximately 9,000 UAE firms, we compare firms incorporated under common law versus civil law within the same country, holding constant macroeconomic conditions, culture, and geography. We examine differences in firm size, capital structure, profitability, ownership concentration, and industry composition. Preliminary results suggest that common-law free zones attract disproportionately more financial and professional services firms, with differences in leverage and ownership structure consistent with the predictions of the legal origins literature.
 </div>
 
-13\. **The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**\
+12\. **The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**\
 (with Christos Makridis)
 
 <!--
