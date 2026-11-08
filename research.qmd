@@ -152,6 +152,13 @@ This paper models fair use and the presence of both original artistic and deriva
 </div>
 *Preparing for submission*
 
+11\. **Does Bankruptcy Reform Discipline Firms? Ex-Ante Effects of India's Insolvency and Bankruptcy Code**\
+<button class="abstract-toggle" data-abstract-id="abs-ibc">▷ Abstract</button>
+<div class="abstract-content" id="abs-ibc" style="max-height: 0px;">
+Can bankruptcy reform change firm behaviour even among firms that never enter bankruptcy? I study India's Insolvency and Bankruptcy Code (IBC), enacted in 2016, which created a credible threat that defaulting promoters would lose control of their firms. Using a panel of 32,494 private Indian firms from the CMIE Prowess database over FY2010–2025, I find that firms with high pre-IBC leverage cut investment by 1.6 percentage points and improved return on assets by 3.6 percentage points relative to low-leverage firms after the reform. The baseline leverage coefficient is not significant due to mean reversion, but three independent corrections, firm-specific linear trends, first differences, and long differences, all recover significant deleveraging (−0.02 to −0.12). Effects intensify after Section 29A barred defaulting promoters from rebidding (November 2017) and persist during the COVID suspension of IBC filings (FY2020–21), consistent with structural behavioural change. The findings suggest that the benefits of bankruptcy reform extend far beyond resolved cases.
+</div>
+*Preparing for submission*
+
 ## Work in Progress
 
 1\. **Big India vs. Big U.S.**\
