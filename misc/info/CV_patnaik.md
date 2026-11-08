@@ -125,16 +125,16 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 | 2026 | Microeconomics (BA in PPE core, LUISS) |
 | | Behavioral Finance (Masters in MSQE elective, LUISS) |
 | 2025 | Economics from Outer Space (UG Elective, Stanford University) |
-| | Machine Learning for Finance (Masters in Finance, LUISS) |
+| | Machine Learning for Finance (Masters in Finance core, LUISS) |
 | | Microeconomics (BA in PPE core, LUISS) |
 | 2024 | Economics from Outer Space (UG Elective, Stanford University) |
-| | Machine Learning for Finance (Masters in Finance, LUISS) |
+| | Machine Learning for Finance (Masters in Finance elective, LUISS) |
 | | Microeconomics (BA in PPE core, LUISS) |
 | 2023 | Satellite Data in Julia (PhD Economics, LUISS) |
 | | Microeconomics (BA in PPE core, LUISS) |
-| | Machine Learning for Finance (Masters in Finance, LUISS) |
+| | Machine Learning for Finance (Masters in Finance elective, LUISS) |
 | 2022 | Microeconomics (BA in PPE core, LUISS) |
-| | Machine Learning for Finance (Masters in Finance, LUISS) |
+| | Machine Learning for Finance (Masters in Finance elective, LUISS) |
 | 2021 | Microeconomics (BA in PPE core, LUISS) |
 | 2020 | Statistical Learning (PhD core, LUISS) |
 | | Topics in Big data (PhD elective, LUISS) |
