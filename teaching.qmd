@@ -10,8 +10,6 @@ title: "Teaching"
 </style>
 ```
 
-I am a recipient of the 2022 LUISS Teaching Excellence Award.
-
 ::: {.teaching-table}
 | Year | Institution | Course |
 |:----|:--------------|:--------------------------------------------------------|
