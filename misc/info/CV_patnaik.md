@@ -70,7 +70,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 | 2026 | PRIN 2026 Research Grant, Italian Ministry of University and Research (MUR), "Technology Adoption under Constraint: Finance, Governance, Labour and Policy in the European AI Transition", Associated Principal Investigator and head of the LUISS unit (€251,373 to the LUISS unit; four-university project led by Nicolas Serrano-Velarde, Bocconi University) |
 | 2026 | Einaudi Institute for Economics and Finance (EIEF) Research Grant (€5,000), "Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform" |
 | 2025 | Structural Transformation and Economic Growth Large Research Grant (£60,000) |
-| 2024 | LUISS Excellence Teaching Award (2022-2023) |
+| 2024 | LUISS Teaching Excellence Award (2022) |
 | 2018 | Indian Council of Social Science Research (ICSSR) and the Japan Society for Promotion of Science (JSPS) Joint Project (Rs. 14,00,000 and JPY 2,400,000) |
 | 2015 | Kapnick Foundation scholarship at Stanford Institute for Economic Policy Research Dissertation Fellowship (stipend & tuition coverage at Stanford, final year of Ph.D.) |
 | 2015 | Kauffman Dissertation Fellowship Award, Kauffman Foundation ($15,000) |
@@ -140,7 +140,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 | 2018 | Empirical Corporate Finance, Masters elective, ISI Delhi |
 | | Global Economics, Core MBA - Indian School of Business |
 | | Introduction to Data Science - Chennai Mathematical Institute Summer School |
-| 2012 | TA for Entrepreneurship, VC & Operation of Privately-held Businesses, Stanford |
+| 2015 | TA for Entrepreneurship, VC & Operation of Privately-held Businesses, Stanford |
 
 ## Referee activities
 
