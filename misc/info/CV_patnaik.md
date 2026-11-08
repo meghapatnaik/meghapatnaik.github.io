@@ -122,6 +122,8 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 | | |
 |:---------|:------------------------------------------------------------------|
+| 2026 | Microeconomics (BA in PPE core, LUISS) |
+| | Behavioral Finance (Masters in Finance, LUISS) |
 | 2025 | Economics from Outer Space (UG Elective, Stanford University) |
 | | Machine Learning for Finance (Masters in Finance, LUISS) |
 | | Microeconomics (BA in PPE core, LUISS) |
