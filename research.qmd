@@ -159,6 +159,13 @@ Can bankruptcy reform change firm behaviour even among firms that never enter ba
 </div>
 *Preparing for submission*
 
+12\. **The Economic Profile of India's Smaller Cities: Evidence from a New Index**\
+<button class="abstract-toggle" data-abstract-id="abs-cityindex">▷ Abstract</button>
+<div class="abstract-content" id="abs-cityindex" style="max-height: 0px;">
+India publishes no measure of output for its cities. This paper builds an index of economic activity for 233 smaller Indian cities from 43 administrative and satellite indicators grouped by sector, in the way that GDP adds up value added across sectors. In the nine states whose official district GDP estimates we could obtain, which contain 143 of the cities, a 10-point higher score goes with about 30 per cent higher district GDP per head within the same state. Cities differ more in the sectoral make-up of their economies than in their overall level. Among cities with the same initial bank credit per head, higher scores go with faster credit growth over the same period, and in the districts that contain these cities, growth in night lights has preceded growth in built-up area. Individual ranks are imprecise, so the score is best used as a continuous measure.
+</div>
+*Preparing for submission*
+
 ## Work in Progress
 
 1\. **Big India vs. Big U.S.**\
