@@ -112,10 +112,10 @@ When investors expect demand for a commodity to rise, the price response should 
 </div>
 *Under review*
 
-6\. **Mean Reversion in Exposure Designs: Evidence from India's Creditor-Rights Reforms**\
+6\. **Mean Reversion in Exposure Designs: A Window-Shift Test**\
 <button class="abstract-toggle" data-abstract-id="abs-meanrev">▷ Abstract</button>
 <div class="abstract-content" id="abs-meanrev" style="max-height: 0px;">
-Many evaluations measure a firm's exposure to a reform from its balance sheet before the reform. I show that this design can produce the signature of a treatment effect when the true effect is zero, and that standard event-study diagnostics can miss it: a transitory dip in the exposure window offsets a differential trend before the reform and adds to it after. I derive the result, confirm it by simulation, and apply the remedies to India's 2016 bankruptcy code and 2002 collateral reform: measuring exposure earlier removes several effects and, for the bankruptcy code, reveals one the standard design misses.
+Exposure designs measure a policy's treatment intensity from characteristics observed in the periods before a reform. Mean reversion in these measures can mask differential pre-trends and generate spurious post-policy breaks when the window contains the reference period. I propose a window-shift test that compares exposure measured over two non-overlapping windows. Under stated assumptions the test is invariant to responses to persistent exposure, including anticipation, and the shape of its alternative is identified from the covariance structure of exposure. Monte Carlo experiments evaluate the test. Applied to the credit-crisis liquidity design of Duchin, Ozbas and Sensoy (2010) in Compustat, the test attributes the break in asset turnover to the window and leaves most of the investment response standing.
 </div>
 *Preparing for submission*
 
