@@ -11,8 +11,8 @@ header-includes:
   - \pagestyle{fancy}
   - \fancyhf{}
   - \renewcommand{\headrulewidth}{0pt}
-  - \rhead{September 2026}
-  - \fancypagestyle{plain}{\fancyhf{}\rhead{September 2026}}
+  - \rhead{November 2026}
+  - \fancypagestyle{plain}{\fancyhf{}\rhead{November 2026}}
   - \setlength{\parindent}{0pt}
 ---
 
@@ -34,7 +34,9 @@ Github page: \href{https://github.com/meghapatnaik}{https://github.com/meghapatn
 ## Current position
 
 2020-Present\
-Assistant Professor, LUISS Guido Carli, Department of Economics & Finance
+Assistant Professor, LUISS Guido Carli, Department of Economics & Finance\
+Research Affiliate, Centre for Economic Policy Research (CEPR) and CESifo\
+Co-founder, Leap Insights, and Head of the India Productivity Lab
 
 ## Education
 
@@ -51,7 +53,8 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 | 2020-Present | Research Affiliate, Centre for Economic Policy Research |
 | 2025-Present | Research Affiliate, CESifo Research Network |
 | 2022-Present | Network of Women in Data Science & Social Science |
-| 2024-Present | Cofounder and Research Director, Leap Insights |
+| 2024-Present | Co-founder, Leap Insights; Head, India Productivity Lab |
+| 2024-Present | Co-founder, AccioPix |
 | 2024 | Lecturer, Stanford University Department of Economics |
 | 2019 | Fellow, Esya Centre |
 | 2018 | Data Science Consultant, Britannia Inc. |
@@ -82,9 +85,9 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 1. **Understanding Employee Trade-Offs in Remote Work: Toward More Sustainable Workplace Design**, with Beata Wozniak-Jechorek, Amanda Sahar d'Urso & Chloe Thurston. *Journal of Strategic Information Systems*, 2026.
 2. **The international empirics of management**, with Daniela Scur, John Van Reenen, Raffaella Sadun, Lucia Foster, Scott Ohlmacher et al. *Proceedings of the National Academy of Sciences*, 2024.
-2. **Management Practices and Resilience to Shocks: Evidence from COVID-19**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. *Management Science*, 2024.
-3. **Compulsory Licensing for Radio-Play of Music in India: Recent History and Economic Context** *Review of Economic Research on Copyright Issues*, 2020.
-4. **What drives differences in management practices?**, with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen. *American Economic Review*, 2019.
+3. **Management Practices and Resilience to Shocks: Evidence from COVID-19**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. *Management Science*, 2024.
+4. **Compulsory Licensing for Radio-Play of Music in India: Recent History and Economic Context** *Review of Economic Research on Copyright Issues*, 2020.
+5. **What drives differences in management practices?**, with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen. *American Economic Review*, 2019.
 
 ## Working Papers
 
@@ -113,12 +116,32 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Policy Papers and Reviews
 
-1. **India Beyond the Metros: Measuring the Economies of Smaller Cities**. *Ideas for India*, October 6, 2026.
-2. **Batting Ahead: Management, Innovation and the Future of Indian Manufacturing**, with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok & Janak Nabar. *CTIER Report*, May 2024.
-3. **E-retail, Consumer Demand & the Road to Recovery**, with Mohit Chawdhry. *Esya Centre Monograph*, September 2020.
-4. **Measuring India's Creative Economy** *Esya Centre Monograph*, June 2020.
-5. **Trends in Copyright Infringement and Enforcement**, with Shohini Sengupta & Aishwarya Giridhar. *Esya Centre Monograph*, December 2019.
-6. **The Importance of Structured Management Practices**, with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen. *MIT Sloan Management Review*, April 18, 2017.
+1. **Batting Ahead: Management, Innovation and the Future of Indian Manufacturing**, with Mert Akan, Nick Bloom, Chaitanya Lekharaju, Pete Klenow, PJ Nishok & Janak Nabar. *CTIER Report*, May 2024.
+2. **E-retail, Consumer Demand & the Road to Recovery**, with Mohit Chawdhry. *Esya Centre Monograph*, September 2020.
+3. **Measuring India's Creative Economy** *Esya Centre Monograph*, June 2020.
+4. **Trends in Copyright Infringement and Enforcement**, with Shohini Sengupta & Aishwarya Giridhar. *Esya Centre Monograph*, December 2019.
+5. **The Importance of Structured Management Practices**, with Nick Bloom, Erik Brynjolfsson, Itay Saporta-Eksten & John Van Reenen. *MIT Sloan Management Review*, April 18, 2017.
+
+## Media and Policy Writing
+
+1. **India Beyond the Metros: Measuring the Economies of Smaller Cities**. *Ideas for India*, 6 October 2026 (English and Hindi).
+2. **How the GST Created a Formalisation Cascade**, with Aishwarya Kamboj. *Ideas for India*, 6 April 2026; *The Wire*, 7 April 2026.
+3. **Fighting COVID-19 in India**. *LUISS Open*, 11 May 2021 (English and Italian).
+4. **Management Practices Boosted Firm Performance in COVID-19 by Facilitating Remote Work: Evidence from Italy**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. *VoxEU*, 1 May 2021.
+5. **Just How Big Is India's Creative Economy?** *LiveMint*, 29 June 2020.
+6. **Poverty Beyond Data**. *The Citizen*, 23 May 2020.
+7. **Facebook-Jio Deal Has Reignited Questions on Digital Economy, Centrality of Data**. *Financial Express*, 16 May 2020.
+8. **Ride the Tech Wave**. *Daily Pioneer*, 1 November 2019.
+9. **No Vague Spaces Online**. *Daily Pioneer*, 6 September 2019.
+10. **Policy Uncertainty in Indian E-commerce**. *The Leap Blog*, 27 August 2019.
+11. **Why Women Must Work**. *Daily Pioneer*, 28 June 2019.
+12. **How India Must Fight the Battle Against Piracy**. *Business Standard*, 18 June 2019.
+13. **Management and Productivity in India**. *Ideas for India*, 15 March 2018.
+14. **'Nudging' People to Make Better Choices**. *Business Standard*, 11 October 2017.
+15. **Adding a Piece to the Productivity Puzzle: Management Practices**, with Nick Bloom, Erik Brynjolfsson, Lucia Foster, Ron Jarmin, Itay Saporta-Eksten & John Van Reenen. *VoxEU*, 17 May 2017.
+16. **What Drives Differences in Management?** *Harvard Law School Forum on Corporate Governance and Financial Regulation*, 12 May 2017.
+17. **How to Manage Those Who Manage Our Money**. *Financial Express*, 23 September 2009.
+18. **A Smart Omission of Commission**. *Financial Express*, 15 August 2009.
 
 ## Teaching
 
@@ -146,6 +169,10 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 | | Introduction to Data Science - Chennai Mathematical Institute Summer School |
 | 2015 | TA for Entrepreneurship, VC & Operation of Privately-held Businesses, Stanford |
 
+## Technical skills
+
+R, Stata, Python, Julia, SQL; satellite imagery and remote-sensing data; large firm-level and administrative datasets (CMIE Prowess, Annual Survey of Industries, U.S. Census Bureau microdata)
+
 ## Referee activities
 
 **Journals:** *American Economic Review, Quarterly Journal of Economics, Management Science, Review of Finance, Research Policy, Industrial and Corporate Change, European Journal of Operational Research, Applied Economics.*\
@@ -157,7 +184,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
 ## Conferences and invited seminar presentations
 
-**2026**: 8th EBRD–CEPR Research Symposium "The Frontiers of Finance in Emerging Markets"; Yale Firms, Trade, and Development Conference; Italian Macro with Micro Data Workshop, University of Naples Federico II; Indian School of Business, Hyderabad (forthcoming); Annual Conference on Economic Growth and Development, Indian Statistical Institute (forthcoming); ISGH (forthcoming)\
+**2026**: 8th EBRD–CEPR Research Symposium "The Frontiers of Finance in Emerging Markets"; Yale Firms, Trade, and Development Conference; Italian Macro with Micro Data Workshop, University of Naples Federico II; Indian School of Business, Hyderabad (forthcoming); Annual Conference on Economic Growth and Development, Indian Statistical Institute (forthcoming); ISGH (forthcoming); CEPR Paris Symposium (forthcoming)\
 **2025**: STEG Annual Conference and Theme Workshops, Oxford University; LMU Munich; Remote Work Conference, Stanford University; LUISS University\
 **2024**: Organizational Economics Summer Symposium, Ohlstadt; Remote Work Conference, Stanford University; Empirical Management Conference, Harvard Business School; Annual Conference on Economic Growth and Development, Indian Statistical Institute\
 **2023**: Venice Summer Institute "Decision making in firms: Big Data and Management Practices"; EARIE Rome 2023; Empirical Management Conference 9th Edition, Stanford University\
