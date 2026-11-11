@@ -40,8 +40,7 @@ Co-founder, Leap Insights, and Head of the India Productivity Lab
 
 ## Education
 
-Ph.D. in Economics, Stanford University, June 2017\
-Primary Advisor: Nick Bloom. Committee: Shai Bernstein, Isaac Sorkin, Petra Moser, Chad Jones\
+Ph.D. in Economics, Stanford University, June 2017, Primary Advisor: Nick Bloom. Committee: Chad Jones, Shai Bernstein, Isaac Sorkin, Petra Moser\
 M.Sc. in Econometrics & Mathematical Economics, London School of Economics, 2009-2011\
 B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 
