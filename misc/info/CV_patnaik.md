@@ -63,7 +63,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 | 2013-2017 | Data Scientist, Intuit Inc., Mountain View, California, USA |
 | 2013-2018 | Special Sworn Status Researcher, US Census Bureau, Maryland, USA |
 | 2013 | National Bureau of Economic Research Entrepreneurship Bootcamp (Boston, USA) |
-| 2010 | Research assistant for Prof. Jeff Hammer, Princeton University, USA |
+| 2010 | Research assistant for Prof. Jeff Hammer on a World Bank project, Princeton University, USA |
 | 2007 | Intern, Department of Economic Affairs, Ministry of Finance, Government of India |
 
 ## Grants, Scholarships and Awards
