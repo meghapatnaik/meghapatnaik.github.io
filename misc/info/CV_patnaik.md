@@ -96,8 +96,8 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 3. **Tax, Lies and Red Tape**. Under Review.
 4. **Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries**, with Michał Pilc & Beata Woźniak-Jęchorek. Under Review.
 5. **Supply Response in Transition Metal Prices after the Paris Agreement**. Under Review.
-6. **Mean Reversion in Exposure Designs: A Window-Shift Test**. Preparing for submission.
-7. **Measuring Technological Sovereignty: Who Owns Frontier Technologies?**, with Mohd Shadab Danish. Preparing for submission.
+6. **Measuring Technological Sovereignty: Who Owns Frontier Technologies?**, with Mohd Shadab Danish. Under Review.
+7. **Mean Reversion in Exposure Designs: A Window-Shift Test**. Preparing for submission.
 8. **Management and Remote Work**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. Preparing for submission.
 9. **Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**. Preparing for submission.
 10. **Copyright and Optimal Fair Use**, with Tanay Raj Bhatt. Preparing for submission.
