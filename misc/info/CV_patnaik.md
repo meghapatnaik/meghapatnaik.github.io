@@ -60,7 +60,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 | 2018 | Data Science Consultant, Britannia Inc. |
 | 2017-2018 | Strategy consultant, Ambit Capital |
 | 2012-2017 | Research Assistant for Nick Bloom, Department of Economics, Stanford University |
-| 2013-2017 | Data Scientist, Intuit Inc., Mountain View, California, USA: machine learning on small-business administrative data; worked on developing the public Intuit Small Business Index; named inventor on two software patent applications |
+| 2013-2017 | Data Scientist, Intuit Inc., Mountain View, California, USA: machine learning on transactions-level data on small businesses; worked on developing the public Intuit Small Business Index; named inventor on two software patent applications |
 | 2013-2018 | Special Sworn Status Researcher, US Census Bureau, Maryland, USA |
 | 2013 | National Bureau of Economic Research Entrepreneurship Bootcamp (Boston, USA) |
 | 2010 | Research assistant for Prof. Jeff Hammer on a World Bank project, Princeton University, USA |
