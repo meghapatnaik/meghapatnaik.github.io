@@ -113,7 +113,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 20. **Carbon Misallocation**
 21. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**
 22. **Who speaks for the poor?**, with Yashaswini Shekhawat & Jeff Hammer.
-23. **Exported Displacement? Generative AI and India's Services-Led Growth**
+23. **Generative AI and India's Services-Led Growth**
 
 ## Policy Papers and Reviews
 

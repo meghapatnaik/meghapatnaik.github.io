@@ -233,7 +233,7 @@ What margins do firms use to comply with environmental regulation? While evidenc
 8\. **Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform**\
 *Funding: Einaudi Institute for Economics and Finance.*
 
-9\. **Exported Displacement? Generative AI and India's Services-Led Growth**\
+9\. **Generative AI and India's Services-Led Growth**\
 <button class="abstract-toggle" data-abstract-id="abs-aiexport">▷ Abstract</button>
 <div class="abstract-content" id="abs-aiexport" style="max-height: 0px;">
 India's growth since 1991 has rested on exporting cognitive services: IT, business-process work and the global capability centers that multinationals run in India. Generative AI performs many of these tasks. This paper measures which Indian workers are exposed to AI using nationally representative household data adjusted for Indian task content, tests for early effects on hiring in export-oriented occupations since the release of ChatGPT, and asks how much of AI's cost savings on exported services stays in India rather than going to foreign buyers.
