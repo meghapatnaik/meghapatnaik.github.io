@@ -109,7 +109,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 16. **Management in India**, with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
 17. **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**, with Sara Casella & Kieran Larkin.
 18. **Family Succession in Firms: Evidence from Italy**, with Alessandra Allocca & Fabiano Schivardi.
-19. **The Local Footprint of Million Dollar Plants: Evidence from Three Decades of Satellite Data**, with Christos Makridis.
+19. **The Winner's Curse in Bidding for Million Dollar Plants**, with Christos Makridis.
 20. **Carbon Misallocation**
 21. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**
 22. **Who speaks for the poor?**, with Yashaswini Shekhawat & Jeff Hammer.
