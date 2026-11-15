@@ -233,14 +233,20 @@ What margins do firms use to comply with environmental regulation? While evidenc
 8\. **Mandatory Sustainability Disclosure and Firm Behavior: Evidence from India's BRSR Reform**\
 *Funding: Einaudi Institute for Economics and Finance.*
 
-9\. **Legal Origins Within a Country: Evidence from Common-Law Free Zones in the UAE**\
+9\. **Exported Displacement? Generative AI and India's Services-Led Growth**\
+<button class="abstract-toggle" data-abstract-id="abs-aiexport">▷ Abstract</button>
+<div class="abstract-content" id="abs-aiexport" style="max-height: 0px;">
+India's growth since 1991 has rested on exporting cognitive services: IT, business-process work and the global capability centers that multinationals run in India. Generative AI performs many of these tasks. This paper measures which Indian workers are exposed to AI using nationally representative household data adjusted for Indian task content, tests for early effects on hiring in export-oriented occupations since the release of ChatGPT, and asks how much of AI's cost savings on exported services stays in India rather than going to foreign buyers.
+</div>
+
+10\. **Legal Origins Within a Country: Evidence from Common-Law Free Zones in the UAE**\
 (with Jon Hartley)\
 <button class="abstract-toggle" data-abstract-id="abs-legal">▷ Abstract</button>
 <div class="abstract-content" id="abs-legal" style="max-height: 0px;">
 We study the effect of legal origin on firm-level outcomes using a unique natural experiment in the United Arab Emirates. The UAE mainland operates under civil law rooted in the French/Egyptian tradition, while two financial free zones—the Dubai International Financial Centre (DIFC, est. 2004) and the Abu Dhabi Global Market (ADGM, est. 2015)—operate under English common law with independent courts and regulatory frameworks. Using firm-level data from Bureau van Dijk's ORBIS database covering approximately 9,000 UAE firms, we compare firms incorporated under common law versus civil law within the same country, holding constant macroeconomic conditions, culture, and geography. We examine differences in firm size, capital structure, profitability, ownership concentration, and industry composition. Preliminary results suggest that common-law free zones attract disproportionately more financial and professional services firms, with differences in leverage and ownership structure consistent with the predictions of the legal origins literature.
 </div>
 
-10\. **The Winner's Curse in Bidding for Million Dollar Plants**\
+11\. **The Winner's Curse in Bidding for Million Dollar Plants**\
 (with Christos Makridis)\
 <button class="abstract-toggle" data-abstract-id="abs-mdp">▷ Abstract</button>
 <div class="abstract-content" id="abs-mdp" style="max-height: 0px;">
