@@ -103,17 +103,18 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 10. **Copyright and Optimal Fair Use**, with Tanay Raj Bhatt. Preparing for submission.
 11. **Does Bankruptcy Reform Discipline Firms? Ex-Ante Effects of India's Insolvency and Bankruptcy Code**. Preparing for submission.
 12. **The Economic Profile of India's Smaller Cities: Evidence from a New Index**. Preparing for submission.
-13. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
-14. **Services Across Borders: How Firms Organize Remote Work at Scale**
-15. **Big India vs. Big U.S.**, with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
-16. **Management in India**, with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
-17. **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**, with Sara Casella & Kieran Larkin.
-18. **Family Succession in Firms: Evidence from Italy**, with Alessandra Allocca & Fabiano Schivardi.
-19. **The Winner's Curse in Bidding for Million Dollar Plants**, with Christos Makridis.
-20. **Carbon Misallocation**
-21. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**
-22. **Who speaks for the poor?**, with Yashaswini Shekhawat & Jeff Hammer.
-23. **Generative AI and India's Services-Led Growth**
+13. **Predicting ESG Ratings: A Comparative Analysis of Machine Learning Models on Firm Panel Data**, with João Pedro Gaier Ribeiro. Preparing for submission.
+14. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
+15. **Services Across Borders: How Firms Organize Remote Work at Scale**
+16. **Big India vs. Big U.S.**, with Mert Akan, Nick Bloom, Shelby Buckman & Pete Klenow.
+17. **Management in India**, with Mert Akan, Nick Bloom, Shelby Buckman, Pete Klenow, Ananya Kotia & Janak Nabar.
+18. **Flexible Work, Occupational Constraints, and the Dynamics of Female Labor Supply**, with Sara Casella & Kieran Larkin.
+19. **Family Succession in Firms: Evidence from Italy**, with Alessandra Allocca & Fabiano Schivardi.
+20. **The Winner's Curse in Bidding for Million Dollar Plants**, with Christos Makridis.
+21. **Carbon Misallocation**
+22. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**
+23. **Who speaks for the poor?**, with Yashaswini Shekhawat & Jeff Hammer.
+24. **Generative AI and India's Services-Led Growth**
 
 ## Policy Papers and Reviews
 

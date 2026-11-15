@@ -166,6 +166,14 @@ India publishes no measure of output for its cities. This paper builds an index 
 </div>
 *Preparing for submission*
 
+13\. **Predicting ESG Ratings: A Comparative Analysis of Machine Learning Models on Firm Panel Data**\
+(with João Pedro Gaier Ribeiro)\
+<button class="abstract-toggle" data-abstract-id="abs-esgml">▷ Abstract</button>
+<div class="abstract-content" id="abs-esgml" style="max-height: 0px;">
+Environmental, Social, and Governance (ESG) ratings are increasingly significant for investors who seek active engagement or ESG-based investing, corporate benchmarking, index constructing, and for assessing risk. We evaluate the performance of four machine learning models: Linear Mixed-Effects Model, Random Forest, XGBoost, and Support Vector Machine (SVM) in predicting ESG scores using panel data. Using a data set of 526 companies in 23 countries from 2015 to 2019, we integrate financial and qualitative attributes for ESG score prediction. The results indicate that SVM achieves the highest predictive accuracy (R² = 0.71), outperforming simpler linear models. While simple linear models can provide useful insights on the clustering of ESG scores by country, more complex algorithms are needed to capture the highly complex structure of panel data consisting of quantitative and qualitative predictors. Findings underscore the value of incorporating qualitative factors to explain ESG score variability and demonstrate the potential of advanced machine learning techniques to address the complexity of ESG datasets. These insights offer practical implications for enhancing ESG score methodologies and aligning prediction models with investor needs.
+</div>
+*Preparing for submission*
+
 ## Work in Progress
 
 1\. **Big India vs. Big U.S.**\
