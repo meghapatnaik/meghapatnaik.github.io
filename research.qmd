@@ -201,7 +201,7 @@ Female labor market outcomes have improved dramatically over the past half centu
 *Presentations: Society for Economic Dynamics Annual Meeting\*, Barcelona Summer Forum\*, FAU/IAB Macro Labor Workshop\* (2026); Hoover-SIEPR Conference on Remote Work, LUISS University (2025).*
 
 4\. **Family Succession in Firms: Evidence from Italy**\
-(with Alessandra Allocca & Fabiano Schivardi)\
+(with Alessandra Allocca, Daniela Scur & Fabiano Schivardi)\
 <button class="abstract-toggle" data-abstract-id="abs-succession">▷ Abstract</button>
 <div class="abstract-content" id="abs-succession" style="max-height: 0px;">
 Family firms are the dominant form of ownership worldwide, yet surprisingly little is known about the beliefs guiding founders' succession decisions. We conduct a novel survey of 729 founders in Italy whose firms experienced a succession between 2013 and 2023. Using a hierarchical latent Dirichlet model for categorical survey responses, we uncover two distinct founder types. Relational founders emphasize family reputation, children's aspirations, stakeholder relationships, and the preservation of family control. In contrast, Professional founders believe external managers can bring in additional skills and networks to expand firm value. Combining with administrative data on succession outcomes, we find that Relational founders are more likely to choose internal family succession. Our results suggest that the persistence of family management reflects heterogeneous beliefs about the sources of firm value, rather than institutional constraints or financial incentives alone.
