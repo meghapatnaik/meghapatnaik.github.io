@@ -97,12 +97,12 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 4. **Remote Work, Spatial Constraints, and Women's Job Preferences: Evidence from a Survey Experiment in Six European Countries**, with Michał Pilc & Beata Woźniak-Jęchorek. Under Review.
 5. **Supply Response in Transition Metal Prices after the Paris Agreement**. Under Review.
 6. **Measuring Technological Sovereignty: Who Owns Frontier Technologies?**, with Mohd Shadab Danish. Under Review.
-7. **Mean Reversion in Exposure Designs: A Window-Shift Test**. Preparing for submission.
-8. **Management and Remote Work**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. Preparing for submission.
-9. **Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**. Preparing for submission.
-10. **Copyright and Optimal Fair Use**, with Tanay Raj Bhatt. Preparing for submission.
-11. **The Economic Profile of India's Smaller Cities: Evidence from a New Index**. Preparing for submission.
-12. **Predicting ESG Ratings: A Comparative Analysis of Machine Learning Models on Firm Panel Data**, with João Pedro Gaier Ribeiro. Preparing for submission.
+7. **Management and Remote Work**, with Andrea Lamorgese, Andrea Linarello & Fabiano Schivardi. Preparing for submission.
+8. **The Economic Profile of India's Smaller Cities: Evidence from a New Index**. Preparing for submission.
+9. **Predicting ESG Ratings: A Comparative Analysis of Machine Learning Models on Firm Panel Data**, with João Pedro Gaier Ribeiro. Preparing for submission.
+10. **Mean Reversion in Exposure Designs: A Window-Shift Test**.
+11. **Investor Mandates and Corporate Governance: Evidence from ESG Monitoring in India**.
+12. **Copyright and Optimal Fair Use**, with Tanay Raj Bhatt.
 13. **Does Bankruptcy Reform Discipline Firms? Ex-Ante Effects of India's Insolvency and Bankruptcy Code**.
 14. **Intensity Targets vs. Absolute Caps: India's Carbon Credit Trading Scheme**
 15. **Services Across Borders: How Firms Organize Remote Work at Scale**
