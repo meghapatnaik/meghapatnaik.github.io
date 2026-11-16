@@ -115,6 +115,7 @@ B.Sc. in Mathematics, St. Stephen's College, University of Delhi, 2006-2009
 22. **How Firms Pay for Energy Abatement: Evidence from India's Tradable Intensity Standard**
 23. **Who speaks for the poor?**, with Yashaswini Shekhawat & Jeff Hammer.
 24. **Generative AI and India's Services-Led Growth**
+25. **Entrepreneurs or Workers Without Jobs? Subsistence Self-Employment in India's Informal Sector**
 
 ## Policy Papers and Reviews
 
